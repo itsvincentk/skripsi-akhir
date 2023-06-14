@@ -26,14 +26,14 @@ if __name__ == "__main__":
                '25_easy', '25_normal', '25_hard',
                '30_daily', '30_weekly', '40_monthly']
     seed = 180820
-    population = [20,30,40,50]
+    population = [200]
     base = 1
     punishment = [5*base, 20*base, 1*base, 100*base, 100*base, 100*base]
     epoch = [500]
     rank = [0.1]
     preproc = [True]
-    boardCount = 100
-    datasetToTest = [dataset[4]]
+    boardCount = 10
+    datasetToTest = [dataset[-4], dataset[-5], dataset[-6]]
     headers = ['Preprocessing', 'Tingkat kesulitan', 'Nomor papan', 'Nilai fitness akhir', 'Pelanggaran']
     final_result = []
     filename = f"output_{date_string}"
@@ -47,7 +47,7 @@ if __name__ == "__main__":
                             fitness = []
                             if d == dataset[-1] or d == dataset[-2] or d == dataset[-3]: boardCount = 1
                             else: boardCount = 100
-                            for i in range (boardCount):
+                            for i in range (0, 10):
                                 inventory = pc.load(open(f"Dataset/{d}.pkl", 'rb'))
                                 firstBoard = inventory[i]
                                 game = Game(seed, pop, punishment, e, r, prep)

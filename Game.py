@@ -84,7 +84,7 @@ class Game:
                 if wolf.updateFitness(self.punishment) == 0: return wolf
             if not self.checkSame(wolf.board.board): continue
             wolf.updateFitness(self.punishment)
-            print(wolf.fitness, wolf.violation)
+            #print(wolf.fitness, wolf.violation)
             res = self.secondGWO(wolf)
             if self.preproc:
                 res.board.lastPreproc()
@@ -221,7 +221,7 @@ class Game:
             for i, prob in enumerate(probabilities):
                 accumulatedProb += prob
                 if accumulatedProb >= spin:
-                    if population[i].violation[0] == 0 and population[i].violation[1] == 0 and population[i].violation[3] == 0 and population[i].violation[4] == 0 and population[i].violation[5] == 0:
+                    if population[i].violation[0] == 0 and population[i].violation[1] == 0 and population[i].violation[3] == 0 and population[i].violation[5] == 0:
                         result.append(population[i])
                     population.pop(i)
                     break
