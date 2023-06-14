@@ -1,0 +1,92 @@
+SLAVE: BLUE, YELLOW, RED, GREY, BLACK, ADMIN
+
+POPULASI
+    TRUE BLACK
+        10 & 119.51 & 117.61 & 20 \\
+        20 & 119.53 & 121.82 & 26 \\
+        30 & 118.22 & 120.21 & 29 \\
+        40 &
+        50 &
+    FALSE GREY
+        10 & 79.25 & 55.56 & 0 \\
+        20 & 66.57 & 52.68 & 2 \\
+        30 & 
+        40 &
+        50 &
+RANK 
+    TRUE 1-2 BLUE
+        0.01 &
+        0.02 &
+        0.03 &
+        0.04 &
+        0.05 &
+    FALSE
+        0.01 &
+        0.02 &
+        0.03 &
+        0.04 &
+        0.05 &
+EPOCH ADMIN
+    TRUE
+        10 &
+        20 &
+        30 &
+        40 &
+        50 &
+    FALSE
+        10 &
+        20 &
+        30 &
+        40 &
+        50 &
+PENCABUTAN HUKUMAN
+    TRUE
+        Digunakan &
+        Tidak digunakan &
+    FALSE
+        Digunakan &
+        Tidak digunakan &
+SEMUA
+    EASY 
+        TRUE
+            $7 \times 7$ &
+            $10 \times 10$ &
+            $14 \times 14$ &
+            $25 \times 25$ &
+        FALSE
+            $7 \times 7$ &
+            $10 \times 10$ &
+            $14 \times 14$ &
+            $25 \times 25$ &
+    NORMAL 
+        TRUE
+            $7 \times 7$ &
+            $10 \times 10$ &
+            $14 \times 14$ &
+            $25 \times 25$ &
+        FALSE 
+            $7 \times 7$ &
+            $10 \times 10$ &
+            $14 \times 14$ &
+            $25 \times 25$ &
+    HARD 
+        TRUE
+            $7 \times 7$ &
+            $10 \times 10$ &
+            $14 \times 14$ &
+            $25 \times 25$ &
+        FALSE 
+            $7 \times 7$ &
+            $10 \times 10$ &
+            $14 \times 14$ &
+            $25 \times 25$ &
+
+    DAILY WEEKLY MONTHLY
+        TRUE YELLOW-3, RED-2
+            $30 \times 30$ &
+            $30 \times 40$ &
+            $40 \times 50$ &
+        FALSE YELLOW-3, RED-2
+            $30 \times 30$ &
+            $30 \times 40$ &
+            $40 \times 50$ &

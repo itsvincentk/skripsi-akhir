@@ -26,14 +26,14 @@ if __name__ == "__main__":
                '25_easy', '25_normal', '25_hard',
                '30_daily', '30_weekly', '40_monthly']
     seed = 180820
-    population = [200]
+    population = [20,30,40,50]
     base = 1
     punishment = [5*base, 20*base, 1*base, 100*base, 100*base, 100*base]
     epoch = [500]
     rank = [0.1]
     preproc = [True]
     boardCount = 100
-    datasetToTest = [dataset[10], dataset[11]]
+    datasetToTest = [dataset[4]]
     headers = ['Preprocessing', 'Tingkat kesulitan', 'Nomor papan', 'Nilai fitness akhir', 'Pelanggaran']
     final_result = []
     filename = f"output_{date_string}"
@@ -61,6 +61,7 @@ if __name__ == "__main__":
                                 print(d, i, ans.fitness, ans.violation)
                             avg = sum(fitness) / boardCount
                             std_dev = statistics.stdev(fitness)
+                            print (sum(fitness))
                             print(f"{d}-{punishment}-{pop}-{e}-{r}-{prep}: avg = {avg:.4f} | std = {std_dev} | selesai = {jumlahPapanSelesai}/{boardCount}\n")
                             f.write(f"{d}-{punishment}-{pop}-{e}-{r}-{prep}: avg = {avg:.4f} | std = {std_dev} | selesai = {jumlahPapanSelesai}/{boardCount}\n")
     f.close()

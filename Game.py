@@ -99,7 +99,10 @@ class Game:
         population = []
         self.board.findBlackPosition()
         randomBlack = self.board.getRandomBlack()
-        if len(randomBlack) == 0: return [Wolf(self.board)]
+        if len(randomBlack) == 0: 
+            wolf = Wolf(self.board)
+            wolf.updateFitness(self.punishment)
+            return [wolf]
         max = 2**31 - 1
         best = ''
         for _ in range (self.population): population.append(Wolf(copy.deepcopy(self.board)))
@@ -193,7 +196,7 @@ class Game:
                 newPosition = np.where(newPosition < 0, -newPosition, newPosition)
                 newPosition = np.round(newPosition).astype(int)
                 newPosition %= 2
-                wolf.updateWhitePosition(initPosition)
+                wolf.updateWhitePosition(newPosition)
                 wolf.updateFitness(self.punishment)
                 if wolf.fitness < max:
                     if wolf.fitness == 0: return wolf
@@ -237,7 +240,7 @@ class Game:
         self.tempBoard = copy.deepcopy(board)
 
     def checkSame (self, board):
-        if self.tempBoard2 == None:
+        if self.tempBoard2 is None:
             self.tempBoard2 = copy.deepcopy(board)
             return True
         for rowTemp, rowBoard in zip(self.tempBoard2, board):
@@ -247,3 +250,4 @@ class Game:
                     return True
         self.tempBoard2 = copy.deepcopy(board)
         return False
+    
