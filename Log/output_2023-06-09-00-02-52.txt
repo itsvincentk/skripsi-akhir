@@ -1,0 +1,21 @@
+mencoba tingkat kesulitan 7_easy papan ke-0
+7
+7
+W W W F 0 F W 
+W A W W F 1 W 
+1 W W W W W W 
+W W W 2 W W W 
+W W W W W F A 
+W 1 F W F 0 F 
+W F 0 F W F W 
+
+preproc 1 selesai
+L B L L 0 L B 
+B A L B L 1 L 
+1 L L L L B L 
+L L B 2 B L L 
+L B L L L L A 
+L 1 L B L 0 L 
+B L 0 L L L B 
+
+first gwo selesai

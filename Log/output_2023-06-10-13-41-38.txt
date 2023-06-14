@@ -1,0 +1,3846 @@
+mencoba tingkat kesulitan 7_normal papan ke-0
+7
+7
+W W W W W W W 
+W A W W 2 2 W 
+W 1 W W W W W 
+W W W 3 W W W 
+W F W W W A W 
+F 0 A W F 0 F 
+W F W W W F W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L L L L B L L 
+L A L B 2 2 B 
+B 1 L L L B L 
+L L B 3 B L L 
+L L L B L A L 
+L 0 A L L 0 L 
+L L B L L L L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-1
+7
+7
+W W W W W W W 
+W W A 2 W W W 
+W W W W W 2 W 
+W A W W F 0 F 
+F 0 F F W F W 
+W F F 0 1 W W 
+W W W F W W W 
+
+L L L B L L L 
+W W A 2 L B L 
+L L L B L 2 B 
+W A W L F 0 L 
+F 0 F L W F L 
+W F F 0 1 W L 
+L L L L B L L 
+
+[0, 0, 13, 0, 0, 0]
+L L L B L L L 
+W W A 2 L B L 
+L L L B L 2 B 
+W A W L F 0 L 
+F 0 F L W F L 
+W F F 0 1 W L 
+L L L L B L L 
+
+[0, 0, 13, 0, 0, 0]
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3
+L L L B L L L 
+L B A 2 L B L 
+L L L B L 2 B 
+L A B L L 0 L 
+L 0 L L F F L 
+B L L 0 1 F L 
+L L L L B L L 
+
+3
+[0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_normal papan ke-2
+7
+7
+W W A W W A W 
+A W W W W W F 
+W W 1 W 2 F 0 
+W W W W W W F 
+1 W 1 W 1 W W 
+W W W W F W A 
+W 1 W F 0 F W 
+
+W L A L L A W 
+A L L L B L L 
+W L 1 B 2 L 0 
+W L W L W L F 
+1 B 1 L 1 B L 
+W L L L F L A 
+W 1 B L 0 L W 
+
+[0, 0, 11, 0, 0, 0]
+W L A L L A W 
+A L L L B L L 
+W L 1 B 2 L 0 
+W L W L W L F 
+1 B 1 L 1 B L 
+W L L L F L A 
+W 1 B L 0 L W 
+
+[0, 0, 11, 0, 0, 0]
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L B A L L A B 
+A L L L B L L 
+L L 1 B 2 L 0 
+B L L L L L L 
+1 L 1 L 1 B L 
+L L B L L L A 
+B 1 L L 0 L B 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-3
+7
+7
+W 3 W W W W F 
+W W W 1 W F 0 
+W W W W W W F 
+W A W A W 1 W 
+F W W F W W W 
+0 F F 0 F W W 
+F W W F W A W 
+
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 B 
+L W L F L W L 
+0 F L 0 L W L 
+F W L F L A L 
+
+[0, 0, 10, 0, 0, 0]
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L F L F L 
+L A L A L 1 L 
+L L L L L B L 
+0 L L 0 L L L 
+L B L L L A B 
+
+2
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-4
+7
+7
+1 W 2 W W W A 
+W F W W 1 W W 
+F 0 F W W W 2 
+W F W W W F W 
+2 W W W F 0 F 
+W W A W W F W 
+1 W W W A W A 
+
+1 B 2 B L L A 
+W L W L 1 L B 
+F 0 L L B L 2 
+L L L L L L B 
+2 B L L L 0 L 
+B L A L L F L 
+1 L W L A W A 
+
+[0, 0, 6, 0, 0, 0]
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3
+1 B 2 B L L A 
+F L F L 1 L B 
+F 0 L L B L 2 
+L L L L L L B 
+2 B L L L 0 L 
+B L A L L L L 
+1 L B L A B A 
+
+3
+[0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_normal papan ke-5
+7
+7
+0 F W W W W 1 
+F W 2 W W W W 
+W W W 3 W 1 W 
+W F 2 W A W W 
+F 0 F 2 W W W 
+W F W W 1 W F 
+A W W W W F 0 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+0 L B L L L 1 
+L F 2 L L L B 
+L L B 3 B 1 L 
+B L 2 B A L L 
+L 0 L 2 L B L 
+L L L B 1 L L 
+A L B L L L 0 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-6
+7
+7
+W W W F 0 F W 
+W W W A F W W 
+1 F W A F W W 
+F 0 A A 0 1 W 
+W F F 0 F W 2 
+W W W A W W W 
+W W 2 W W W W 
+
+L W W F 0 F L 
+B L L A F W L 
+1 F W A F W L 
+F 0 A A 0 1 B 
+W L F 0 F W 2 
+W L W A L L B 
+L B 2 B L L L 
+
+[0, 0, 17, 0, 0, 0]
+L W W F 0 F L 
+B L L A F W L 
+1 F W A F W L 
+F 0 A A 0 1 B 
+W F L 0 F W 2 
+L L B A L L B 
+W W 2 B L L L 
+
+[0, 0, 17, 0, 0, 0]
+L W W F 0 F L 
+B L L A F W L 
+1 F W A F W L 
+F 0 A A 0 1 B 
+W F L 0 F W 2 
+L L B A L L B 
+W W 2 B L L L 
+
+[0, 0, 17, 0, 0, 0]
+first gwo selesai
+[0, 0, 4, 0, 0, 4] 4
+L B L L 0 L L 
+B L L A L B L 
+1 L B A F L L 
+L 0 A A 0 1 B 
+B L L 0 F F 2 
+L L F A L L B 
+L B 2 B L L L 
+
+4
+[0, 0, 4, 0, 0, 4]
+mencoba tingkat kesulitan 7_normal papan ke-7
+7
+7
+W 3 W W W W W 
+W W W A W W 1 
+W W W W W W W 
+W 1 W W W 2 W 
+W W W F W W W 
+A W F 0 F W W 
+W W W F W A W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+B 3 B L L L L 
+L B L A L B 1 
+L L L B L L L 
+L 1 L L B 2 B 
+L B L L L L L 
+A L L 0 L B L 
+B L L L L A L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-8
+7
+7
+W W W W 2 W W 
+W W 3 W W W W 
+A W W W W 2 W 
+W W W W W W F 
+W 1 W W W F 0 
+W W F W A W F 
+W F 0 F W W W 
+
+first gwo selesai
+[1, 1, 1, 0, 0, 1] 26
+L L L B 2 F L 
+L B 3 C B L L 
+A L B L L 2 B 
+L L L L L B L 
+L 1 L L L L 0 
+L B L L A L L 
+B L 0 L L L B 
+
+26
+[1, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-9
+7
+7
+W W W W W W W 
+W A A W W 3 W 
+W W W W W A W 
+W W W W W W W 
+W 3 W W W F W 
+F 0 F W 1 0 F 
+W F W W W F W 
+
+first gwo selesai
+[0, 2, 3, 0, 0, 3] 43
+L B L L L L L 
+L A A L B 3 B 
+L B L L L A L 
+L L L L L B L 
+B 3 B L L L L 
+L 0 L B 1 0 L 
+L F L L F F L 
+
+43
+[0, 2, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_normal papan ke-10
+7
+7
+W F 0 F W W W 
+W 1 F W W 3 W 
+W W W W W W A 
+W W W W W W W 
+A W W W W F W 
+W 3 W W F 0 F 
+W W W W A F W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+L F 0 L L F L 
+B 1 L L B 3 B 
+L L L L L B A 
+L B L L L L L 
+A L L B L L L 
+B 3 B L L 0 L 
+L B L L A L B 
+
+2
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-11
+7
+7
+W W W A F W W 
+W W W F 0 F W 
+F 1 W 2 F W W 
+0 F A W A F 1 
+F W W A F 0 F 
+W W 1 F W F W 
+W W F 0 F W W 
+
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 F A B A F 1 
+L L B A F 0 F 
+W W 1 F W F W 
+W W F 0 F W W 
+
+[0, 0, 25, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 F A B A F 1 
+L L B A F 0 F 
+W W 1 F W F W 
+W W F 0 F W W 
+
+[0, 0, 25, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 F A B A F 1 
+L L B A F 0 F 
+W W 1 F W F W 
+W W F 0 F W W 
+
+[0, 0, 25, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 F A B A F 1 
+L L B A F 0 F 
+W W 1 F W F W 
+W W F 0 F W W 
+
+[0, 0, 25, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 F A B A F 1 
+L L B A F 0 F 
+W W 1 F W F W 
+W W F 0 F W W 
+
+[0, 0, 25, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 F A B A F 1 
+L L B A F 0 F 
+W W 1 F W F W 
+W W F 0 F W W 
+
+[0, 0, 25, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+W W L A F W L 
+W W L F 0 F L 
+F 1 B 2 L L B 
+0 L A B A F 1 
+F L W A F 0 F 
+L B 1 F W F W 
+W L F 0 F W W 
+
+[0, 0, 23, 0, 0, 0]
+first gwo selesai
+[0, 0, 3, 0, 0, 2] 3
+[0, 0, 2, 0, 0, 1] 2
+[0, 0, 1, 0, 0, 1] 1
+L B L A L B L 
+B L L L 0 L L 
+L 1 B 2 L L B 
+0 L A B A L 1 
+L L F A L 0 L 
+L B 1 L B L L 
+B L L 0 L L B 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-12
+7
+7
+W F W W W W W 
+F 0 F W A A W 
+W 1 W W W W W 
+W W W 1 W W W 
+W W W W W 3 W 
+W 2 A W W A W 
+W W W W W W W 
+
+first gwo selesai
+[0, 1, 1, 0, 0, 0] 21
+L L B L L L L 
+L 0 L L A A L 
+L 1 L B L L L 
+L B L 1 L W L 
+L L L L B 3 B 
+B 2 A B L A L 
+L B L L L L L 
+
+21
+[0, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-13
+7
+7
+W W 1 W W W W 
+W W W 1 W W W 
+W W W F W W A 
+F A F 0 F 1 W 
+0 F W F W W W 
+F W W 3 W W W 
+W W W W 3 W W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+B L 1 B L L L 
+L B L 1 L L B 
+L L L L L B A 
+L A L 0 L 1 L 
+0 L L L L L B 
+L L B 3 B L L 
+L L L B 3 B L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-14
+7
+7
+W W W W W W W 
+W W 1 A 1 F W 
+W 2 W W F 0 F 
+W A W A W A W 
+W A W W W A W 
+W W A 2 A W W 
+W W W W W W W 
+
+L L L L B L L 
+L B 1 A 1 F W 
+B 2 W W F 0 F 
+L A W A W A W 
+L A L B L A W 
+L W A 2 A W W 
+L L L B L L L 
+
+[0, 0, 13, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+L L L L B L L 
+L F 1 A 1 L B 
+B 2 B L L 0 L 
+L A L A B A L 
+L A L B L A L 
+L B A 2 A B L 
+L L L B L L L 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-15
+7
+7
+W 1 W F 0 F W 
+W W W W F W 2 
+1 W W F W W W 
+W W F 0 F W W 
+F W W F W W 1 
+0 F W W W W W 
+F W A W W 2 W 
+
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3
+F 1 L F 0 L B 
+L B L L L L 2 
+1 L L L L L B 
+B L L 0 L L L 
+L L L L L B 1 
+0 L B L L L L 
+F L A L B 2 B 
+
+3
+[0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_normal papan ke-16
+7
+7
+W W 1 W W W W 
+W F W W 1 W W 
+F 0 F W W W 2 
+W F W W W F W 
+A W W W F 0 F 
+W W 3 W W F W 
+W W W W 2 W W 
+
+first gwo selesai
+[1, 1, 0, 0, 0, 0] 25
+B L 1 L L B L 
+L L B L 1 L B 
+L 0 L L B L 2 
+L L L L L L B 
+A L L L L 0 L 
+L B 3 B L L L 
+L L B C 2 B L 
+
+25
+[1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-17
+7
+7
+W W W 1 W W W 
+W W W W W W W 
+W W W 2 W W W 
+2 W 1 W 3 W 1 
+W W W A W W W 
+W W W W W W W 
+W W W 2 W W W 
+
+first gwo selesai
+[1, 0, 1, 0, 0, 1] 6
+L B L 1 L L B 
+L L L B L L L 
+B L L 2 F L L 
+2 L 1 B 3 B 1 
+B L C A B L L 
+L L L B L L L 
+L L B 2 L L B 
+
+6
+[1, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-18
+7
+7
+W W 1 W W W W 
+W A W W A 2 W 
+W 1 W W W W 1 
+W W W W W F W 
+A W W W F 0 F 
+W A 2 W W 1 W 
+W W W W A W W 
+
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3
+B L 1 L L B L 
+L A B L A 2 F 
+L 1 L L L B 1 
+L B L L L L L 
+A L L L F 0 L 
+B A 2 B L 1 B 
+L L B L A F L 
+
+3
+[0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_normal papan ke-19
+7
+7
+W W W W F W W 
+W F A F 0 F W 
+F 0 F W F A W 
+W F W W W F W 
+W A W W F 0 F 
+W W 3 F 0 F W 
+W W W W F W W 
+
+first gwo selesai
+[1, 1, 1, 0, 0, 1] 26
+L L L L L B L 
+B L A L 0 L L 
+L 0 L L F A L 
+L L B L L L L 
+C A L B L 0 L 
+L B 3 L 0 L B 
+L L B L L L L 
+
+26
+[1, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-20
+7
+7
+W 2 W W W W W 
+W F W W A W 2 
+F 0 A W A W W 
+W F W A W F W 
+W W A W 2 0 F 
+1 W A W W F W 
+W W W W W A W 
+
+B 2 B L L L L 
+L F L W A B 2 
+L 0 A W A L B 
+L L W A B L L 
+L L A W 2 0 L 
+1 B A L B L L 
+W L W W L A L 
+
+[0, 0, 8, 0, 0, 0]
+B 2 B L L L L 
+L F L W A B 2 
+L 0 A W A L B 
+L L W A W L L 
+L L A B 2 0 L 
+1 B A L B L L 
+W L W L L A L 
+
+[0, 0, 7, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+[0, 0, 0, 0, 0, 0] 0
+B 2 B L L L L 
+L L L B A B 2 
+L 0 A L A L B 
+L L B A B L L 
+L L A L 2 0 L 
+1 B A L B L L 
+L L L B L A L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-21
+7
+7
+0 F W W 2 W 1 
+F W W W W W W 
+1 W W W W W W 
+W W W A W W F 
+W W W W W F 0 
+W W F W W W F 
+1 F 0 F W W A 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+0 L B L 2 B 1 
+L L L L B L L 
+1 B L L L L L 
+L L L A L L F 
+L L L B L L 0 
+B L L L L L L 
+1 L 0 L L L A 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-22
+7
+7
+A W W W W W 2 
+W W W W W W W 
+W W 2 W 1 W W 
+W W W W W W W 
+W W 2 W 1 W W 
+W W W W W W W 
+A W W W W W A 
+
+A L L L L B 2 
+L L L L L L B 
+W L 2 B 1 L L 
+L L B L L L L 
+L B 2 L 1 L L 
+L L L L B L L 
+A L W L L L A 
+
+[0, 0, 2, 0, 0, 0]
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+A L L L L B 2 
+L L L L L L B 
+B L 2 B 1 L L 
+L L B L L L L 
+L B 2 L 1 L L 
+L L L L B L L 
+A L B L L L A 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-23
+7
+7
+W W W W W 1 W 
+2 W W W 1 W W 
+W 1 W W W W W 
+W W W W W F W 
+W W W W F 0 F 
+W F 2 W W F 1 
+F 0 F W W W W 
+
+first gwo selesai
+[0, 0, 5, 0, 0, 5] 5
+B L L L L 1 B 
+2 F L L 1 F L 
+B 1 L L B L L 
+L F L L L F L 
+L L B L L 0 L 
+L F 2 B L L 1 
+L 0 L L L L B 
+
+5
+[0, 0, 5, 0, 0, 5]
+mencoba tingkat kesulitan 7_normal papan ke-24
+7
+7
+W W W W 2 W W 
+W 2 W W W 1 W 
+A W W W W W W 
+W W W W W W W 
+W W W W W W A 
+W 3 W W W 3 W 
+W W 1 W W W W 
+
+first gwo selesai
+[1, 1, 2, 0, 0, 2] 27
+L L L B 2 B L 
+F 2 B L L 1 L 
+A B L L L L L 
+L L L L L L B 
+L L L L L F A 
+B 3 C L B 3 B 
+L B 1 L L B L 
+
+27
+[1, 1, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-25
+7
+7
+W 1 1 W W W W 
+W W W W 2 W A 
+W 1 W W W W A 
+F W W W W W W 
+0 F W W W 2 W 
+1 W A W W W W 
+W W W W A 2 W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+B 1 1 L B L L 
+L L B L 2 B A 
+L 1 L B L L A 
+L B L L L L L 
+0 L L L B 2 L 
+1 L A L L B L 
+B L L L A 2 B 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-26
+7
+7
+W W W A W W W 
+W W 3 W W W W 
+W W W A W A W 
+A W 1 A 1 W 2 
+W 2 W A W W W 
+W W W F A W W 
+W W F 0 F W W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+B L L A L B L 
+L B 3 B L L L 
+L L B A B A B 
+A L 1 A 1 L 2 
+B 2 F A L L B 
+L B L L A L L 
+L L F 0 L B L 
+
+2
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-27
+7
+7
+F F W W F 0 F 
+0 0 F W W 1 W 
+F F W A W W W 
+W W 4 W 2 W W 
+W F W A W F F 
+F 0 F W F 0 0 
+W A W W W F F 
+
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W L L 
+L B 4 B 2 B L 
+L L B A W L L 
+F 0 L W F 0 0 
+W A L W W F F 
+
+[0, 0, 16, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W L 0 L 
+0 0 L W L 1 B 
+L L B A B L L 
+L B 4 B 2 W L 
+L L B A W F L 
+F 0 L W F 0 0 
+W A L W W F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+F F L W F 0 L 
+0 0 L W W 1 B 
+L L B A W W L 
+L B 4 B 2 W L 
+L L B A B L L 
+F 0 L W L 0 0 
+W A L W L F F 
+
+[0, 0, 15, 0, 0, 0]
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+L L L B L 0 L 
+0 0 L L L 1 B 
+L L B A B L L 
+L B 4 B 2 F L 
+L L B A L F L 
+L 0 L B L 0 0 
+B A L L B L L 
+
+2
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-28
+7
+7
+W W W W W 3 W 
+2 W W A W W W 
+W F W W W W W 
+F 0 F A W A W 
+W F W W W W F 
+W W W A W F 0 
+W 1 W W W W F 
+
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L F L W L W L 
+L W L A L F 0 
+L 1 B L L L L 
+
+[0, 0, 5, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L L L L L B L 
+L F L A L L 0 
+L 1 B L L L L 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-29
+7
+7
+W A W W 3 W W 
+W W A W W W 1 
+1 W W W W A W 
+W W W W W W W 
+W 2 W W W W 2 
+2 W W W A W W 
+W W A W W A W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+L A L B 3 B L 
+B L A L B L 1 
+1 L B L L A B 
+L B L L L L L 
+F 2 L L L B 2 
+2 B L L A L B 
+B L A L B A L 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-30
+7
+7
+W 2 W W W W W 
+W W W W W W 2 
+W W 3 W A W W 
+W W W W W W W 
+W W A W 1 W W 
+1 W W W W W W 
+W W W W W A W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+B 2 B L L L L 
+L L L L L B 2 
+L B 3 B A L B 
+L L B L L L L 
+L L A L 1 L L 
+1 L L L B L L 
+B L L L L A L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-31
+7
+7
+W A W W W A W 
+2 W W A W W A 
+W W W F W W W 
+W 2 F 0 F 1 W 
+W W W F W W W 
+A W W A W W A 
+W A W W W 3 W 
+
+first gwo selesai
+[0, 1, 2, 0, 1, 1] 22
+B A B L L A B 
+2 B L A L L A 
+L L L L L B L 
+B 2 L 0 L 1 F 
+L B L L L L L 
+A L L A L W A 
+B A L L B 3 B 
+
+22
+[0, 1, 2, 0, 1, 1]
+mencoba tingkat kesulitan 7_normal papan ke-32
+7
+7
+W F 0 F W W W 
+W W F W W W F 
+W W W 3 W F 0 
+W W 3 W A W F 
+2 W W A W W W 
+W W W W W W W 
+W W W W 2 W W 
+
+first gwo selesai
+[1, 2, 0, 0, 0, 0] 45
+L L 0 L L L B 
+B L L L L L L 
+L L B 3 B L 0 
+C B 3 B A L L 
+2 L B A L L B 
+B L L L L L L 
+L L L B 2 B L 
+
+45
+[1, 2, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-33
+7
+7
+W W W W W 2 W 
+2 W 3 W 1 W W 
+W 3 W W W 1 W 
+W W W W W W W 
+W A W W W 2 W 
+W W 1 W 2 W A 
+W A W W W W W 
+
+first gwo selesai
+[0, 2, 4, 0, 0, 4] 44
+L L L L B 2 F 
+2 B 3 B 1 B L 
+B 3 B L L 1 F 
+L B L L L L L 
+L A L L B 2 F 
+L F 1 L 2 B A 
+L A B L L L L 
+
+44
+[0, 2, 4, 0, 0, 4]
+mencoba tingkat kesulitan 7_normal papan ke-34
+7
+7
+W W W 2 W W W 
+W W F W W W W 
+F F 0 F 1 W W 
+0 F F W W W 2 
+F W 3 W A W W 
+W W W F W W W 
+W W F 0 F W W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L L B 2 B L L 
+B L L L L L L 
+L L 0 L 1 L B 
+0 L L L B L 2 
+L B 3 B A L B 
+L L B L L L L 
+B L L 0 L B L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-35
+7
+7
+W W W W W W W 
+W W 1 A 1 F W 
+W 2 W W F 0 F 
+W A W A W A W 
+W A W W W A W 
+W W A 2 A W W 
+W W W W W W W 
+
+L L L L B L L 
+L B 1 A 1 F W 
+B 2 W W F 0 F 
+L A W A W A W 
+L A L B L A W 
+L W A 2 A W W 
+L L L B L L L 
+
+[0, 0, 13, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+L L L L B L L 
+L F 1 A 1 L B 
+B 2 B L L 0 L 
+L A L A B A L 
+L A L B L A L 
+L B A 2 A B L 
+L L L B L L L 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-36
+7
+7
+0 F W W W W A 
+F W W W 1 W W 
+W A 1 W A W W 
+W W W W F W W 
+W W 1 F 0 3 W 
+F W 1 W F W W 
+0 F W W W W A 
+
+first gwo selesai
+[0, 1, 0, 0, 0, 0] 20
+0 L L L L B A 
+L L L B 1 L L 
+B A 1 L A L L 
+L L B L L L L 
+L L 1 L 0 3 B 
+L B 1 L L B L 
+0 L L L B L A 
+
+20
+[0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-37
+7
+7
+F W W F 0 2 W 
+0 F W W 1 W W 
+1 A W W W W W 
+W W W W W W W 
+W W W W W 1 A 
+W W 1 W W F 0 
+W A A W W W F 
+
+F W W L 0 2 B 
+0 F W L 1 B L 
+1 A W L L L L 
+B L L L L L L 
+L L L L B 1 A 
+L W 1 B L L 0 
+L A A L L W F 
+
+[0, 0, 9, 0, 0, 0]
+F W W L 0 2 B 
+0 F W L 1 B L 
+1 A W L L L L 
+B L L L L L L 
+L L L L B 1 A 
+L W 1 B L L 0 
+L A A L L W F 
+
+[0, 0, 9, 0, 0, 0]
+F W W L 0 2 B 
+0 F W L 1 B L 
+1 A W L L L L 
+B L L L L L L 
+L L L L B 1 A 
+L W 1 B L L 0 
+L A A L L W F 
+
+[0, 0, 9, 0, 0, 0]
+F W W L 0 2 B 
+0 F W L 1 B L 
+1 A W L L L L 
+B L L L L L L 
+L L L L B 1 A 
+L W 1 B L L 0 
+L A A L L W F 
+
+[0, 0, 9, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+L B L L 0 2 B 
+0 L B L 1 B L 
+1 A L L L L L 
+B L L L L L L 
+L L L L B 1 A 
+L F 1 B L L 0 
+L A A L L B L 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-38
+7
+7
+W W 1 0 F W W 
+W W W 1 W W W 
+W W W W W W 2 
+A A W W W 1 A 
+0 F W W W W W 
+F W W A F W W 
+W W W A 0 F W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+B L 1 0 L L L 
+L L B 1 L L B 
+L L L L L B 2 
+A A L B L 1 A 
+0 L L L B L L 
+F L L A L B L 
+L B L A 0 L B 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-39
+7
+7
+W W W W A W W 
+W W 2 W W W W 
+3 W W W W 1 W 
+W W W 1 W W W 
+W 1 W W W W 1 
+W W W W 1 W W 
+W W 1 W W W W 
+
+first gwo selesai
+[0, 1, 2, 0, 1, 1] 22
+L L B L A B L 
+W L 2 B L L L 
+3 B L L L 1 B 
+B L L 1 B L L 
+L 1 B L L L 1 
+L L L F 1 L B 
+L B 1 L B L L 
+
+22
+[0, 1, 2, 0, 1, 1]
+mencoba tingkat kesulitan 7_normal papan ke-40
+7
+7
+W W W W W 3 W 
+1 W W W W W W 
+W W W A W W W 
+W W 1 W 1 W W 
+W W W A W W W 
+W W W W W W A 
+W 1 W W W W W 
+
+first gwo selesai
+[0, 0, 1, 1, 0, 1] 1
+L L L L B 3 B 
+1 L L L L B L 
+B L L A L L L 
+L B 1 F 1 L L 
+L L L A B L L 
+L L L B L L A 
+L 1 B L L L L 
+
+1
+[0, 0, 1, 1, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-41
+7
+7
+W W W 2 W W W 
+W A W W W 3 W 
+F W W W W W W 
+0 F W W W W A 
+F W W W W W W 
+W 1 W W W A W 
+W W W 1 W W W 
+
+first gwo selesai
+[1, 1, 1, 0, 0, 0] 26
+L L B 2 L W L 
+B A L B C 3 B 
+L L L L L B L 
+0 L L L L L A 
+L B L L L L L 
+L 1 L L L A B 
+B L L 1 B L L 
+
+26
+[1, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-42
+7
+7
+W W W W F 0 F 
+2 W A W W F W 
+W W W W W 2 W 
+W W W 3 W W W 
+W 1 W W W W F 
+W W W W A F 0 
+W A W W W W F 
+
+first gwo selesai
+[1, 1, 1, 0, 0, 1] 26
+B L L L L 0 L 
+2 F A L B L L 
+B L L L L 2 B 
+L L B 3 C B L 
+L 1 L B L L L 
+L B L L A L 0 
+L A L L B L L 
+
+26
+[1, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-43
+7
+7
+W 1 W A W W W 
+W W W W A W 1 
+W 1 W W W W W 
+1 W W A W W 2 
+W W W W W 1 W 
+A W 2 W W F W 
+W W W 2 F 0 F 
+
+first gwo selesai
+[0, 0, 5, 0, 0, 5] 5
+L 1 B A B L L 
+B L L L A L 1 
+L 1 L L L L B 
+1 B L A L B 2 
+F L L L F 1 F 
+A L 2 B L L L 
+L L B 2 F 0 F 
+
+5
+[0, 0, 5, 0, 0, 5]
+mencoba tingkat kesulitan 7_normal papan ke-44
+7
+7
+W 1 W W W W W 
+W W 1 W W F A 
+W W W W F 0 F 
+W F W W W F W 
+F 0 F W W W W 
+1 F W W 2 F W 
+W W W W F 0 F 
+
+W 1 W L L W W 
+L B 1 L L F A 
+W L W L L 0 F 
+W L W L L F W 
+F 0 L L B L L 
+1 L L B 2 F W 
+B L L L L 0 F 
+
+[0, 0, 16, 0, 0, 0]
+B 1 W L L W W 
+L W 1 L L F A 
+L L B L L 0 F 
+L F L L L F W 
+L 0 L L B L L 
+1 L L B 2 F W 
+B L L L L 0 F 
+
+[0, 0, 12, 0, 0, 0]
+B 1 W L L W W 
+L W 1 L L F A 
+L L B L L 0 F 
+L F L L L F W 
+L 0 L L B L L 
+1 L L B 2 F W 
+B L L L L 0 F 
+
+[0, 0, 12, 0, 0, 0]
+W 1 W L L W W 
+L B 1 L L F A 
+W L W L L 0 F 
+W L W L L F W 
+F 0 L L B L L 
+1 L L B 2 F W 
+B L L L L 0 F 
+
+[0, 0, 16, 0, 0, 0]
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+[0, 0, 0, 0, 0, 0] 0
+L 1 L L L B L 
+L B 1 L L L A 
+B L L L L 0 L 
+L L B L L L L 
+L 0 L L B L L 
+1 L L B 2 L B 
+B L L L L 0 L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-45
+7
+7
+F 0 F W 2 W F 
+W A W W W A 0 
+A W W F W W F 
+W W F 0 F W W 
+W W W F W W 1 
+2 A W W W 1 W 
+W W 2 W W A W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+L 0 L F 2 B L 
+B A L L B A 0 
+A B L L L L L 
+L L L 0 L B L 
+B L L L L L 1 
+2 A B L L 1 B 
+B L 2 B L A L 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-46
+7
+7
+W W W W W A W 
+1 W 1 W W W W 
+W W W F W 4 W 
+W W F 0 F W W 
+W 1 W F W W W 
+W F W W 2 W A 
+F 0 F W W W W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+L L L B L A L 
+1 B 1 L L B L 
+L L L L B 4 B 
+L L F 0 L B L 
+B 1 F L L L L 
+L L L B 2 L A 
+L 0 L L B L L 
+
+2
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-47
+7
+7
+W W W W W 2 W 
+1 W W 2 W W W 
+W W 2 W A W W 
+W 2 W A W 1 W 
+W W 4 W A W F 
+W W W A W F 0 
+W A W W W W F 
+
+first gwo selesai
+[0, 0, 2, 2, 0, 2] 2
+L L L B L 2 B 
+1 L B 2 L B L 
+B L 2 F A L L 
+L 2 B A F 1 L 
+L B 4 B A B L 
+L L B A L L 0 
+L A L L B L L 
+
+2
+[0, 0, 2, 2, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-48
+7
+7
+W W W W W A W 
+1 1 W W 1 1 W 
+W 1 W F W W W 
+W W F 0 F W W 
+W F W F W A W 
+F 0 A W W 1 A 
+F 0 F W W W W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+B L L L L A L 
+1 1 B L 1 1 B 
+L 1 L L B L L 
+L B L 0 L B L 
+B L L L L A L 
+L 0 A B L 1 A 
+L 0 L L L B L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-49
+7
+7
+W W F 0 F W W 
+W W A F W F W 
+W W 1 W 1 0 F 
+2 W W W F F 1 
+W A A F 0 F W 
+W W W W 2 W W 
+W W W 1 W W W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+L B L 0 L L B 
+L L A L B L L 
+B L 1 L 1 0 L 
+2 L B L L L 1 
+B A A L 0 L B 
+L L L B 2 B L 
+L B L 1 F L L 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-50
+7
+7
+W W W W W W W 
+W W W W 2 W W 
+W 2 A W 1 W W 
+W W W W W W W 
+W W A W 2 1 W 
+W W 2 W W W W 
+W W W W W W W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+L L L L B L L 
+L B L L 2 B L 
+B 2 A L 1 L L 
+L L L L B L L 
+L L A B 2 1 B 
+L B 2 L F F L 
+L L B L L L L 
+
+2
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-51
+7
+7
+0 F W W W A A 
+0 F W A W W W 
+F W W W W W W 
+W 1 W 2 W A W 
+W W W W W W W 
+W W W A W W 2 
+A A W W W W A 
+
+0 F L W L A A 
+0 F L A L W L 
+F W L W L W L 
+W 1 B 2 B A L 
+L L L L L L B 
+W W L A L B 2 
+A A L W L L A 
+
+[0, 0, 12, 0, 0, 0]
+0 F L W L A A 
+0 F L A L W L 
+F W L W L W L 
+W 1 B 2 B A L 
+L L L L L L B 
+W W L A L B 2 
+A A L W L L A 
+
+[0, 0, 12, 0, 0, 0]
+0 F L W L A A 
+0 F L A L W L 
+F W L W L W L 
+W 1 B 2 B A L 
+L L L L L L B 
+W W L A L B 2 
+A A L W L L A 
+
+[0, 0, 12, 0, 0, 0]
+0 F L W L A A 
+0 F L A L W L 
+F W L W L W L 
+W 1 B 2 B A L 
+L L L L L L B 
+W W L A L B 2 
+A A L W L L A 
+
+[0, 0, 12, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+0 L L B L A A 
+0 F L A L B L 
+L L L B L L L 
+B 1 L 2 B A L 
+L L L L L L B 
+L L B A L B 2 
+A A L B L L A 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-52
+7
+7
+W W W W W W W 
+W W W 4 W W W 
+W W 4 W A W W 
+W 2 W W W A W 
+W W 1 W 1 W W 
+W W W 2 W W W 
+W W W W W W W 
+
+first gwo selesai
+[1, 0, 0, 0, 0, 0] 5
+L L L B L L L 
+L L B 4 B L L 
+L B 4 B A B L 
+L 2 B L L A L 
+B L 1 C 1 L B 
+L B L 2 B L L 
+L L L B L L L 
+
+5
+[1, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-53
+7
+7
+W W W A A W W 
+W W W F 0 F W 
+A 1 W W F W W 
+1 W W 2 W F A 
+W W W W F 0 1 
+W W 1 W W F W 
+W W A 1 W W W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+B L L A A B L 
+L B L L 0 L B 
+A 1 L B L L L 
+1 L B 2 L L A 
+B L L L L 0 1 
+L B 1 L L L B 
+L L A 1 B L L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-54
+7
+7
+W W W W 1 W W 
+W W W W W W W 
+2 W 1 W A W W 
+W W W 3 W W W 
+W W 1 W A W 1 
+W W F W W W W 
+W F 0 F W W W 
+
+first gwo selesai
+[1, 0, 0, 0, 0, 0] 5
+L B L L 1 B L 
+B L L L L L L 
+2 L 1 B A L B 
+B L C 3 B L L 
+L L 1 B A L 1 
+L L L L L L B 
+L L 0 L B L L 
+
+5
+[1, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-55
+7
+7
+W W W A W W W 
+W W W W A W W 
+F 1 W W W W W 
+0 F W 2 W W 3 
+F W W W W 2 W 
+W W 1 W W W W 
+W W W 1 W W W 
+
+first gwo selesai
+[0, 1, 2, 0, 1, 2] 22
+B L L A L L B 
+L B L L A L L 
+L 1 L F L L L 
+0 L B 2 L B 3 
+L L L B L 2 B 
+L B 1 L L F L 
+B L L 1 B L L 
+
+22
+[0, 1, 2, 0, 1, 2]
+mencoba tingkat kesulitan 7_normal papan ke-56
+7
+7
+F 0 F W W W W 
+W F W W W W A 
+W W W 4 W W W 
+W W 2 W 3 W W 
+F W W 3 W W W 
+0 F W W W W W 
+F W W W W 1 W 
+
+first gwo selesai
+[0, 3, 2, 0, 0, 2] 62
+F 0 L L L L B 
+L L L B L L A 
+L L B 4 B L L 
+L B 2 B 3 B L 
+L L B 3 B L L 
+0 L L B L L L 
+F L L L L 1 B 
+
+62
+[0, 3, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-57
+7
+7
+W W A W W W W 
+W A W W W 3 W 
+W W W 2 W W 2 
+W W A W 2 W W 
+2 W W A W W W 
+W 2 W W W A W 
+W W W W 2 W W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+L B A B L L L 
+L A L L B 3 B 
+L L B 2 L B 2 
+B L A B 2 L L 
+2 F L A B L L 
+B 2 B L L A B 
+L L L B 2 B L 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-58
+7
+7
+1 W 1 W W W A 
+W W W W A W W 
+W A W W W W 2 
+W W W W W W W 
+2 W F W W A W 
+W F 0 F W W W 
+A W F W 2 W 2 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+1 B 1 L B L A 
+L L F L A L B 
+L A L L L B 2 
+B L L L L L L 
+2 B L L L A L 
+F L 0 L L L B 
+A L L B 2 B 2 
+
+2
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-59
+7
+7
+W W 1 F W W W 
+W W F 0 F W F 
+W F W 3 W F 0 
+F 0 A W A A F 
+1 F W A W W W 
+W W F 0 F W W 
+W W W F 1 W W 
+
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+L B 1 F L W W 
+W L L 0 L W F 
+L L B 3 B L 0 
+F 0 A B A A F 
+1 F W A W L W 
+B L L 0 F L W 
+L W W F 1 B L 
+
+[0, 0, 17, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 0] 1
+[0, 0, 0, 0, 0, 0] 0
+L B 1 L L L B 
+B L L 0 L B L 
+L L B 3 B L 0 
+L 0 A B A A L 
+1 L B A B L L 
+B L L 0 L L B 
+L B L L 1 B L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-60
+7
+7
+W W W 1 W W W 
+W W 2 W W F W 
+W W W A F 0 F 
+1 W 2 A 1 F A 
+W A W A W W W 
+W W W W 1 W W 
+W W W 1 W W W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 1] 2
+B L L 1 L L B 
+L L 2 B L L L 
+L L B A F 0 L 
+1 B 2 A 1 L A 
+L A L A B L L 
+B L L L 1 L W 
+L L B 1 L B L 
+
+2
+[0, 0, 2, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-61
+7
+7
+F W W W W 1 W 
+0 2 W W W A W 
+F W W 2 W W W 
+W W 1 W 4 W W 
+W W W 2 W W W 
+W 1 W W W A 1 
+W 1 W W W W W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+L B L L L 1 B 
+0 2 F F L A L 
+L B L 2 B L L 
+L L 1 B 4 B L 
+L L L 2 B L L 
+L 1 B L L A 1 
+B 1 L L L L B 
+
+2
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-62
+7
+7
+W W W W W W W 
+W W A W 1 F W 
+W 1 W W F 0 F 
+W W W W W F W 
+W 2 W W W A W 
+W W A W 4 W W 
+W W W W W W W 
+
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3
+L L L L B L L 
+L F A L 1 L B 
+L 1 F L L 0 L 
+L B L L L L L 
+B 2 L L B A L 
+L F A B 4 B L 
+L L L L B L L 
+
+3
+[0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_normal papan ke-63
+7
+7
+0 F W W 2 W 1 
+F W W W W W W 
+0 F W 2 W W W 
+F W A W A W F 
+W W W A W F 0 
+W W W W W W F 
+A W 2 W W W A 
+
+0 L L W 2 B 1 
+L L L L B L L 
+0 L B 2 L L W 
+F L A B A L F 
+W L W A W L 0 
+W L W L W L F 
+A B 2 B L L A 
+
+[0, 0, 11, 0, 0, 0]
+0 L L W 2 B 1 
+L L L L B L L 
+0 L B 2 L L W 
+F L A B A L F 
+W L L A W L 0 
+L L B L L L L 
+A B 2 W W L A 
+
+[0, 0, 8, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+0 L L F 2 B 1 
+L L L L B L L 
+0 L B 2 L L B 
+L L A B A L L 
+B L L A L L 0 
+L L B L L L L 
+A B 2 L B L A 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-64
+7
+7
+A W F W 3 W A 
+W F 0 F W F W 
+A W F W F 0 F 
+W W W W W F W 
+W 1 W W W W A 
+W W W W 2 W W 
+A W 1 W W W A 
+
+A L L B 3 B A 
+W F 0 L B L L 
+A W L L L 0 F 
+L W L L L L W 
+B 1 L L L L A 
+L L B L 2 B L 
+A W 1 L B L A 
+
+[0, 0, 7, 0, 0, 0]
+A L L B 3 B A 
+W F 0 L B L L 
+A W L L L 0 F 
+L W L L L L W 
+B 1 L L L L A 
+L L B L 2 B L 
+A W 1 L B L A 
+
+[0, 0, 7, 0, 0, 0]
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3
+[0, 0, 1, 0, 0, 1] 1
+A L L B 3 B A 
+B L 0 L B L L 
+A B L L L 0 L 
+L L L L L L B 
+B 1 L L L L A 
+L L B L 2 B L 
+A F 1 L B L A 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-65
+7
+7
+W 1 W W W W W 
+F 0 F W W A 2 
+W F W F W W W 
+W W F 0 F W W 
+W W W F W F W 
+1 1 W W F 0 F 
+W W W W W A W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+B 1 L L L L B 
+L 0 L L B A 2 
+L L L L L L B 
+L L F 0 L B L 
+L B L L L L L 
+1 1 L B L 0 L 
+B L L L L A L 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-66
+7
+7
+W 1 A W W W W 
+W W W W A W 2 
+W 2 W W W W A 
+F W W W W W W 
+0 F F W W 1 W 
+1 F 0 F F W W 
+W W F F 0 A W 
+
+B 1 A L L L B 
+L W L W A B 2 
+L 2 B L L L A 
+L B L L L L L 
+0 L L L B 1 W 
+1 L 0 F L W W 
+B L L L 0 A W 
+
+[0, 0, 7, 0, 0, 0]
+B 1 A L L L B 
+L W L W A B 2 
+L 2 B L L L A 
+L B L L L L L 
+0 L L W W 1 B 
+1 L 0 F F W L 
+B L L L 0 A L 
+
+[0, 0, 7, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+[0, 0, 0, 0, 0, 0] 0
+B 1 A L L L B 
+L L L B A B 2 
+L 2 B L L L A 
+L B L L L L L 
+0 L L L B 1 L 
+1 L 0 L L L B 
+B L L L 0 A L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-67
+7
+7
+W A W W W W W 
+W W W W F W 1 
+W W 2 F 0 F W 
+W W F W F W W 
+W F 0 F 1 W W 
+A W F W W W W 
+W W W W W 2 W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L A L L L L B 
+L L B L L L 1 
+L B 2 L 0 L L 
+B L L L L L L 
+L L 0 L 1 B L 
+A L L B L L L 
+L L L L B 2 B 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-68
+7
+7
+W A W W A W W 
+W W 2 W W W A 
+A W W W W 3 W 
+W W W W W W W 
+W 2 W W W W A 
+3 W W W A W W 
+W W A W W 3 W 
+
+first gwo selesai
+[0, 1, 2, 0, 1, 2] 22
+B A F L A L B 
+L B 2 B L L A 
+A L L L B 3 B 
+L L L L L B L 
+B 2 F L L L A 
+3 B L L A L L 
+B L A L B 3 B 
+
+22
+[0, 1, 2, 0, 1, 2]
+mencoba tingkat kesulitan 7_normal papan ke-69
+7
+7
+F 0 1 W W W W 
+F 0 F W W A A 
+W F W W W F 0 
+F W W A W W F 
+0 F W W W W W 
+A A W W W 2 W 
+W W W W 2 0 F 
+
+F 0 1 B L L L 
+F 0 F L L A A 
+W F W L L F 0 
+F W W A L W L 
+0 F W L L W L 
+A A L L B 2 B 
+L L L B 2 0 L 
+
+[0, 0, 14, 0, 0, 0]
+F 0 1 B L L L 
+F 0 F L L A A 
+W F W L L F 0 
+F W W A L W L 
+0 F W L L W L 
+A A L L B 2 B 
+L L L B 2 0 L 
+
+[0, 0, 14, 0, 0, 0]
+F 0 1 B L L L 
+F 0 F L L A A 
+W F W L L F 0 
+F W W A L W L 
+0 F W L L W L 
+A A L L B 2 B 
+L L L B 2 0 L 
+
+[0, 0, 14, 0, 0, 0]
+F 0 1 B L L L 
+F 0 F L L A A 
+W F W L L L 0 
+F W W A L L F 
+0 L L L L B L 
+A A L L B 2 W 
+L L L B 2 0 F 
+
+[0, 0, 12, 0, 0, 0]
+F 0 1 B L L L 
+F 0 F L L A A 
+W F W L L L 0 
+F W W A L L F 
+0 L L L L B L 
+A A L L B 2 W 
+L L L B 2 0 F 
+
+[0, 0, 12, 0, 0, 0]
+F 0 1 B L L L 
+F 0 F L L A A 
+W F W L L F 0 
+F W W A L W L 
+0 F W L L W L 
+A A L L B 2 B 
+L L L B 2 0 L 
+
+[0, 0, 14, 0, 0, 0]
+F 0 1 B L L L 
+F 0 F L L A A 
+W F W L L L 0 
+F W W A L L F 
+0 L L L L B L 
+A A L L B 2 W 
+L L L B 2 0 F 
+
+[0, 0, 12, 0, 0, 0]
+F 0 1 B L L L 
+F 0 F L L A A 
+W F W L L L 0 
+F W W A L L F 
+0 L L L L B L 
+A A L L B 2 W 
+L L L B 2 0 F 
+
+[0, 0, 12, 0, 0, 0]
+F 0 1 B L L L 
+F 0 F L L A A 
+W F W L L L 0 
+F W W A L L F 
+0 L L L L B L 
+A A L L B 2 W 
+L L L B 2 0 F 
+
+[0, 0, 12, 0, 0, 0]
+F 0 1 B L L L 
+F 0 F L L A A 
+W F W L L L 0 
+F W W A L L F 
+0 L L L L B L 
+A A L L B 2 W 
+L L L B 2 0 F 
+
+[0, 0, 12, 0, 0, 0]
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3
+[0, 0, 0, 0, 0, 0] 0
+L 0 1 B L L L 
+L 0 L L L A A 
+B L L L L L 0 
+L B L A L B L 
+0 L B L L L L 
+A A L L B 2 B 
+L L L B 2 0 L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-70
+7
+7
+W W W F 0 F W 
+W W W 1 F W W 
+1 F W W W W W 
+F 0 F W W A F 
+W F W W W F 0 
+W W W 2 W W F 
+W W 3 W W W W 
+
+L W L F 0 F W 
+B L L 1 F W W 
+1 L L B L L L 
+F 0 L L W A F 
+W L L L W F 0 
+L L B 2 W W F 
+L B 3 B L L L 
+
+[0, 0, 16, 0, 0, 0]
+L W L F 0 F W 
+B L L 1 F W W 
+1 L L B L L L 
+F 0 L L W A F 
+W L L L W F 0 
+L L B 2 W W F 
+L B 3 B L L L 
+
+[0, 0, 16, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+[0, 0, 0, 0, 0, 0] 0
+L B L L 0 L B 
+B L L 1 L B L 
+1 L L B L L L 
+L 0 L L B A L 
+B L L L L L 0 
+L L B 2 L B L 
+L B 3 B L L L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-71
+7
+7
+F W A W W A W 
+0 F W W W W W 
+F W W W W W 2 
+W W W W W W W 
+1 W W W W W W 
+W W W W F W 2 
+W 2 W F 0 F W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+F L A L B A L 
+0 L L L L L B 
+L L L L L B 2 
+B L L L L L L 
+1 L L L L L B 
+L B L L L L 2 
+F 2 B L 0 L B 
+
+2
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-72
+7
+7
+W W W W W W W 
+W W W W 3 W W 
+W 3 W 4 W W W 
+W W A W 3 W W 
+W W W 4 W 2 W 
+W W 2 W W W W 
+W W W W W W W 
+
+first gwo selesai
+[1, 0, 0, 0, 0, 0] 5
+L B L L L L L 
+L L L B 3 B L 
+B 3 B 4 B L L 
+L B A B 3 C L 
+L L B 4 B 2 B 
+L L 2 B L L L 
+L L L L L B L 
+
+5
+[1, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-73
+7
+7
+W F W W 2 W W 
+F 0 F W W 3 W 
+A F W W W W W 
+W W W W W W F 
+W W W W W F 0 
+W 4 W W W A F 
+W W A W W W W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+L L L B 2 F L 
+F 0 L L B 3 B 
+A L L L L B L 
+L L L L L L L 
+L B L L L L 0 
+B 4 B L L A L 
+L B A L L L B 
+
+2
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-74
+7
+7
+W W 1 F 0 F W 
+W W A W F F W 
+A W W W F 0 A 
+W W W W W F F 
+1 A W W W F 0 
+W W F W A W F 
+W F 0 F A W W 
+
+L B 1 F 0 F W 
+W L A W F F W 
+A L W W F 0 A 
+B L L L L L L 
+1 A W W W F 0 
+W W F W A W F 
+W F 0 F A W W 
+
+[0, 0, 26, 0, 0, 0]
+L B 1 F 0 F W 
+W L A W F F W 
+A L W W F 0 A 
+B L L L L L L 
+1 A W W W F 0 
+W W F W A W F 
+W F 0 F A W W 
+
+[0, 0, 26, 0, 0, 0]
+L B 1 F 0 F W 
+W L A W F F W 
+A L W W F 0 A 
+B L L L L L L 
+1 A W W W F 0 
+W W F W A W F 
+W F 0 F A W W 
+
+[0, 0, 26, 0, 0, 0]
+L B 1 F 0 F W 
+W L A W F F W 
+A L W W F 0 A 
+B L L L L L L 
+1 A W W W F 0 
+W W F W A W F 
+W F 0 F A W W 
+
+[0, 0, 26, 0, 0, 0]
+L B 1 F 0 F W 
+W L A W F F W 
+A L W W F 0 A 
+B L L L L L L 
+1 A W W W F 0 
+W W F W A W F 
+W F 0 F A W W 
+
+[0, 0, 26, 0, 0, 0]
+L B 1 F 0 F W 
+W L A W F F W 
+A L W W F 0 A 
+B L L L L L L 
+1 A W W W F 0 
+W W F W A W F 
+W F 0 F A W W 
+
+[0, 0, 26, 0, 0, 0]
+L B 1 F 0 F W 
+W L A W F F W 
+A L W W F 0 A 
+B L L L L L L 
+1 A W W W F 0 
+W W F W A W F 
+W F 0 F A W W 
+
+[0, 0, 26, 0, 0, 0]
+L B 1 F 0 F W 
+W L A W F F W 
+A L W W F 0 A 
+B L L L L L L 
+1 A W W W F 0 
+W W F W A W F 
+W F 0 F A W W 
+
+[0, 0, 26, 0, 0, 0]
+L B 1 F 0 F W 
+W L A W F F W 
+A L W W F 0 A 
+B L L L L L L 
+1 A W W W F 0 
+W W F W A W F 
+W F 0 F A W W 
+
+[0, 0, 26, 0, 0, 0]
+first gwo selesai
+[0, 0, 4, 0, 0, 0] 4
+[0, 0, 3, 0, 0, 2] 3
+[0, 0, 2, 0, 0, 2] 2
+[0, 0, 1, 0, 0, 1] 1
+L B 1 L 0 L B 
+B L A B L L L 
+A L B L L 0 A 
+B L L L L L L 
+1 A L L B L 0 
+L B L L A L F 
+B L 0 L A B L 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-75
+7
+7
+W W W A W W W 
+W 1 W W W 2 W 
+F W W W W W F 
+0 F W W W F 0 
+F W W W W W F 
+W A W W W A W 
+W W W 3 W W W 
+
+first gwo selesai
+[0, 1, 2, 0, 1, 2] 22
+L F L A L B L 
+B 1 L L L 2 F 
+L L L L L B L 
+0 L L B L L 0 
+L B L L L L L 
+B A L L L A B 
+L L B 3 B L L 
+
+22
+[0, 1, 2, 0, 1, 2]
+mencoba tingkat kesulitan 7_normal papan ke-76
+7
+7
+W 1 W W W W W 
+W W W W 1 W 2 
+W 3 W W W W W 
+W W W W W W W 
+W W W W W 2 W 
+A W 1 W W F W 
+W W W W F 0 F 
+
+first gwo selesai
+[0, 1, 0, 0, 0, 0] 20
+L 1 L L L L B 
+L B L L 1 B 2 
+B 3 B L L L L 
+L B L L L L L 
+L L L L B 2 B 
+A L 1 B L L L 
+B L L L L 0 L 
+
+20
+[0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-77
+7
+7
+W W W W W W W 
+W W 2 W W W W 
+W W 2 W 2 1 W 
+W W W W W W W 
+W 1 1 W A W W 
+W W W W 2 W W 
+W W W W W W W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+L L B L L L L 
+L B 2 L B L L 
+L L 2 B 2 1 B 
+L L B L L L L 
+B 1 1 L A L L 
+L F F L 2 B L 
+L L L L B L L 
+
+2
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-78
+7
+7
+W W W W W W W 
+W 3 W W F A W 
+W W 1 F 0 F W 
+W W W W F W W 
+W W 2 W 3 W W 
+W 1 W W W 2 W 
+W W W W W W W 
+
+first gwo selesai
+[0, 1, 0, 0, 0, 0] 20
+L L L L L B L 
+B 3 B L L A L 
+L B 1 L 0 L B 
+L L B L L L L 
+L L 2 B 3 B L 
+L 1 L L B 2 L 
+L B L L L L L 
+
+20
+[0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-79
+7
+7
+A F 0 F W W A 
+W W F W W W W 
+W W W W W W 3 
+W W W W W W W 
+1 W W W W W W 
+F W W W F W W 
+0 F W F 0 F A 
+
+first gwo selesai
+[0, 1, 0, 0, 1, 0] 20
+A L 0 L L L A 
+L L L L B L L 
+L L L L L B 3 
+L L L L L L B 
+1 B L L L L L 
+L L L B L L L 
+0 L B L 0 L A 
+
+20
+[0, 1, 0, 0, 1, 0]
+mencoba tingkat kesulitan 7_normal papan ke-80
+7
+7
+F W W F 0 0 F 
+0 F W A F F W 
+A F W W W F W 
+F 0 F 2 F 0 F 
+W F W W W F A 
+W W W 1 W W A 
+W 2 A W W W W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+L L B L 0 0 L 
+0 F L A L L B 
+A L L B L L L 
+L 0 L 2 L 0 L 
+L L L B L L A 
+L B L 1 L B A 
+B 2 A L B L L 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-81
+7
+7
+W W F W 1 A W 
+A F 0 F W W W 
+A W F W W 1 W 
+W W W W W W F 
+W 1 W W W F 0 
+W F W W 3 W A 
+F 0 1 W W W W 
+
+first gwo selesai
+[1, 1, 4, 0, 0, 4] 29
+B L L L 1 A L 
+A L 0 L B L L 
+A L F L L 1 B 
+L B L L L L L 
+F 1 F L L L 0 
+L L C B 3 B A 
+F 0 1 L B L L 
+
+29
+[1, 1, 4, 0, 0, 4]
+mencoba tingkat kesulitan 7_normal papan ke-82
+7
+7
+W F 0 F 0 F W 
+W W 1 W F W F 
+1 W W F W A 0 
+W W F 0 F W F 
+A 2 W F F W 1 
+W W W F 0 F W 
+W W A W A W W 
+
+W L 0 L 0 F W 
+W L 1 B L L L 
+1 B L L L A 0 
+W L L 0 F W F 
+A 2 B L L L 1 
+L B L L 0 L B 
+W L A W A W L 
+
+[0, 0, 11, 0, 0, 0]
+W L 0 L 0 F W 
+W L 1 B L L L 
+1 B L L L A 0 
+W L L 0 F W F 
+A 2 B L L L 1 
+L B L L 0 L B 
+W L A W A W L 
+
+[0, 0, 11, 0, 0, 0]
+W L 0 L 0 F W 
+W L 1 B L L L 
+1 B L L L A 0 
+W L L 0 F W F 
+A 2 B L L L 1 
+L B L L 0 L B 
+W L A W A W L 
+
+[0, 0, 11, 0, 0, 0]
+W L 0 L 0 F W 
+W L 1 B L L L 
+1 B L L L A 0 
+W L L 0 F W F 
+A 2 B L L L 1 
+L B L L 0 L B 
+W L A W A W L 
+
+[0, 0, 11, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+L L 0 L 0 L B 
+B L 1 B L L L 
+1 L L L B A 0 
+L B L 0 L L F 
+A 2 L L L B 1 
+L B L L 0 L L 
+B L A B A L B 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-83
+7
+7
+A W A W W W A 
+W W W W 1 W W 
+W 1 W W W W A 
+W W W W W W W 
+A W W W W 2 W 
+W W 2 W W W W 
+1 W W W 2 W A 
+
+first gwo selesai
+[1, 1, 2, 0, 0, 2] 27
+A L A L B L A 
+L B L L 1 L B 
+F 1 L L L L A 
+L L L L L B L 
+A L B L L 2 B 
+C B 2 L B L L 
+1 L L B 2 F A 
+
+27
+[1, 1, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-84
+7
+7
+W A W W W 1 W 
+A W 3 W W W 2 
+W W W W W A W 
+W W W W W W W 
+W A W W W W W 
+2 W W W 1 W 2 
+W 2 W W W A W 
+
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3
+B A F L L 1 B 
+A B 3 B L L 2 
+L L B L L A B 
+L L L L B L L 
+F A L L L L L 
+2 B L L 1 B 2 
+B 2 L L F A B 
+
+3
+[0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_normal papan ke-85
+7
+7
+W A 0 F W W F 
+W W F W W F 0 
+W W W W W W A 
+W W W W W W W 
+2 W W W W W W 
+1 W W W W W W 
+W W W W 1 A W 
+
+L A 0 F L W F 
+L L F W L F 0 
+L L W W L W A 
+B L L L L L L 
+2 B L L L L L 
+1 L L L B L L 
+B L L L 1 A W 
+
+[0, 0, 10, 0, 0, 0]
+L A 0 F L W F 
+L L F W L F 0 
+L L W W L W A 
+B L L L L L L 
+2 B L L L L L 
+1 L L L B L L 
+B L L L 1 A W 
+
+[0, 0, 10, 0, 0, 0]
+L A 0 F L W F 
+L L F W L F 0 
+L L W W L W A 
+B L L L L L L 
+2 B L L L L L 
+1 L L L B L L 
+B L L L 1 A W 
+
+[0, 0, 10, 0, 0, 0]
+L A 0 F L W F 
+L L F W L F 0 
+L L W W L W A 
+B L L L L L L 
+2 B L L L L L 
+1 L L L B L L 
+B L L L 1 A W 
+
+[0, 0, 10, 0, 0, 0]
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L A 0 L L B L 
+L L L B L L 0 
+L L B L L L A 
+B L L L L L L 
+2 B L L L L L 
+1 L L L B L L 
+B L L L 1 A B 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-86
+7
+7
+W A W A W W F 
+W 3 W W W A 0 
+W W W W W W F 
+A W W W W W 1 
+W W W W W W W 
+A 1 W W W 1 W 
+W W W 1 W 1 W 
+
+L A L A L W F 
+B 3 B L L A 0 
+L B L L L L L 
+A L L L L B 1 
+W L L W L L L 
+A 1 L W L 1 B 
+L B L 1 B 1 L 
+
+[0, 0, 5, 0, 0, 0]
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L A L A L B L 
+B 3 B L L A 0 
+L B L L L L L 
+A L L L L B 1 
+L L L B L L L 
+A 1 L L L 1 B 
+L B L 1 B 1 L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-87
+7
+7
+W W W W W A W 
+A 2 A W W A W 
+W W W W W 1 W 
+W W W 2 W W W 
+W 1 W W F F W 
+W 1 W F 0 0 A 
+W A W W F F W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L B L L L A L 
+A 2 A B L A L 
+L B L L L 1 B 
+L L L 2 B L L 
+B 1 L B L L L 
+L 1 B L 0 0 A 
+L A L L L L B 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-88
+7
+7
+W 1 W W W 2 W 
+2 W W W W W 1 
+W W 1 W 1 W W 
+W W W W W W W 
+W W 2 W A W W 
+A W W W W W 2 
+W 2 W W W 1 W 
+
+first gwo selesai
+[0, 0, 1, 1, 0, 1] 1
+F 1 L L B 2 B 
+2 B L L L L 1 
+B L 1 L 1 B L 
+L L B L L L L 
+L L 2 B A L B 
+A L L L B L 2 
+B 2 B L L 1 B 
+
+1
+[0, 0, 1, 1, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-89
+7
+7
+W W F 0 F W W 
+W A W A W 2 W 
+W W W F W W W 
+1 A F 0 F A A 
+W F W F W F W 
+F 0 F A F 0 F 
+W F F 0 F F W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1
+B L L 0 L L B 
+L A B A B 2 L 
+L L L L L B L 
+1 A L 0 L A A 
+B L L L L L L 
+L 0 L A L 0 L 
+L F L 0 L L B 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-90
+7
+7
+W W W W A 0 F 
+2 W W W W F W 
+A W W W W W W 
+W W W W W W F 
+W W W W W F 0 
+W W W W W W A 
+W 1 2 W W W W 
+
+B L L L A 0 F 
+2 B L L L L L 
+A L L L W W W 
+L L L L W W F 
+L L L L W F 0 
+L L B L L L A 
+B 1 2 B L L L 
+
+[0, 0, 9, 0, 0, 0]
+B L L L A 0 F 
+2 B L L L L L 
+A L L L W W W 
+L L L L W W F 
+L L L L W F 0 
+L L B L L L A 
+B 1 2 B L L L 
+
+[0, 0, 9, 0, 0, 0]
+B L L L A 0 F 
+2 B L L L L L 
+A L L L W W W 
+L L L L W W F 
+L L L L W F 0 
+L L B L L L A 
+B 1 2 B L L L 
+
+[0, 0, 9, 0, 0, 0]
+B L L L A 0 F 
+2 B L L L L L 
+A L L L W W W 
+L L L L W W F 
+L L L L W F 0 
+L L B L L L A 
+B 1 2 B L L L 
+
+[0, 0, 9, 0, 0, 0]
+B L L L A 0 F 
+2 B L L L L L 
+A L L L W W W 
+L L L L W W F 
+L L L L W F 0 
+L L B L L L A 
+B 1 2 B L L L 
+
+[0, 0, 9, 0, 0, 0]
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+B L L L A 0 L 
+2 B L L L L L 
+A L L L L L B 
+L L L L L B L 
+L L L L B L 0 
+L L B L L L A 
+B 1 2 B L L L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-91
+7
+7
+W W W W W W W 
+W W W W 2 W W 
+W A W 4 W W W 
+W W 2 W 3 W W 
+W W W 2 W 3 W 
+W W 2 W W W W 
+W W W W W W W 
+
+first gwo selesai
+[1, 1, 0, 0, 0, 0] 25
+L L L L B L L 
+L L L B 2 B L 
+L A B 4 B L L 
+L L 2 B 3 C L 
+B L L 2 B 3 B 
+L B 2 L L B L 
+L L B L L L L 
+
+25
+[1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-92
+7
+7
+W W W W W W W 
+W F 1 W 2 W W 
+F 0 F W W 3 W 
+W F W W W F W 
+W A W W F 0 F 
+W W 1 W A F W 
+W W W W W W W 
+
+L L B L L L L 
+W F 1 W 2 B L 
+F 0 L L B 3 B 
+W F W W L F L 
+W A W W L 0 L 
+L B 1 W A F L 
+W L W W W W L 
+
+[0, 0, 19, 0, 0, 0]
+L L B L L L L 
+W F 1 L 2 B L 
+F 0 L L B 3 B 
+W F W L L F L 
+W A W L L 0 L 
+W W 1 B A F L 
+W W W L W W L 
+
+[0, 0, 17, 0, 0, 0]
+L L B L L L L 
+W F 1 W 2 B L 
+F 0 L L B 3 B 
+W F L W L F L 
+W A B L L 0 L 
+W W 1 W A F L 
+W W W W W W L 
+
+[0, 0, 19, 0, 0, 0]
+L L B L L L L 
+W F 1 W 2 B L 
+F 0 L L B 3 B 
+W F L W L F L 
+W A B L L 0 L 
+W W 1 W A F L 
+W W W W W W L 
+
+[0, 0, 19, 0, 0, 0]
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+[0, 0, 1, 0, 0, 1] 1
+L L B L L L L 
+B L 1 L 2 B L 
+L 0 L L B 3 B 
+L L B L L L L 
+L A L B L 0 L 
+L B 1 L A F L 
+L L L L B L L 
+
+1
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-93
+7
+7
+W W W W W W W 
+W W 2 W 3 W W 
+W A W W W 1 W 
+W W W 2 W W W 
+W A W W F 1 W 
+W W A F 0 F W 
+W W W W F W W 
+
+first gwo selesai
+[0, 1, 0, 0, 0, 0] 20
+L L B L L L L 
+B L 2 B 3 B L 
+L A L L B 1 B 
+L L B 2 L B L 
+L A L B L 1 L 
+L B A L 0 L L 
+L L L L L B L 
+
+20
+[0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-94
+7
+7
+W W W W W W W 
+W W F 2 W W W 
+W F 0 F 3 W W 
+W 1 F W W 2 W 
+W W 1 W 2 W W 
+W W W 2 W W W 
+W W W W W W W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+L L L B L L L 
+L B L 2 B L L 
+L L 0 F 3 B L 
+B 1 L L B 2 L 
+L L 1 F 2 L B 
+L L B 2 B L L 
+L B L L L L L 
+
+2
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-95
+7
+7
+W W W W W W W 
+W 2 W 3 W 2 W 
+W W 4 W A W W 
+W 2 W A W 3 W 
+W W A W A W W 
+W 2 W A W A W 
+W W W W W W W 
+
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3
+L L L L L B L 
+L 2 B 3 B 2 L 
+L B 4 B A F L 
+L 2 B A B 3 B 
+L F A B A B L 
+B 2 F A B A L 
+L B L L L L L 
+
+3
+[0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_normal papan ke-96
+7
+7
+W W 2 W W W W 
+W A W W W 1 W 
+W W W A W W 1 
+W W A A A W W 
+1 W F 0 F W W 
+W 1 W F F A W 
+W W W F 0 F W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2
+L B 2 B L L L 
+L A L L B 1 F 
+L B L A L L 1 
+B L A A A L B 
+1 L L 0 L B L 
+L 1 B L L A L 
+B L L L 0 F L 
+
+2
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-97
+7
+7
+W W W W W W W 
+W W W A F W W 
+W W 2 F 0 F W 
+W 2 W W F 2 W 
+W W A W 2 W W 
+W W W 3 W W W 
+W W W W W W W 
+
+W L L W W W L 
+L L B A F W L 
+L B 2 F 0 F L 
+W 2 W W F 2 B 
+L B A W 2 B L 
+L L B 3 B L L 
+L L L B L L L 
+
+[0, 0, 13, 0, 0, 0]
+W L L W W W L 
+L L B A F W L 
+L B 2 F 0 F L 
+W 2 W W F 2 B 
+L B A W 2 B L 
+L L B 3 B L L 
+L L L B L L L 
+
+[0, 0, 13, 0, 0, 0]
+W L W W W W L 
+W L W A F W L 
+L B 2 F 0 F L 
+W 2 B L L 2 B 
+W W A W 2 B L 
+L L B 3 B L L 
+L L L B L L L 
+
+[0, 0, 15, 0, 0, 0]
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3
+[0, 0, 0, 0, 0, 0] 0
+B L L L L L L 
+L L B A L B L 
+L B 2 L 0 L L 
+L 2 L B L 2 B 
+L B A L 2 B L 
+L L B 3 B L L 
+L L L B L L L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-98
+7
+7
+W W W W W W W 
+W A W W W 1 W 
+W W W 3 W W W 
+W W 3 W 4 W W 
+W W W A W W W 
+W A W W W 2 W 
+W W W W W W W 
+
+first gwo selesai
+[0, 1, 1, 0, 0, 1] 21
+L L L L L B L 
+L A L F L 1 L 
+L L B 3 B L L 
+L B 3 B 4 B L 
+L L B A B L L 
+B A L B L 2 B 
+L L L L L B L 
+
+21
+[0, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-99
+7
+7
+W 2 W 1 W W W 
+W W W W W W A 
+W W W A W W W 
+A W A W 3 W 1 
+W W W 3 W W W 
+A W W W W W W 
+W W W A W A W 
+
+first gwo selesai
+[0, 1, 1, 0, 0, 1] 21
+B 2 L 1 B L L 
+L B L L L L A 
+L L B A L L F 
+A L A B 3 B 1 
+L L B 3 B L L 
+A L L B L L L 
+B L L A L A B 
+
+21
+[0, 1, 1, 0, 0, 1]
+22 dari 100 papan selesai
+persentase keberhasilan sebesar 0.22 persen

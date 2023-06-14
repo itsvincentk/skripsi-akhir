@@ -1,0 +1,78 @@
+[[1], [0, 1, 2, 3]]
+0 0 F W W W A 
+F F W A W W 2 
+W W W W W W W 
+W A W A W 1 W 
+W W W F W W W 
+A W F 0 F F W 
+A W W F F 0 A 
+
+None
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+2 ['NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'NOT_AVAILABLE'] True 2
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+1 ['AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'AVAILABLE'] True 1
+5 [None, None, None, None] True 5
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+None
+0 0 F W W L A 
+F F W A L B 2 
+L L L L L L B 
+W A W A F 1 L 
+L L L L L B L 
+A W F 0 F L L 
+A W W F F 0 A 
+
+32
+[0, 16, 0, 0, 0, 0]
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+2 ['NOT_AVAILABLE', 'BULB_PLACED', 'BULB_PLACED', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+1 ['NOT_AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+0 0 F W W L A 
+F F W A L B 2 
+L L L L L L B 
+W A W A F 1 L 
+L L L L L B L 
+A W F 0 F L L 
+A W W F F 0 A 
+
+0 0 L L B L A 
+L L B A L B 2 
+L L L L L L B 
+B A L A L 1 L 
+L L L L L B L 
+A L L 0 L L L 
+A B L L L 0 A 
+
+0
+[0, 0, 0, 0, 0, 0]
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+2 ['NOT_AVAILABLE', 'BULB_PLACED', 'BULB_PLACED', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+1 ['NOT_AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5

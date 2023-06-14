@@ -1,0 +1,62 @@
+mencoba tingkat kesulitan 7_easy papan ke-0
+7
+7
+W W W F 0 F W 
+W A W W F 1 W 
+1 W W W W W W 
+W W W 2 W W W 
+W W W W W F A 
+W 1 F W F 0 F 
+W F 0 F W F W 
+
+first gwo selesai
+mencoba tingkat kesulitan 7_easy papan ke-1
+7
+7
+W W W W W W W 
+W W W A W W W 
+W W 4 W 2 W W 
+W 3 W A W 3 W 
+W W 4 W A W W 
+W W W 2 W W W 
+W W W W W W W 
+
+first gwo selesai
+[0, 1, 0, 0, 0, 0] 20
+mencoba tingkat kesulitan 7_easy papan ke-2
+7
+7
+2 W W W W W 1 
+W W W W A W W 
+W A W W W W W 
+W W W W W W W 
+W W W W W 3 W 
+F W 1 W W W W 
+0 F W W W W A 
+
+first gwo selesai
+[1, 1, 0, 0, 0, 0] 25
+mencoba tingkat kesulitan 7_easy papan ke-3
+7
+7
+W 1 W W F W F 
+W W W F 0 F 0 
+W A W W F W F 
+W W W W W W W 
+W W W W W 3 W 
+2 W A W W F W 
+W W W W F 0 F 
+
+first gwo selesai
+[0, 1, 0, 0, 0, 0] 20
+mencoba tingkat kesulitan 7_easy papan ke-4
+7
+7
+W W W 1 W W W 
+W W W W W W W 
+F W 4 W 2 W W 
+0 F W W W W A 
+F W 2 W A W W 
+W W W F W W W 
+W W F 0 F W W 
+

@@ -1,0 +1,12 @@
+mencoba tingkat kesulitan 7_normal papan ke-0
+7
+7
+W W W W W W W 
+W A W W 2 2 W 
+W 1 W W W W W 
+W W W 3 W W W 
+W F W W W A W 
+F 0 A W F 0 F 
+W F W W W F W 
+
+first gwo selesai

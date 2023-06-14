@@ -1,0 +1,342 @@
+mencoba tingkat kesulitan 40_monthly papan ke-0
+A A W 1 W W W A W 2 A W A 1 W A A W 2 W W A W A A W A A W A A W A W W W A W A A 
+W W W W A W W W W W W A A W A W W W W W W W W W W A W A 3 W W W W W W 2 W W W W 
+A A A F 0 F W W A 1 W W A W W W F W W W W W W W W W F A W W A A W W F 0 F A A A 
+W A W W F W 4 W A A A A W 2 W F 0 F F W W W W A W F 0 F A A A A W A W F W W 2 W 
+A W A F 0 F W A W A W W W W W W A F 0 F W 1 W 1 W W F W W W A W 3 W W A W A W A 
+1 W 1 W F A A W A A W W 1 W W W A F F F W W W A W W W 4 W W A 3 W A 1 W W A W A 
+A A W W W A A F F 0 A W W A 1 W F 0 A 0 A A A W W A A W W A A W W A 1 W W W A A 
+1 A W W F A F 0 F F A W A A A W F F W A A W W W W A A A W A W W A W A W W W A A 
+W W W F 0 A W F W W W W W W W F 0 A A A A A 2 A W W F W W W W W W W A A W F W W 
+W A A A A A W W W A W 2 W 1 W W F W W A A W W W W F 0 F A W A W W W A A A 0 A W 
+W A A W W F W W A A W W A A A 1 W A W A A W 2 W A 1 A A W W A A W W W W F 0 1 W 
+W F W W F 0 A A F W W W A W W W F A W 1 0 F A W W W W A W W W W A 2 A W W F F W 
+A 0 F W W F W A 0 F W A W 2 W F 0 F W W F W F A W W A W 2 W W A A W W W W F 0 A 
+1 A 1 W W W W A A 1 W A W A A 1 F A W W W F 0 F 1 A 1 W A W A A A W W W W A A A 
+W W W A W 2 W A A W A A F A A W W A A F W A 0 F W A A W A A W A A W 2 W 2 W W W 
+W A A W 2 W W A A 1 W F 0 A A W W A A 0 A A A W W A A A W W 2 0 A W W A W A 1 W 
+W 2 W F W W A A W W W W F A W W W W W F W W W W W W A W W W W F A A W W W W 1 W 
+W W 2 0 F W A A A W W W W W W W A W A A A A W 1 W W W W W W F A A 1 W W A A W W 
+A W W F W A 0 F W 1 W 1 A W W W W W W W W W W W W W W 2 A F 0 F W A A W W W W A 
+A W W A F 0 F W A A W W W W A 1 W A W 2 1 W A W A A W W W W A A W W 3 W 1 W W A 
+W A A A W F W W A W A A 2 W A W A A W W W W A 3 W A W A A A W 2 W W W W A A 2 W 
+W 1 A W W W W W W W A W A A W W W W W W W W W W W W A A W A W W W W W W W 1 A W 
+F W W W W F F A 1 A A 2 W W W A W F W W W W W W A W W W A A A A A F W W W W W W 
+0 2 W F A 0 0 F W A A W W F W W 2 0 F W W W A A W W W W W A A W F 0 A A W W 1 A 
+F W F 0 A F F W W A W W A 0 F A W F A W W 1 W W A W 1 1 W W A W W F W A A W W W 
+W W W A 1 W W W W A W W 2 A W A W W A W W A W F 1 W A A W W A W W F W 1 A W W W 
+A A W W 2 A A W F A A W W W W W A A W W W W 3 0 F W W W W A A F F 0 A 0 F W 1 A 
+W F W W W W W 1 0 A A A W W W A W W W W W W W F A W W W A A A 0 A F W F W W W W 
+F 0 A W W W W W F W 1 W A 2 W W W W W W W W W W W W A 1 W A W F W W W W W A 1 W 
+W A A A W F W W A W A A A W A W A A W W W W A A W A W A A A W 2 W W W W A A A W 
+A W W 2 F 0 F W 2 A W W W W 2 A W 2 W A A W A W A A W W F W A A W W A F 0 F W A 
+A W W W W A A W W A W 1 1 W W W W W W W W W W W W W W 1 0 F A W W A 0 F F W W A 
+W W A A W W A A A W W W W W W W A W A A A A W A W W W W F W W 3 A A F W A A W W 
+W A F W W W A A W W W W W A W W W W W W W W W W W W A W W W W W A 2 W W W W 1 W 
+W A 0 F 2 W W A A 2 W W A A A W W A A A A A A W W 1 A A W W A A A W W 2 W A 1 W 
+W W F A W A W A A W A A W A A W W A 1 W W A 0 F F A A W A A W A A W 1 W A F W W 
+1 A 1 W W W W A A 1 W A W A A 3 W A W W W W 1 F 0 A A W A W 3 A A W W W F 0 A A 
+1 A W W W W W A A W W A W 1 W W A W W W W W W A F W 2 W A W W A A W W W W F 0 A 
+W W W W W A 2 A W W W W A W W W W 2 W A A W A W W W W A W W W F A A A W W W F W 
+W A A W W W W W A A W W A A 1 A W A W A A F 0 F 1 A A A W W A 0 F W W W W 1 A W 
+F 0 A A A A W W W 2 W A F 0 F W W W W A A W F W W W A W A W 1 F W W A A A A 1 W 
+W F W W A A W W W W W W W F W W A 1 A A A A A A W W W W W W W W W W A A W W W W 
+A 1 W W W A W A W W A W 2 A A W W W W A A W W W W 1 A A W A W W A W 2 W W W A A 
+A A F W W 1 A W W A A W W A A W W 1 A A 1 A A W W A 2 W W A A W W A A W W F A A 
+A F 0 F W A A W A A W W A W W W A W W W W W W A W W W 2 W W A 2 W A A W F 0 F A 
+A W A W A W W 2 W A W W W W W W 2 W 2 W W 1 F 0 F W W W W W 2 W A W W 1 W 2 W A 
+W 2 W W W W 1 W A A A A W 1 W W A W W W W W W A W W A W A A A 1 W A W W W W A W 
+A 1 A W A W W W A 0 F W A W W W W W W W W W W W W W W A W W A A W W W A W A A A 
+W W W W A W W W W F W A A W A W W W W W W F W W W A W A 2 W W W W W W A W W W W 
+A A W A W W W 3 W A A W A A W A A W 1 W F 0 F A A W A A W A 1 W 1 W W W 1 W A A 
+
+masuk preproc second
+A A W 1 B L L A B 2 A B A 1 B A A W 2 W W A L A A B A A B A A B A L L B A B A A 
+W W W W A L L L L B L A A W A L W W W W W W L W W A B A 3 B L L L L L 2 B L L L 
+A A A F 0 L B L A 1 W W A W W L F W W W W W L W W W L A B L A A L B L 0 L A A A 
+B A L L L B 4 B A A A A W 2 W L 0 F F W W W L A W F 0 L A A A A B A L L L B 2 B 
+A L A F 0 L B A B A W W W W W L A F 0 F W 1 B 1 L L L B L L A B 3 L B A L A W A 
+1 B 1 W F A A B A A W W 1 W W L A F F F W W L A L L B 4 B L A 3 B A 1 L L A W A 
+A A W W W A A L F 0 A W W A 1 B L 0 A 0 A A A W W A A B L A A B L A 1 B L L A A 
+1 A W W F A F 0 F L A W A A A L L L B A A L B L L A A A L A W L A L A L L B A A 
+B L L L 0 A L L L B L L L L L L 0 A A A A A 2 A L L L B L L L L L L A A L L B L 
+L A A A A A W W W A W 2 B 1 W L L W W A A L B L L L 0 L A L A L B L A A A 0 A L 
+L A A L W F W W A A W W A A A 1 B A W A A W 2 B A 1 A A L L A A L B L L L 0 1 B 
+L L B L L 0 A A F W W W A W W W L A W 1 0 F A L L B L A B L L L A 2 A L B L L L 
+A 0 L L W F W A 0 F W A W 2 W F 0 F W W F W F A B L A L 2 B L A A B L L L L 0 A 
+1 A 1 B L L L A A 1 W A W A A 1 F A W W W F 0 F 1 A 1 B A L A A A L B L L A A A 
+B L L A W 2 W A A B A A F A A B L A A F W A 0 F W A A L A A B A A L 2 B 2 W W W 
+L A A B 2 W W A A 1 W F 0 A A L W A A 0 A A A W W A A A W W 2 0 A L L A W A 1 W 
+L 2 B L L L A A W W W W F A W L W W W F W W W W W W A W W W W F A A L L W W 1 W 
+L B 2 0 F W A A A W W W W L W L A W A A A A W 1 W W W W W W F A A 1 B L A A L W 
+A L W F W A 0 L B 1 W 1 A L W L W W W W W W W L W W W 2 A F 0 L B A A L W W L A 
+A L W A F 0 F W A A L L B L A 1 W A W 2 1 W A B A A W W W W A A L B 3 B 1 L B A 
+W A A A W F W W A W A A 2 B A B A A W W W W A 3 B A W A A A B 2 L L B L A A 2 B 
+W 1 A W W W W W W W A B A A L L L L L L L L L B L L A A B A L B L L L L L 1 A L 
+F W W W W F F A 1 A A 2 B L L A W F W W W W W L A L L B A A A A A L L L L B L L 
+0 2 W F A 0 0 L L A A L L L L B 2 0 F W W W A A L L B L L A A W L 0 A A B L 1 A 
+F W F 0 A L L L B A B L A 0 L A W F A W W 1 L B A L 1 1 B L A L B L L A A L B L 
+W W W A 1 B L L L A L B 2 A L A W W A W W A B L 1 B A A L B A L L L B 1 A L L B 
+A A L B 2 A A B L A A L B L L L A A L L L B 3 0 F L W W L A A F L 0 A 0 L L 1 A 
+L L L L B L L 1 0 A A A L B L A L L L L L L B L A L W W A A A 0 A L L L L L B L 
+L 0 A L L W W L F W 1 B A 2 B L L L L L L L L L L L A 1 B A L L L L L L B A 1 W 
+B A A A L F W L A W A A A L A B A A L W W L A A B A B A A A B 2 B L L L A A A W 
+A L B 2 L 0 L B 2 A L L L B 2 A B 2 B A A L A B A A L B L L A A L B A L 0 F W A 
+A L L B L A A L B A B 1 1 L B L L L L L L L L L L L L 1 0 L A B L A 0 L F W W A 
+L B A A L L A A A L L L B L L L A W A A A A W A L L L L L L B 3 A A L B A A W W 
+L A L B L L A A L B L L L A L L L W W W W W W W W W A L L L L B A 2 B L L L 1 W 
+L A 0 L 2 B L A A 2 L B A A A L L A A A A A A W W 1 A A L B A A A B L 2 B A 1 W 
+B L L A B A L A A B A A L A A B L A 1 B L A 0 F F A A L A A B A A L 1 B A F W W 
+1 A 1 B L L L A A 1 W A L A A 3 B A L L L B 1 F 0 A A L A B 3 A A L W L F 0 A A 
+1 A L L L L B A A W W A B 1 L B A B L L L L L A L B 2 B A L B A A L W L W F 0 A 
+B L L L L A 2 A W W W W A L B L L 2 B A A L A L B L L A B L L L A A A L W W F W 
+L A A L L L B L A A W W A A 1 A B A L A A L 0 F 1 A A A L L A 0 L L W L W 1 A W 
+L 0 A A A A L W W 2 W A F 0 L L L B L A A L F W L W A B A L 1 L B L A A A A 1 W 
+L L L B A A L W W W W L W F W L A 1 A A A A A A L L L L L L B L L L A A L W W W 
+A 1 B L L A L A W W A B 2 A A L L W W A A L L L B 1 A A B A L B A B 2 B L L A A 
+A A L L B 1 A L W A A L B A A L B 1 A A 1 A A B L A 2 B L A A L B A A L B L A A 
+A L 0 L L A A B A A B L A W L L A L L L B L L A L L B 2 L L A 2 L A A L L 0 L A 
+A B A L A L W 2 B A L L L L L B 2 B 2 B L 1 F 0 L L L L L B 2 B A W W 1 L 2 B A 
+B 2 W L W L 1 L A A A A B 1 B L A L L L L B L A L B A B A A A 1 B A L L L B A B 
+A 1 A L A B L L A 0 L B A L L L W L L L L L W W L L L A W W A A L W W A L A A A 
+L B L L A L L B L L L A A B A L L L B L L L L L L A B A 2 W W L L W W A L L W W 
+A A B A L L B 3 B A A B A A B A A L 1 L L 0 F A A B A A B A 1 B 1 W W W 1 B A A 
+
+
+A A W 1 B L L A B 2 A B A 1 B A A W 2 W W A L A A B A A B A A B A L L B A B A A 
+W W W W A L L L L B L A A W A L W W W W W W L W W A B A 3 B L L L L L 2 B L L L 
+A A A F 0 L B L A 1 W W A W W L F W W W W W L W W W L A B L A A L B L 0 L A A A 
+B A L L L B 4 B A A A A W 2 W L 0 F F W W W L A W F 0 L A A A A B A L L L B 2 B 
+A L A F 0 L B A B A W W W W W L A F 0 F W 1 B 1 L L L B L L A B 3 L B A L A W A 
+1 B 1 W F A A B A A W W 1 W W L A F F F W W L A L L B 4 B L A 3 B A 1 L L A W A 
+A A W W W A A L L 0 A W W A 1 B L 0 A 0 A A A W W A A B L A A B L A 1 B L L A A 
+1 A W W F A L 0 L L A W A A A L L L B A A L B L L A A A L A B L A L A L L B A A 
+B L L L 0 A L L L B L L L L L L 0 A A A A A 2 A L L L B L L L L L L A A L L B L 
+L A A A A A L L B A W 2 B 1 W L L W W A A L B L L L 0 L A L A L B L A A A 0 A L 
+L A A L L L B L A A W W A A A 1 B A W A A W 2 B A 1 A A L L A A L B L L L 0 1 B 
+L L B L L 0 A A F W W W A W W W L A W 1 0 F A L L B L A B L L L A 2 A L B L L L 
+A 0 L L W F W A 0 F W A W 2 W F 0 F W W F W F A B L A L 2 B L A A B L L L L 0 A 
+1 A 1 B L L L A A 1 W A W A A 1 F A W W W F 0 F 1 A 1 B A L A A A L B L L A A A 
+B L L A W 2 W A A B A A F A A B L A A F W A 0 F W A A L A A B A A L 2 B 2 W W W 
+L A A B 2 W W A A 1 W F 0 A A L W A A 0 A A A W W A A A W W 2 0 A L L A W A 1 W 
+L 2 B L L L A A W W W W F A W L W W W F W W W W W W A W W W W F A A L L W W 1 W 
+L B 2 0 F W A A A W W W W L W L A W A A A A W 1 W W W W W W F A A 1 B L A A L W 
+A L W F W A 0 L B 1 W 1 A L W L W W W W W W W L W W W 2 A F 0 L B A A L W W L A 
+A L W A F 0 F W A A L L B L A 1 W A W 2 1 W A B A A W W W W A A L B 3 B 1 L B A 
+W A A A W F W W A W A A 2 B A B A A W W W W A 3 B A W A A A B 2 L L B L A A 2 B 
+W 1 A L L L L L B L A B A A L L L L L L L L L B L L A A B A L B L L L L L 1 A L 
+F W W W W F F A 1 A A 2 B L L A W F W W W W W L A L L B A A A A A L L L L B L L 
+0 2 W F A 0 0 L L A A L L L L B 2 0 F W W W A A L L B L L A A B L 0 A A B L 1 A 
+F W F 0 A L L L B A B L A 0 L A W F A W W 1 L B A L 1 1 B L A L B L L A A L B L 
+W W W A 1 B L L L A L B 2 A L A W W A W W A B L 1 B A A L B A L L L B 1 A L L B 
+A A L B 2 A A B L A A L B L L L A A L L L B 3 0 F L W W L A A L L 0 A 0 L L 1 A 
+L L L L B L L 1 0 A A A L B L A L L L L L L B L A L W W A A A 0 A L L L L L B L 
+L 0 A L L W W L F W 1 B A 2 B L L L L L L L L L L L A 1 B A L L L L L L B A 1 W 
+B A A A L F W L A W A A A L A B A A L W W L A A B A B A A A B 2 B L L L A A A W 
+A L B 2 L 0 L B 2 A L L L B 2 A B 2 B A A L A B A A L B L L A A L B A L 0 F W A 
+A L L B L A A L B A B 1 1 L B L L L L L L L L L L L L 1 0 L A B L A 0 L F W W A 
+L B A A L L A A A L L L B L L L A W A A A A W A L L L L L L B 3 A A L B A A W W 
+L A L B L L A A L B L L L A L L L W W W W W W W W W A L L L L B A 2 B L L L 1 W 
+L A 0 L 2 B L A A 2 L B A A A L L A A A A A A W W 1 A A L B A A A B L 2 B A 1 W 
+B L L A B A L A A B A A L A A B L A 1 B L A 0 F F A A L A A B A A L 1 B A F W W 
+1 A 1 B L L L A A 1 W A L A A 3 B A L L L B 1 F 0 A A L A B 3 A A L W L F 0 A A 
+1 A L L L L B A A W W A B 1 L B A B L L L L L A L B 2 B A L B A A L W L W F 0 A 
+B L L L L A 2 A W W W W A L B L L 2 B A A L A L B L L A B L L L A A A L W W F W 
+L A A L L L B L A A W W A A 1 A B A L A A L 0 F 1 A A A L L A 0 L L W L W 1 A W 
+L 0 A A A A L W L 2 W A F 0 L L L B L A A L F W L W A B A L 1 L B L A A A A 1 W 
+L L L B A A L W L W W L W F W L A 1 A A A A A A L L L L L L B L L L A A L W W W 
+A 1 B L L A L A L W A B 2 A A L L W W A A L L L B 1 A A B A L B A B 2 B L L A A 
+A A L L B 1 A L B A A L B A A L B 1 A A 1 A A B L A 2 B L A A L B A A L B L A A 
+A L 0 L L A A B A A B L A B L L A L L L B L L A L L B 2 L L A 2 L A A L L 0 L A 
+A B A L A L B 2 B A L L L L L B 2 B 2 B L 1 F 0 L L L L L B 2 B A L B 1 L 2 B A 
+B 2 W L W L 1 L A A A A B 1 B L A L L L L B L A L B A B A A A 1 B A L L L B A B 
+A 1 A L A B L L A 0 L B A L L L W L L L L L W W L L L A W W A A L B L A L A A A 
+L B L L A L L B L L L A A B A L L L B L L L L L L A B A 2 W W L L L L A L L W W 
+A A B A L L B 3 B A A B A A B A A L 1 L L 0 F A A B A A B A 1 B 1 L L B 1 B A A 
+
+
+A A W 1 B L L A B 2 A B A 1 B A A W 2 W W A L A A B A A B A A B A L L B A B A A 
+W W W W A L L L L B L A A W A L W W W W W W L W W A B A 3 B L L L L L 2 B L L L 
+A A A F 0 L B L A 1 W W A W W L F W W W W W L W W W L A B L A A L B L 0 L A A A 
+B A L L L B 4 B A A A A W 2 W L 0 F F W W W L A W F 0 L A A A A B A L L L B 2 B 
+A L A F 0 L B A B A W W W W W L A F 0 F W 1 B 1 L L L B L L A B 3 L B A L A W A 
+1 B 1 W F A A B A A W W 1 W W L A F F F W W L A L L B 4 B L A 3 B A 1 L L A W A 
+A A W W W A A L L 0 A W W A 1 B L 0 A 0 A A A W W A A B L A A B L A 1 B L L A A 
+1 A W W F A L 0 L L A W A A A L L L B A A L B L L A A A L A B L A L A L L B A A 
+B L L L 0 A L L L B L L L L L L 0 A A A A A 2 A L L L B L L L L L L A A L L B L 
+L A A A A A L L B A W 2 B 1 W L L W W A A L B L L L 0 L A L A L B L A A A 0 A L 
+L A A L L L B L A A W W A A A 1 B A W A A W 2 B A 1 A A L L A A L B L L L 0 1 B 
+L L B L L 0 A A F W W W A W W W L A W 1 0 F A L L B L A B L L L A 2 A L B L L L 
+A 0 L L W F W A 0 F W A W 2 W F 0 F W W F W F A B L A L 2 B L A A B L L L L 0 A 
+1 A 1 B L L L A A 1 W A W A A 1 F A W W W F 0 F 1 A 1 B A L A A A L B L L A A A 
+B L L A W 2 W A A B A A F A A B L A A F W A 0 F W A A L A A B A A L 2 B 2 W W W 
+L A A B 2 W W A A 1 W F 0 A A L W A A 0 A A A W W A A A W W 2 0 A L L A W A 1 W 
+L 2 B L L L A A W W W W F A W L W W W F W W W W W W A W W W W F A A L L W W 1 W 
+L B 2 0 F W A A A W W W W L W L A W A A A A W 1 W W W W W W F A A 1 B L A A L W 
+A L W F W A 0 L B 1 W 1 A L W L W W W W W W W L W W W 2 A F 0 L B A A L W W L A 
+A L W A F 0 F W A A L L B L A 1 W A W 2 1 W A B A A W W W W A A L B 3 B 1 L B A 
+W A A A W F W W A B A A 2 B A B A A W W W W A 3 B A W A A A B 2 L L B L A A 2 B 
+W 1 A L L L L L B L A B A A L L L L L L L L L B L L A A B A L B L L L L L 1 A L 
+F W W W W F F A 1 A A 2 B L L A W F W W W W W L A L L B A A A A A L L L L B L L 
+0 2 W F A 0 0 L L A A L L L L B 2 0 F W W W A A L L B L L A A B L 0 A A B L 1 A 
+F W F 0 A L L L B A B L A 0 L A W F A W W 1 L B A L 1 1 B L A L B L L A A L B L 
+W W W A 1 B L L L A L B 2 A L A W W A W W A B L 1 B A A L B A L L L B 1 A L L B 
+A A L B 2 A A B L A A L B L L L A A L L L B 3 0 F L W W L A A L L 0 A 0 L L 1 A 
+L L L L B L L 1 0 A A A L B L A L L L L L L B L A L W W A A A 0 A L L L L L B L 
+L 0 A L L W W L F W 1 B A 2 B L L L L L L L L L L L A 1 B A L L L L L L B A 1 W 
+B A A A L F W L A W A A A L A B A A L W W L A A B A B A A A B 2 B L L L A A A W 
+A L B 2 L 0 L B 2 A L L L B 2 A B 2 B A A L A B A A L B L L A A L B A L 0 F W A 
+A L L B L A A L B A B 1 1 L B L L L L L L L L L L L L 1 0 L A B L A 0 L F W W A 
+L B A A L L A A A L L L B L L L A W A A A A W A L L L L L L B 3 A A L B A A W W 
+L A L B L L A A L B L L L A L L L W W W W W W W W W A L L L L B A 2 B L L L 1 W 
+L A 0 L 2 B L A A 2 L B A A A L L A A A A A A W W 1 A A L B A A A B L 2 B A 1 W 
+B L L A B A L A A B A A L A A B L A 1 B L A 0 F F A A L A A B A A L 1 B A F W W 
+1 A 1 B L L L A A 1 L A L A A 3 B A L L L B 1 F 0 A A L A B 3 A A L W L F 0 A A 
+1 A L L L L B A A W L A B 1 L B A B L L L L L A L B 2 B A L B A A L W L W F 0 A 
+B L L L L A 2 A W W L W A L B L L 2 B A A L A L B L L A B L L L A A A L W W F W 
+L A A L L L B L A A L W A A 1 A B A L A A L 0 F 1 A A A L L A 0 L L W L W 1 A W 
+L 0 A A A A L B L 2 B A F 0 L L L B L A A L F W L W A B A L 1 L B L A A A A 1 W 
+L L L B A A L L L B L L L L L L A 1 A A A A A A L L L L L L B L L L A A L W W W 
+A 1 B L L A L A L L A B 2 A A L L W W A A L L L B 1 A A B A L B A B 2 B L L A A 
+A A L L B 1 A L B A A L B A A L B 1 A A 1 A A B L A 2 B L A A L B A A L B L A A 
+A L 0 L L A A B A A B L A B L L A L L L B L L A L L B 2 L L A 2 L A A L L 0 L A 
+A B A L A L B 2 B A L L L L L B 2 B 2 B L 1 F 0 L L L L L B 2 B A L B 1 L 2 B A 
+B 2 W L W L 1 L A A A A B 1 B L A L L L L B L A L B A B A A A 1 B A L L L B A B 
+A 1 A L A B L L A 0 L B A L L L W L L L L L W W L L L A W W A A L B L A L A A A 
+L B L L A L L B L L L A A B A L L L B L L L L L L A B A 2 W W L L L L A L L W W 
+A A B A L L B 3 B A A B A A B A A L 1 L L 0 F A A B A A B A 1 B 1 L L B 1 B A A 
+
+
+A A W 1 B L L A B 2 A B A 1 B A A W 2 W W A L A A B A A B A A B A L L B A B A A 
+W W W W A L L L L B L A A W A L W W W W W W L W W A B A 3 B L L L L L 2 B L L L 
+A A A F 0 L B L A 1 W W A W W L F W W W W W L W W W L A B L A A L B L 0 L A A A 
+B A L L L B 4 B A A A A W 2 W L 0 F F W W W L A W F 0 L A A A A B A L L L B 2 B 
+A L A F 0 L B A B A W W W W W L A F 0 F W 1 B 1 L L L B L L A B 3 L B A L A W A 
+1 B 1 W F A A B A A W W 1 W W L A F F F W W L A L L B 4 B L A 3 B A 1 L L A W A 
+A A W W W A A L L 0 A W W A 1 B L 0 A 0 A A A W W A A B L A A B L A 1 B L L A A 
+1 A W W F A L 0 L L A W A A A L L L B A A L B L L A A A L A B L A L A L L B A A 
+B L L L 0 A L L L B L L L L L L 0 A A A A A 2 A L L L B L L L L L L A A L L B L 
+L A A A A A L L B A W 2 B 1 W L L W W A A L B L L L 0 L A L A L B L A A A 0 A L 
+L A A L L L B L A A W W A A A 1 B A W A A W 2 B A 1 A A L L A A L B L L L 0 1 B 
+L L B L L 0 A A F W W W A W W W L A W 1 0 F A L L B L A B L L L A 2 A L B L L L 
+A 0 L L W F W A 0 F W A W 2 W F 0 F W W F W F A B L A L 2 B L A A B L L L L 0 A 
+1 A 1 B L L L A A 1 W A W A A 1 F A W W W F 0 F 1 A 1 B A L A A A L B L L A A A 
+B L L A W 2 W A A B A A F A A B L A A F W A 0 F W A A L A A B A A L 2 B 2 W W W 
+L A A B 2 W W A A 1 W F 0 A A L W A A 0 A A A W W A A A W W 2 0 A L L A W A 1 W 
+L 2 B L L L A A W W W W F A W L W W W F W W W W W W A W W W W F A A L L W W 1 W 
+L B 2 0 F W A A A W W W W L W L A W A A A A W 1 W W W W W W F A A 1 B L A A L W 
+A L W F W A 0 L B 1 W 1 A L W L W W W W W W W L W W W 2 A F 0 L B A A L W W L A 
+A L W A F 0 F W A A L L B L A 1 W A W 2 1 W A B A A W W W W A A L B 3 B 1 L B A 
+W A A A W F W W A B A A 2 B A B A A W W W W A 3 B A W A A A B 2 L L B L A A 2 B 
+W 1 A L L L L L B L A B A A L L L L L L L L L B L L A A B A L B L L L L L 1 A L 
+F W W W W F F A 1 A A 2 B L L A W F W W W W W L A L L B A A A A A L L L L B L L 
+0 2 W F A 0 0 L L A A L L L L B 2 0 F W W W A A L L B L L A A B L 0 A A B L 1 A 
+F W F 0 A L L L B A B L A 0 L A W F A W W 1 L B A L 1 1 B L A L B L L A A L B L 
+W W W A 1 B L L L A L B 2 A L A W W A W W A B L 1 B A A L B A L L L B 1 A L L B 
+A A L B 2 A A B L A A L B L L L A A L L L B 3 0 F L W W L A A L L 0 A 0 L L 1 A 
+L L L L B L L 1 0 A A A L B L A L L L L L L B L A L W W A A A 0 A L L L L L B L 
+L 0 A L L W W L F W 1 B A 2 B L L L L L L L L L L L A 1 B A L L L L L L B A 1 W 
+B A A A L F W L A W A A A L A B A A L W W L A A B A B A A A B 2 B L L L A A A W 
+A L B 2 L 0 L B 2 A L L L B 2 A B 2 B A A L A B A A L B L L A A L B A L 0 F W A 
+A L L B L A A L B A B 1 1 L B L L L L L L L L L L L L 1 0 L A B L A 0 L F W W A 
+L B A A L L A A A L L L B L L L A W A A A A W A L L L L L L B 3 A A L B A A W W 
+L A L B L L A A L B L L L A L L L W W W W W W W W W A L L L L B A 2 B L L L 1 W 
+L A 0 L 2 B L A A 2 L B A A A L L A A A A A A W W 1 A A L B A A A B L 2 B A 1 W 
+B L L A B A L A A B A A L A A B L A 1 B L A 0 F F A A L A A B A A L 1 B A F W W 
+1 A 1 B L L L A A 1 L A L A A 3 B A L L L B 1 F 0 A A L A B 3 A A L W L F 0 A A 
+1 A L L L L B A A W L A B 1 L B A B L L L L L A L B 2 B A L B A A L W L W F 0 A 
+B L L L L A 2 A W W L W A L B L L 2 B A A L A L B L L A B L L L A A A L W W F W 
+L A A L L L B L A A L W A A 1 A B A L A A L 0 F 1 A A A L L A 0 L L W L W 1 A W 
+L 0 A A A A L B L 2 B A F 0 L L L B L A A L F W L W A B A L 1 L B L A A A A 1 W 
+L L L B A A L L L B L L L L L L A 1 A A A A A A L L L L L L B L L L A A L W W W 
+A 1 B L L A L A L L A B 2 A A L L W W A A L L L B 1 A A B A L B A B 2 B L L A A 
+A A L L B 1 A L B A A L B A A L B 1 A A 1 A A B L A 2 B L A A L B A A L B L A A 
+A L 0 L L A A B A A B L A B L L A L L L B L L A L L B 2 L L A 2 L A A L L 0 L A 
+A B A L A L B 2 B A L L L L L B 2 B 2 B L 1 F 0 L L L L L B 2 B A L B 1 L 2 B A 
+B 2 W L W L 1 L A A A A B 1 B L A L L L L B L A L B A B A A A 1 B A L L L B A B 
+A 1 A L A B L L A 0 L B A L L L W L L L L L W W L L L A W W A A L B L A L A A A 
+L B L L A L L B L L L A A B A L L L B L L L L L L A B A 2 W W L L L L A L L W W 
+A A B A L L B 3 B A A B A A B A A L 1 L L 0 F A A B A A B A 1 B 1 L L B 1 B A A 
+
+
+preproc 1 selesai
+A A W 1 B L L A B 2 A B A 1 B A A W 2 W W A L A A B A A B A A B A L L B A B A A 
+W W W W A L L L L B L A A W A L W W W W W W L W W A B A 3 B L L L L L 2 B L L L 
+A A A F 0 L B L A 1 W W A W W L F W W W W W L W W W L A B L A A L B L 0 L A A A 
+B A L L L B 4 B A A A A W 2 W L 0 F F W W W L A W F 0 L A A A A B A L L L B 2 B 
+A L A F 0 L B A B A W W W W W L A F 0 F W 1 B 1 L L L B L L A B 3 L B A L A W A 
+1 B 1 W F A A B A A W W 1 W W L A F F F W W L A L L B 4 B L A 3 B A 1 L L A W A 
+A A W W W A A L L 0 A W W A 1 B L 0 A 0 A A A W W A A B L A A B L A 1 B L L A A 
+1 A W W F A L 0 L L A W A A A L L L B A A L B L L A A A L A B L A L A L L B A A 
+B L L L 0 A L L L B L L L L L L 0 A A A A A 2 A L L L B L L L L L L A A L L B L 
+L A A A A A L L B A W 2 B 1 W L L W W A A L B L L L 0 L A L A L B L A A A 0 A L 
+L A A L L L B L A A W W A A A 1 B A W A A W 2 B A 1 A A L L A A L B L L L 0 1 B 
+L L B L L 0 A A F W W W A W W W L A W 1 0 F A L L B L A B L L L A 2 A L B L L L 
+A 0 L L W F W A 0 F W A W 2 W F 0 F W W F W F A B L A L 2 B L A A B L L L L 0 A 
+1 A 1 B L L L A A 1 W A W A A 1 F A W W W F 0 F 1 A 1 B A L A A A L B L L A A A 
+B L L A W 2 W A A B A A F A A B L A A F W A 0 F W A A L A A B A A L 2 B 2 W W W 
+L A A B 2 W W A A 1 W F 0 A A L W A A 0 A A A W W A A A W W 2 0 A L L A W A 1 W 
+L 2 B L L L A A W W W W F A W L W W W F W W W W W W A W W W W F A A L L W W 1 W 
+L B 2 0 F W A A A W W W W L W L A W A A A A W 1 W W W W W W F A A 1 B L A A L W 
+A L W F W A 0 L B 1 W 1 A L W L W W W W W W W L W W W 2 A F 0 L B A A L W W L A 
+A L W A F 0 F W A A L L B L A 1 W A W 2 1 W A B A A W W W W A A L B 3 B 1 L B A 
+W A A A W F W W A B A A 2 B A B A A W W W W A 3 B A W A A A B 2 L L B L A A 2 B 
+W 1 A L L L L L B L A B A A L L L L L L L L L B L L A A B A L B L L L L L 1 A L 
+F W W W W F F A 1 A A 2 B L L A W F W W W W W L A L L B A A A A A L L L L B L L 
+0 2 W F A 0 0 L L A A L L L L B 2 0 F W W W A A L L B L L A A B L 0 A A B L 1 A 
+F W F 0 A L L L B A B L A 0 L A W F A W W 1 L B A L 1 1 B L A L B L L A A L B L 
+W W W A 1 B L L L A L B 2 A L A W W A W W A B L 1 B A A L B A L L L B 1 A L L B 
+A A L B 2 A A B L A A L B L L L A A L L L B 3 0 F L W W L A A L L 0 A 0 L L 1 A 
+L L L L B L L 1 0 A A A L B L A L L L L L L B L A L W W A A A 0 A L L L L L B L 
+L 0 A L L W W L F W 1 B A 2 B L L L L L L L L L L L A 1 B A L L L L L L B A 1 W 
+B A A A L F W L A W A A A L A B A A L W W L A A B A B A A A B 2 B L L L A A A W 
+A L B 2 L 0 L B 2 A L L L B 2 A B 2 B A A L A B A A L B L L A A L B A L 0 F W A 
+A L L B L A A L B A B 1 1 L B L L L L L L L L L L L L 1 0 L A B L A 0 L F W W A 
+L B A A L L A A A L L L B L L L A W A A A A W A L L L L L L B 3 A A L B A A W W 
+L A L B L L A A L B L L L A L L L W W W W W W W W W A L L L L B A 2 B L L L 1 W 
+L A 0 L 2 B L A A 2 L B A A A L L A A A A A A W W 1 A A L B A A A B L 2 B A 1 W 
+B L L A B A L A A B A A L A A B L A 1 B L A 0 F F A A L A A B A A L 1 B A F W W 
+1 A 1 B L L L A A 1 L A L A A 3 B A L L L B 1 F 0 A A L A B 3 A A L W L F 0 A A 
+1 A L L L L B A A W L A B 1 L B A B L L L L L A L B 2 B A L B A A L W L W F 0 A 
+B L L L L A 2 A W W L W A L B L L 2 B A A L A L B L L A B L L L A A A L W W F W 
+L A A L L L B L A A L W A A 1 A B A L A A L 0 F 1 A A A L L A 0 L L W L W 1 A W 
+L 0 A A A A L B L 2 B A F 0 L L L B L A A L F W L W A B A L 1 L B L A A A A 1 W 
+L L L B A A L L L B L L L L L L A 1 A A A A A A L L L L L L B L L L A A L W W W 
+A 1 B L L A L A L L A B 2 A A L L W W A A L L L B 1 A A B A L B A B 2 B L L A A 
+A A L L B 1 A L B A A L B A A L B 1 A A 1 A A B L A 2 B L A A L B A A L B L A A 
+A L 0 L L A A B A A B L A B L L A L L L B L L A L L B 2 L L A 2 L A A L L 0 L A 
+A B A L A L B 2 B A L L L L L B 2 B 2 B L 1 F 0 L L L L L B 2 B A L B 1 L 2 B A 
+B 2 W L W L 1 L A A A A B 1 B L A L L L L B L A L B A B A A A 1 B A L L L B A B 
+A 1 A L A B L L A 0 L B A L L L W L L L L L W W L L L A W W A A L B L A L A A A 
+L B L L A L L B L L L A A B A L L L B L L L L L L A B A 2 W W L L L L A L L W W 
+A A B A L L B 3 B A A B A A B A A L 1 L L 0 F A A B A A B A 1 B 1 L L B 1 B A A 
+
+0 18 2 ['AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'NOT_AVAILABLE'] 2 True
+3 13 2 ['AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'AVAILABLE'] 2 True
+5 12 1 ['AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'AVAILABLE'] 1 True
+9 11 2 ['BULB_PLACED', 'AVAILABLE', 'AVAILABLE', 'NOT_AVAILABLE'] 1 True
+11 19 1 ['NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'NOT_AVAILABLE'] 1 True
+12 13 2 ['AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE'] 2 True
+14 5 2 ['AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'NOT_AVAILABLE'] 2 True
+14 36 2 ['AVAILABLE', 'AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE'] 1 True
+15 4 2 ['AVAILABLE', 'NOT_AVAILABLE', 'BULB_PLACED', 'AVAILABLE'] 1 True
+15 30 2 ['NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'BULB_PLACED'] 1 True
+15 38 1 ['AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE'] 1 True
+16 38 1 ['AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE', 'NOT_AVAILABLE'] 1 True
+17 23 1 ['AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE'] 1 True
+18 11 1 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE'] 1 True
+18 27 2 ['NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'AVAILABLE'] 2 True
+19 19 2 ['NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'AVAILABLE'] 2 True
+19 20 1 ['AVAILABLE', 'AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE'] 1 True
+21 1 1 ['NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'NOT_AVAILABLE'] 1 True
+23 1 2 ['AVAILABLE', 'AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE'] 2 True
+23 16 2 ['NOT_AVAILABLE', 'AVAILABLE', 'BULB_PLACED', 'AVAILABLE'] 1 True
+24 21 1 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE'] 1 True
+33 38 1 ['AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE'] 1 True
+34 25 1 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE'] 1 True
+34 38 1 ['AVAILABLE', 'AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] 1 True
+39 37 1 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE'] 1 True
+40 38 1 ['AVAILABLE', 'AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] 1 True
+44 31 2 ['NOT_AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] 1 True
+48 28 2 ['AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE', 'AVAILABLE'] 1 True
+[[0, 1, 4], [0, 1, 2, 3, 4, 5], [0, 1, 2, 3], [1, 2], [1, 2], [2, 3, 4], [0, 1, 4], [0, 1], [0, 3], [1, 2], [0, 3], [0, 2], [0, 2, 3], [2, 3], [1, 2, 5], [1, 2, 5], [0, 1, 3], [1, 2], [0, 3, 5], [1, 3], [2, 3], [0, 3], [2, 3], [0, 1], [2, 3], [0, 1], [], [0, 3]]

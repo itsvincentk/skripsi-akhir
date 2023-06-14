@@ -1,0 +1,208 @@
+W W W W F 0 F W F W W 2 W W 
+W A W W A F W F 0 L L B A W 
+A W 1 W A W F W F F F 2 B L 
+W W W 2 W F 0 F F 0 0 F L W 
+W W W 1 A W A W W A F A A W 
+W 1 W W W W W W W W W W W A 
+W W W W W W W W W A A W W W 
+W W W 1 A W W W W W W W W W 
+A W W W W W W W W W W W 2 W 
+W A A W A W W 2 W 3 A W W W 
+W W W 1 0 F W A W W A W W W 
+W W 2 W F W W W W 2 W 2 W 2 
+W A W W W A W W W A W W A W 
+W W A W W W W W 2 W W W W W 
+
+W W W W F 0 F W F W W 2 W W 
+W A W W A F W F 0 L L B A W 
+A W 1 W A W F W L F F 2 B L 
+W W W 2 W F 0 F L 0 0 F L W 
+W W W 1 A W A W L A F A A W 
+W 1 W W W W W W L W W W W A 
+W W W W W W W W L A A W W W 
+W W W 1 A W W W L L W W W W 
+A L L L L L L L L B L L 2 W 
+W A A W A W W 2 B 3 A W W W 
+W W W 1 0 F W A L B A W W W 
+W W 2 W F W W W L 2 W 2 W 2 
+W A W W W A W W L A W W A W 
+W W A W W W W W 2 W W W W W 
+
+W W W W F 0 F W F W W 2 W W 
+W A W W A F W F 0 L L B A W 
+A W 1 W A W F W L F F 2 B L 
+W W W 2 W F 0 F L 0 0 F L W 
+W W W 1 A W A W L A F A A W 
+W 1 W W W W W W L W W W W A 
+W W W W W W W W L A A W W W 
+W W W 1 A W W W L L W W W W 
+A L L L L L L L L B L L 2 W 
+W A A W A W W 2 B 3 A W W W 
+W W W 1 0 F W A L B A W W W 
+W W 2 W F W W W L 2 B 2 W 2 
+W A W W W A W W L A L W A W 
+W W A W W W W W 2 W L W W W 
+
+W W W W F 0 F W F W W 2 W W 
+W A W W A F W F 0 L L B A W 
+A W 1 W A W F W L F F 2 B L 
+W W W 2 W F 0 F L 0 0 F L W 
+W W W 1 A W A W L A F A A W 
+W 1 W W W W W W L W W W W A 
+W W W W W W W W L A A W W W 
+W W W 1 A W W W L L W W W W 
+A L L L L L L L L B L L 2 W 
+W A A W A W W 2 B 3 A W W W 
+W W W 1 0 F W A L B A W W W 
+W W 2 W F W W L L 2 B 2 W 2 
+W A W W W A W L L A L W A W 
+W W A L L L L B 2 B L L L L 
+
+W W W W F 0 F W F W W 2 W W 
+W A W W A F W F 0 L L B A W 
+A W 1 W A W F W L F F 2 B L 
+W W W 2 W F 0 F L 0 0 F L W 
+W W W 1 A W A W L A F A A W 
+W 1 W W W W L W L W W W W A 
+W W W W W W L W L A A W W W 
+W W W 1 A W L W L L W W W W 
+A L L L L L L L L B L L 2 W 
+W A A W A L B 2 B 3 A W W W 
+W W W 1 0 F L A L B A W W W 
+W W 2 W F W L L L 2 B 2 W 2 
+W A W W W A L L L A L W A W 
+W W A L L L L B 2 B L L L L 
+
+preproc selesai
+[[0, 2], [0, 1, 2, 3], [2, 3, 4], [1, 2], [0, 1, 2, 3], [2, 3], [0, 3, 5], [1, 2, 3], [0, 1, 2, 3, 4, 5], [0, 1, 3], [1, 2, 5]]
+W W W W F 0 F W F W W 2 W W 
+W A W W A F W F 0 L L B A W 
+A W 1 W A W F W L F F 2 B L 
+W W W 2 W F 0 F L 0 0 F L W 
+W W W 1 A W A W L A F A A W 
+W 1 W W W W L W L W W W W A 
+W W W W W W L W L A A W W W 
+W W W 1 A W L W L L W W W W 
+A L L L L L L L L B L L 2 W 
+W A A W A L B 2 B 3 A W W W 
+W W W 1 0 F L A L B A W W W 
+W W 2 W F W L L L 2 B 2 W 2 
+W A W W W A L L L A L W A W 
+W W A L L L L B 2 B L L L L 
+
+None
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+2 ['AVAILABLE', 'BULB_PLACED', 'AVAILABLE', 'NOT_AVAILABLE'] True 1
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+1 ['AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'AVAILABLE'] True 1
+5 [None, None, None, None] True 5
+2 ['BULB_PLACED', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'BULB_PLACED'] False 0
+2 ['AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE'] True 2
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+1 ['NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'NOT_AVAILABLE'] True 1
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+1 ['AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'AVAILABLE'] True 1
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+1 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE'] True 1
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+2 ['AVAILABLE', 'AVAILABLE', 'NOT_AVAILABLE', 'AVAILABLE'] True 2
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+2 ['BULB_PLACED', 'NOT_AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE'] False 0
+3 ['NOT_AVAILABLE', 'BULB_PLACED', 'BULB_PLACED', 'BULB_PLACED'] False 0
+5 [None, None, None, None] True 5
+1 ['NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'AVAILABLE'] True 1
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+2 ['AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'AVAILABLE'] True 2
+2 ['BULB_PLACED', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'BULB_PLACED'] False 0
+2 ['AVAILABLE', 'AVAILABLE', 'BULB_PLACED', 'AVAILABLE'] True 1
+2 ['NOT_AVAILABLE', 'AVAILABLE', 'AVAILABLE', 'AVAILABLE'] True 2
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+2 ['BULB_PLACED', 'NOT_AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE'] False 0
+None
+21
+L L B L L 0 L L L L B 2 L B 
+B A L L A L B L 0 L L B A L 
+A F 1 B A L L B L L L 2 B L 
+L W L 2 W L 0 L L 0 0 F L C 
+L L B 1 A L A C L A L A A C 
+B 1 L L L L L C L L B C L A 
+L L L B L L L L L A A B L L 
+L W L 1 A L L L L L L L B L 
+A L L L L L L L L B L L 2 L 
+L A A B A L B 2 B 3 A L B L 
+B L L 1 0 L L A L B A L L B 
+L B 2 L L B L L L 2 B 2 L 2 
+C A B L L A L L L A L B A B 
+L W A L L L L B 2 B L L L L 
+
+292
+[6, 6, 1, 0, 0, 1]
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+2 ['NOT_AVAILABLE', 'BULB_PLACED', 'BULB_PLACED', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+1 ['BULB_PLACED', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+2 ['BULB_PLACED', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'BULB_PLACED'] False 0
+2 ['AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'BULB_PLACED'] True 1
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+1 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+1 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+1 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'BULB_PLACED'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+2 ['NOT_AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE', 'BULB_PLACED'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+2 ['BULB_PLACED', 'NOT_AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE'] False 0
+3 ['NOT_AVAILABLE', 'BULB_PLACED', 'BULB_PLACED', 'BULB_PLACED'] False 0
+5 [None, None, None, None] True 5
+1 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'BULB_PLACED'] False 0
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+2 ['NOT_AVAILABLE', 'BULB_PLACED', 'BULB_PLACED', 'NOT_AVAILABLE'] False 0
+2 ['BULB_PLACED', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'BULB_PLACED'] False 0
+2 ['NOT_AVAILABLE', 'BULB_PLACED', 'BULB_PLACED', 'NOT_AVAILABLE'] False 0
+2 ['NOT_AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE', 'BULB_PLACED'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+2 ['BULB_PLACED', 'NOT_AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE'] False 0

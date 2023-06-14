@@ -1,0 +1,5831 @@
+mencoba tingkat kesulitan 7_easy papan ke-0
+L B L L 0 L B 
+B A L B L 1 L 
+1 L L L L B L 
+L L B 2 B L L 
+L B L L L L A 
+L 1 L B L 0 L 
+B L 0 L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-1
+B L L L L L L 
+L L B A L B L 
+L B 4 B 2 L L 
+L 3 B A B 3 B 
+L B 4 B A B L 
+L L B 2 L L L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-2
+2 B L L L L 1 
+B L L L A L B 
+L A B L L L L 
+L L L L L B L 
+L L L L B 3 L 
+L B 1 L L B L 
+0 L L B L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-3
+L 1 B L L L L 
+B L L L 0 L 0 
+L A L L L L L 
+L L L L L B L 
+L L L L B 3 B 
+2 B A B L L L 
+B L L L L 0 L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-4
+B L L 1 B L L 
+L L B L L L L 
+L B 4 B 2 B L 
+0 L B L L L A 
+L L 2 L A L L 
+L L B L L L L 
+B L L 0 L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-5
+L L B 2 0 L L 
+L L L B L L L 
+A B 2 L A L B 
+1 L B L L L 1 
+B L A L 0 L 1 
+L L L L L L B 
+L L A A L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-6
+0 L B L A L 1 
+L L L L L L B 
+2 B L L L L L 
+B L L L L L L 
+L L L L L B 2 
+L L L L L L B 
+A L 1 B L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-7
+0 0 L L B L A 
+L L B A L B 2 
+L L L L L L B 
+B A L A L 1 L 
+L L L L L B L 
+A L L 0 L L L 
+A B L L L 0 A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-8
+L B L 1 B L L 
+B 4 B L L A B 
+L B L L L L L 
+A L L L L B 2 
+L L L L L L B 
+B 2 L B L A L 
+L B L A L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-9
+L L B 3 B A L 
+A L L B L L L 
+L B 2 L A L B 
+1 L B L L L 2 
+B L A L A L B 
+L L L L B L 1 
+L 1 B 1 L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-10
+B A L 1 A L B 
+L L L B L L A 
+A L L L L L B 
+0 L L 0 L B 2 
+L L B L L L A 
+2 B L L L L L 
+B L A 1 B A B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-11
+L F A L B L L 
+B 3 B L L 2 B 
+L B 2 B 2 B 2 
+L L B L L L L 
+A L A L 0 L L 
+B 3 B L L A L 
+L B L L 0 L B 
+
+121 [0, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_easy papan ke-12
+2 B L L L L A 
+B L L L 0 L B 
+L 2 B L L L L 
+L B L L L L L 
+L L L L B 2 L 
+L L 0 L L B L 
+A L L B L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-13
+B L L 0 L B L 
+L L A L L L B 
+L L B 3 B 1 L 
+1 B 4 B A L A 
+L 3 B A L B L 
+L B L L 1 L B 
+B L L 1 B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-14
+L L L L B L L 
+L B A B 3 B L 
+L 3 B L L A L 
+L B L 1 L B L 
+B 2 L B L A L 
+L L 0 L 0 L B 
+L B L L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-15
+L B L 0 L B L 
+L A A L B A L 
+B L L L L A B 
+2 L L L L B 3 
+B A L L L L B 
+L 0 L B A A L 
+L L B 2 L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-16
+L 0 L L L L B 
+L L L L B L 1 
+B L 0 L 2 B L 
+L L L B L L L 
+L B 2 L 0 L L 
+1 L B L L L L 
+B L L L L 1 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-17
+L B L L 1 1 B 
+0 A L L B 1 L 
+0 L L L L L L 
+L L L L L B L 
+L B L L L L A 
+L A B L L 0 A 
+B 1 2 B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-18
+L L L B L 0 L 
+A A B L 0 0 L 
+B 1 L L L L B 
+L L L L B L L 
+L B L L L 0 L 
+L 1 0 L L 0 1 
+L A L L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-19
+L B L A B 3 B 
+A L L L L B L 
+L L B 2 L L L 
+1 L A B A L A 
+B L L 1 L L B 
+L L B L L L A 
+L 0 L 1 B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-20
+L B 2 L B L L 
+L 2 B L L 2 B 
+L L L L L B 2 
+B L L L L L L 
+1 L L L L L B 
+L 0 L B L 1 L 
+B L L L 1 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-21
+L L L L B 3 B 
+0 L A L L B L 
+L B L L L 2 L 
+L L L L L B L 
+B 3 B L L L L 
+L B L L 1 L A 
+L A L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-22
+B L 0 A L B L 
+L 1 L L B 3 B 
+L B L L L L A 
+A L L B L L A 
+0 L L L L B L 
+L 1 B L L 3 B 
+B L L A A B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-23
+L L L L L B L 
+L L 0 L B L L 
+L B 3 B 3 1 B 
+L L B A B L L 
+B 1 3 B A L L 
+L L B L 2 B L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-24
+B L L L L 0 L 
+2 B A L B L L 
+L L B 1 L A L 
+B L A A 0 L L 
+L 0 L A L L B 
+L L B L A B 3 
+L 0 L L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-25
+1 L L L L B 2 
+B L L L 1 L B 
+L 0 L L B L L 
+L L B L L L L 
+L B L L L 1 L 
+L L 0 L L B L 
+0 L L B L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-26
+1 L L L L B 2 
+B L A A L L B 
+L B L L L A L 
+L 2 B L L A L 
+L A L B L L L 
+L B L 2 A B L 
+A L L B L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-27
+L L L B L L L 
+L L B 3 L B L 
+B L 3 B 2 L L 
+L 2 B A B 3 B 
+L B A B 3 B L 
+L L B A L L L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-28
+B 1 L L B L L 
+L L L B 4 B A 
+L 1 B A B L L 
+L L 3 B A L L 
+L L B A L A L 
+A B A L L B L 
+L L L L B 3 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-29
+L B A L L L B 
+B 4 B L L 0 L 
+L B L L L L 1 
+L L L L L L B 
+0 L L B L L L 
+L A L L B 2 L 
+B L L L 2 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-30
+L L L B 2 B L 
+B L L L A L B 
+2 1 B L L L L 
+B L L 2 B L L 
+L L L B L 1 A 
+L L 0 L L B L 
+L B A L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-31
+B L A B L L L 
+L L B 3 B L L 
+L B L A L B A 
+L 1 A B A 3 B 
+0 L B A L B L 
+L B L 2 B L L 
+L L L B 2 L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-32
+L L B L L L L 
+L B L L 0 L L 
+B 2 1 B 2 B L 
+L L L L L L B 
+L B 1 L 0 A L 
+L L 1 L L B L 
+L L B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-33
+L B A 0 L 2 B 
+0 L L L L B L 
+L L L B L L A 
+A L L A L L A 
+A L L L L L B 
+L L L L B L 2 
+B 2 B 1 A L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-34
+A 0 L L B L A 
+L L B L L L 1 
+L L 1 L 0 L B 
+L B L L L L L 
+B L A B 1 L L 
+1 L L L L B L 
+A L L L B 2 A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-35
+B L L L L A L 
+1 L 0 L L B L 
+L B L L L 3 B 
+L L L L L B L 
+L A L L B L L 
+L B L L 1 L 0 
+B 3 B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-36
+L L B L L L L 
+L B A B 3 B L 
+B 4 B 4 B 4 B 
+L B A B A B L 
+L 2 B A B A L 
+L L A B A B L 
+L B L L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-37
+L L L 1 B L L 
+B L L L L L L 
+L L B 2 L L B 
+0 L 2 B A B 3 
+L B L 1 L L B 
+L L L L B L L 
+B L L 0 L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-38
+L L B L 1 B L 
+B L L L A L L 
+1 A L 0 L L B 
+L B 1 A A L L 
+B L L A B 1 1 
+L L 0 L L L B 
+L L 0 L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-39
+B A L L A L B 
+L L L L L L A 
+0 L L L L L B 
+L L L L L B L 
+L L L L B L 0 
+0 L B L L L L 
+L B 3 B L A B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-40
+B L L L L 2 B 
+1 L L L L B L 
+L L B A B L L 
+L B 4 B A L L 
+L L B 2 L L L 
+B L L L L L A 
+L 0 L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-41
+0 L B 1 L B 2 
+L B L 0 L L B 
+L L L L B L L 
+0 1 L B L A A 
+L B L L L L L 
+B L L A L L B 
+A L L A L B 2 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-42
+B L 0 L B 2 B 
+1 L L B L L L 
+L L B L L L A 
+L B L 0 L L B 
+0 L L L L L L 
+L L L L L L 0 
+B A L B 2 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-43
+L B L L L 1 B 
+A L L L 0 L L 
+B 1 L B L L L 
+L L L L L B L 
+L L B L L 2 L 
+L B 2 L L B 2 
+L 1 L L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-44
+L L L L B L L 
+L L B 1 1 L L 
+L A L L L B L 
+B 1 L B L 1 L 
+L L L L B 3 B 
+L L 0 A L B L 
+L B L L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-45
+B L L L 0 A L 
+1 L B 1 L L L 
+A L L L L B L 
+L A L L B 3 B 
+L L L B L L A 
+L B L A L B 2 
+B 2 A L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-46
+L L B L L L L 
+L L 1 1 B L L 
+L B L L L 1 B 
+B 3 B A L A L 
+L 0 L B L L L 
+L L L A 1 B L 
+L B L L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-47
+A L L L L B 1 
+L L L B 1 L L 
+B 2 B L L L L 
+L L L L L L L 
+L L L L B 1 L 
+L B 1 L L L B 
+A L L L L B 2 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-48
+B L L L L 1 B 
+1 L L B L L L 
+L L B 3 L B L 
+L B 4 B 2 L L 
+L L B 3 B L L 
+B L L L L L 1 
+L 0 L L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-49
+L L L L B L L 
+L L B A L L L 
+L B A L 1 B L 
+B 2 L B L 2 B 
+L L 0 L 0 L L 
+L B L 1 L B L 
+L L L B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-50
+B L L L L 1 B 
+A L L B L L L 
+L L B 4 B L L 
+L L 2 B A B L 
+L B L 3 B L L 
+L L L B L L 1 
+B 1 L L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-51
+B A L A A L B 
+L L L L L B 2 
+A L L B L L L 
+2 B L L L L 0 
+B L L L L L A 
+A L B L L L L 
+B L 1 A B 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-52
+L B L A L B L 
+B 3 A L B 3 B 
+L B L L L A L 
+A L L L L B 2 
+L A L L L L B 
+L 1 B L 0 A L 
+B L L A L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-53
+L B L 0 L 2 B 
+0 L L 0 L B L 
+L L B L L L L 
+1 A L L B 1 A 
+B L L L L L L 
+L B L A L B 2 
+L A L A L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-54
+B L L L 0 L L 
+L L L B L L L 
+0 L B A L B L 
+L B 4 B 2 L B 
+L L B 4 B L 1 
+L L L B L L L 
+B L A L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-55
+B L L 0 1 B L 
+L L L L L L B 
+0 L B 2 B L L 
+A B 3 A A L A 
+L L B 1 L L 0 
+B L L L L L L 
+L L A 1 B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-56
+B L 0 L L 1 B 
+A A L B L 1 L 
+L L L L L B 1 
+L B L A L L L 
+0 L L L L L B 
+L A L L B A A 
+B 2 B L 2 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-57
+L B 3 B L L L 
+L L B L 0 L B 
+L 0 L L L B A 
+B L L L L L L 
+2 L L L B 3 B 
+B L 0 L L B L 
+L B L L A L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-58
+L L L 0 L B L 
+L L B L L L L 
+B L A L A L B 
+3 B L L L L 2 
+B L 2 B A L B 
+L L B L L L L 
+L L L A B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-59
+L L L L B 3 B 
+1 L L L L B L 
+B L 0 L A L L 
+L L L B L L L 
+L B 2 L 0 L L 
+L L B L L L 0 
+L A L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-60
+B A L A L A B 
+2 L L L L B 2 
+B L L L L L L 
+A L L B L L A 
+B L L L L L L 
+3 B L L L L A 
+B A B 2 B A B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-61
+L A L L L L B 
+L B L A L L 1 
+L L L L L B L 
+L 1 B L L 1 L 
+B L L L L L L 
+2 B L A L B L 
+L L L L B 3 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-62
+L L L B L L L 
+L A L 1 L A L 
+L L L L L B L 
+L 0 L 0 L A L 
+L L L L L L B 
+B 2 B 3 B 1 L 
+L L L B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-63
+L B L L L L L 
+L L 0 L B L L 
+L L 0 L 2 0 L 
+L L L L B L L 
+B 2 0 L 2 B L 
+L B L L A L B 
+L L L B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-64
+B L A L A L L 
+L L L L L L B 
+A L L L L B 2 
+B L L L L L L 
+2 B L L L L 0 
+L L L L B L L 
+B L A B 2 L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-65
+L L B L L 2 B 
+A L 1 L L B L 
+L L L L B A L 
+L B L L L L L 
+B 3 B L L L L 
+L L L B A L 0 
+L 0 L L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-66
+A L L L B L A 
+L L B 2 L L B 
+L B 3 B 3 B L 
+B 2 L L B 3 L 
+L L 0 L 3 B L 
+L B L 2 B L L 
+A L L B L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-67
+A B L 0 L L 0 
+L L L L B L L 
+B L 1 L 1 L B 
+A L B L L L 2 
+B L 1 L A L B 
+L L L B L L L 
+A L B A L B A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-68
+B 1 L L B L L 
+L L L B 4 B A 
+L A B A B L L 
+L L A B A L L 
+L B L A B A L 
+1 L 0 L L B L 
+B L L L L 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-69
+L L B A A L L 
+B L L L L L L 
+1 L L L L L B 
+2 B L A L B 2 
+B L L L L L 0 
+L L L L B L L 
+L L 0 0 L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-70
+B A L B L A B 
+A B L A L B 3 
+L L L L L L B 
+B A L L B 1 L 
+L B L L L L L 
+1 L L 0 L B A 
+B A B L L A B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-71
+L B L L 1 B L 
+B 4 B L L 1 L 
+A B L L L L L 
+L L L L L L B 
+L L L L B L A 
+L 0 L L L 1 B 
+B L 1 B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-72
+B L L 0 L L L 
+L L L L B L L 
+L B 1 L 1 L B 
+0 L L L L B 3 
+L L 0 L A L B 
+L L L B L L L 
+B L L A B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-73
+L L B L L L L 
+L B 2 L A B L 
+B 2 L B L 2 B 
+L L B 4 B L L 
+L A L B L A L 
+L B A L 2 B L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-74
+L L B L L A L 
+0 L L L B L L 
+L B 2 B 4 B L 
+L L L L B L L 
+B L 1 L A L B 
+L L B L L L 2 
+L 0 L L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-75
+B L L A B L L 
+L B L A 2 B L 
+L 1 L L L L B 
+0 A B L L A 2 
+L L L B L A B 
+L B 1 2 B L L 
+B L L 0 L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-76
+B 1 0 L L L B 
+L L L B A B 2 
+L 2 B L L L A 
+L B L 0 L L L 
+0 L L L B A L 
+1 L 0 L L B L 
+B L L L A 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-77
+L L L L B L L 
+L B L A 2 B L 
+B 3 B L L L L 
+L A L L B 2 B 
+L B L L L A L 
+L L 0 0 L L L 
+L L L L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-78
+L A L L L L B 
+B L 1 B A B 2 
+L 0 L L L A L 
+L L L L B L L 
+L 2 B L L 0 L 
+A B 2 L 0 L B 
+B L L L L A L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-79
+L B 1 L B L L 
+B L L L A L B 
+L 0 L L L L 1 
+L L L L L B L 
+A L B L L 2 B 
+L B 2 L B L L 
+L L L B 3 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-80
+B 1 0 L L L B 
+L L L B A B 2 
+L 2 B L L L A 
+L B L 0 L L L 
+0 L L L B A L 
+1 L 0 L L B L 
+B L L L A 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-81
+L L B L 0 L B 
+B 2 L B L A L 
+3 B L L L L L 
+B L L 1 B L L 
+L L L L L B 2 
+L A L B L A B 
+L B 1 L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-82
+B A L L B A B 
+3 B L L A B 3 
+B A L L L L B 
+L L L L B L L 
+L L B L L A L 
+2 B 2 L L B 2 
+B 2 L B L 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-83
+L L L B L L L 
+L L 1 L L B L 
+L L B A B 3 L 
+L B 4 B 3 B L 
+L 2 B 2 L L B 
+B L L L 1 L L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-84
+B L L 2 B A B 
+2 L L B L L L 
+B L L L L L L 
+3 B L L L L A 
+B L L L L L L 
+L L B L L L 0 
+L A L 0 L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-85
+L L A 1 B L L 
+L L L L L L B 
+B L L L L L 1 
+1 L L B L L A 
+2 B L L L L L 
+B L L L L L L 
+L L B 1 1 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-86
+L L L B L L L 
+L A B 2 L 0 L 
+L L L L B L L 
+B 1 L 0 L 2 B 
+L L L L L B L 
+L A L 0 L 2 L 
+L L L L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-87
+B A L L B 2 B 
+A B L L L L 1 
+L L L B L L L 
+L L B 2 L L B 
+B L L L L L L 
+2 L L L L B A 
+B A L B L 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-88
+L B A B 2 B L 
+B L L A L L B 
+2 L L B L L A 
+B A B 3 B A B 
+2 B L L L L 1 
+L L L 1 L B L 
+B L A B 1 L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-89
+L B L 0 L 2 B 
+1 L L L L B L 
+B L L A B L L 
+1 L 1 B A L A 
+L L L 1 L L B 
+B L L L L L A 
+L 1 B 2 B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-90
+L L L B L L L 
+L 0 L 2 B A L 
+B L L L L L L 
+L 0 L L L 1 B 
+L L L B L L L 
+L 1 B 3 L 0 L 
+L L L B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-91
+L L B 2 B L L 
+B L L L L L L 
+L L A B A L B 
+0 L B 3 L B 3 
+L B 3 B A L B 
+B L L L L L L 
+L L B 2 B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-92
+L L L B 3 B L 
+B A L L B 4 B 
+A L L L L B L 
+L L B L L L L 
+L B L L L L A 
+L 1 L L L 0 L 
+B L 0 L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-93
+L L 0 L B L L 
+L B L L A L B 
+B 2 A B A B 3 
+L L B A L L B 
+1 B 2 L 0 A L 
+L L A B L L L 
+B L L L A B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-94
+L 1 L L L L B 
+L B 1 L L B 3 
+L L L L B 4 B 
+L L L L L B L 
+B 1 L L L L L 
+A L L B 1 L L 
+L L B L L 0 L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-95
+L 0 L L L L B 
+L L B L A B 3 
+B 2 L L L L B 
+L B L L L L L 
+L L L B L 1 L 
+1 L 0 L L B L 
+B L L L L 1 L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-96
+L L B 2 B L L 
+B L A L L L B 
+L B L 0 L 1 L 
+1 L A A 2 B A 
+B A L A B L L 
+L L L B A L B 
+L L B 3 B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-97
+L B 1 A 0 L L 
+L L L L L L B 
+0 L L B L L A 
+A L B 2 L B 1 
+A L L L B L A 
+L L L B L L L 
+B L A 1 A L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-98
+L B L A L 2 B 
+1 L L 0 L B L 
+B L L L L L L 
+A 0 L B L 0 0 
+L L B L L L L 
+B L L 0 L B A 
+L 0 L 1 B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-99
+L B 1 L L L B 
+L 1 L L B 1 L 
+B L L L L L 0 
+L B L L L L L 
+1 L L L L B L 
+B 2 B L L 3 B 
+L L L B 2 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-0
+L B L L 0 L B 
+B A L B L 1 L 
+1 L L L L B L 
+L L B 2 B L L 
+L B L L L L A 
+L 1 L B L 0 L 
+B L 0 L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-1
+L L L L B L L 
+L L B A L B L 
+L B 4 B 2 L L 
+B 3 B A B 3 B 
+L B 4 B A B L 
+L L B 2 L L L 
+L L L L B L L 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-2
+2 B L L L L 1 
+B L L L A L B 
+L A B L L L L 
+L B L L L L L 
+L L L L B 3 C 
+L L 1 L L B L 
+0 L B L L L A 
+
+25 [1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-3
+L 1 B L L L L 
+L W L L 0 L 0 
+L A L L L B L 
+B L L L L L L 
+L L L L B 3 B 
+2 B A B L L L 
+B L L L L 0 L 
+
+21 [0, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-4
+B L L 1 B L L 
+L L B L C L L 
+L B 4 B 2 B L 
+0 L B L L L A 
+L L 2 L A L L 
+L L B L L L L 
+B L L 0 L L B 
+
+5 [1, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-5
+L L B 2 0 L L 
+L L L B L L L 
+A B 2 L A L B 
+1 L B L L L 1 
+B L A L 0 L 1 
+L L L L L L B 
+L L A A L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-6
+0 L B L A L 1 
+L L L L L L B 
+2 B L L L L L 
+B L L L L L L 
+L L L L L B 2 
+L L L L L L B 
+A L 1 B L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-7
+0 0 L L B L A 
+L L B A L B 2 
+L L L L L L B 
+B A L A L 1 L 
+L L L L L B L 
+A L L 0 L L L 
+A B L L L 0 A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-8
+L B L 1 B L L 
+B 4 B L L A B 
+L B L L L L L 
+A L L L L B 2 
+L L L L L L B 
+B 2 L B L A L 
+L B L A L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-9
+L L B 3 B A L 
+A L L B L L L 
+L B 2 L A L B 
+1 L B L L L 2 
+B L A L A L B 
+L L L L B L 1 
+L 1 B 1 L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-10
+B A L 1 A L B 
+L L L B L L A 
+A L L L L L B 
+0 L L 0 L B 2 
+L L B L L L A 
+2 B L L L L L 
+B L A 1 B A B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-11
+L W A L B L L 
+B 3 B L L 2 B 
+L B 2 B 2 B 2 
+L L B L L L L 
+A L A L 0 L L 
+B 3 B L L A L 
+L B L L 0 L B 
+
+21 [0, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-12
+2 B L L L L A 
+B L L L 0 L B 
+L 2 B L L L L 
+L B L L L L L 
+L L L L B 2 L 
+L L 0 L L B L 
+A L L B L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-13
+B L L 0 L B L 
+L L A L L L B 
+L L B 3 B 1 L 
+1 B 4 B A L A 
+B 3 B A L B L 
+L B L L 1 L B 
+L L L 1 B L L 
+
+40 [0, 2, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-14
+L B L L L L L 
+L L A B 3 B L 
+B 3 C L B A L 
+L B L 1 L W L 
+C 2 L B L A L 
+L L 0 L 0 L B 
+L B L L L L C 
+
+56 [3, 2, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-15
+L B L 0 L L B 
+L A A L B A L 
+B L L L L A L 
+2 L L L L B 3 
+B A L L L L B 
+L 0 L B A A L 
+L L B 2 L B L 
+
+120 [0, 1, 0, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-16
+L 0 L L L L B 
+L L L L B L 1 
+B L 0 L 2 B L 
+L L L B L L L 
+L B 2 L 0 L L 
+1 L B L L L L 
+B L L L L 1 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-17
+L B L L 1 1 B 
+0 A L L B 1 L 
+0 L L L L L L 
+L L L L L B L 
+L B L L L L A 
+L A B L L 0 A 
+B 1 2 B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-18
+L L L B L 0 F 
+A A L L 0 0 F 
+L 1 B L L L L 
+L L L L W F W 
+L B L L L 0 F 
+L 1 0 L F 0 1 
+B A L L L L B 
+
+7 [0, 0, 7, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-19
+L B L A B 3 B 
+A L L L L B L 
+L L B 2 L L L 
+1 L A B A L A 
+B L L 1 L L B 
+L L B L L L A 
+L 0 L 1 B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-20
+L B 2 L L W L 
+L 2 B L L 2 B 
+L L L L L B 2 
+B L L L L L L 
+1 L L B L L L 
+L 0 L L B 1 L 
+B L L L 1 L B 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-21
+L L L L B 3 B 
+0 L A L L B L 
+L B L L L 2 L 
+L L L L L B L 
+B 3 B L L L L 
+L B L L 1 L A 
+L A L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-22
+B L 0 A L W L 
+L 1 L L B 3 B 
+L B L L L C A 
+A L L L L B A 
+0 L L B L L L 
+L 1 B L C 3 B 
+B L L A A B L 
+
+51 [2, 2, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-23
+L L L L L L B 
+L L 0 L L B L 
+L B 3 B 3 1 L 
+L L B A B L L 
+B 1 3 B A L L 
+L L B L 2 B L 
+L L L L B L L 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-24
+B L L L L 0 F 
+2 B A L B L L 
+L L B 1 L A W 
+W L A A 0 L W 
+F 0 L A F L W 
+L L B L A B 3 
+F 0 L L L L B 
+
+128 [0, 1, 8, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-25
+1 L L L L B 2 
+B L L L 1 L B 
+L 0 L L B L L 
+L L B L L L L 
+L B L L L 1 L 
+L L 0 L L B L 
+0 L L B L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-26
+1 L L L L B 2 
+B L A A L L B 
+L B L L L A L 
+L 2 B L L A L 
+L A L B L L L 
+L B L 2 A B L 
+A L L B L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-27
+L L L L L B L 
+L L B 3 B L L 
+L B 3 B 2 L L 
+L 2 B A B 3 B 
+L L A B 3 B L 
+B L L A B L L 
+L B L L L L L 
+
+60 [0, 3, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-28
+B 1 L L B L L 
+L L L B 4 B A 
+L 1 W A B L L 
+L B 3 B A L L 
+L L B A L A L 
+A L A B L L L 
+L L L L B 3 B 
+
+121 [0, 1, 1, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-29
+L B A L L L B 
+B 4 B L L 0 L 
+L B L L L L 1 
+L L L L L L B 
+0 L L B L L L 
+L A L L B 2 L 
+B L L L 2 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-30
+L L L B 2 B L 
+B L L L A L B 
+2 1 B L L L L 
+B L L 2 B L L 
+L L L B L 1 A 
+L L 0 L L B L 
+L B A L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-31
+B L A L L B L 
+L L B 3 B L L 
+L B L A L L A 
+L 1 A B A 3 B 
+0 L B A L B L 
+L B L 2 B L L 
+L L L B 2 L L 
+
+40 [0, 2, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-32
+L L B L L L L 
+L B L L 0 L L 
+B 2 1 B 2 B L 
+L L L L L L B 
+L B 1 L 0 A L 
+L L 1 L L B L 
+L L B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-33
+L B A 0 L 2 B 
+0 L L L L B L 
+L L L B L L A 
+A L L A L L A 
+A L L L L L B 
+L L L L B L 2 
+B 2 B 1 A L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-34
+A 0 L L B L A 
+L L B L L L 1 
+L L 1 L 0 L B 
+L B L L L L L 
+B L A B 1 L L 
+1 L L L L B L 
+A L L L B 2 A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-35
+L B L L L A L 
+1 L 0 L B L L 
+B L L L C 3 B 
+L L L L L B L 
+L A L L L L L 
+L L L B 1 L 0 
+C 3 B L L L L 
+
+150 [2, 2, 0, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-36
+L L B L L L L 
+L B A B 3 B L 
+B 4 B 4 B 4 B 
+L B A B A B L 
+L 2 B A B A L 
+L W A B A B L 
+L L L L B L L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-37
+L L L 1 B L L 
+B C L L L L L 
+L L B 2 L L W 
+0 L 2 B A B 3 
+L B L 1 L L B 
+L L L L B L L 
+B L L 0 L L L 
+
+126 [1, 1, 1, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-38
+L L B L 1 B L 
+B L L L A L L 
+1 A L 0 L L B 
+L B 1 A A L L 
+W L F A B 1 1 
+W L 0 L L L B 
+W L 0 L L B L 
+
+4 [0, 0, 4, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-39
+W A L L A L B 
+L L L L L B A 
+0 L L L L C W 
+L L L L B L L 
+L L B L L L 0 
+0 L L L C L F 
+L B 3 B L A W 
+
+134 [2, 1, 4, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-40
+B L L L L 2 B 
+1 L L L L B L 
+L L B A B L L 
+L B 4 B A L L 
+L L B 2 L L L 
+B L L L L L A 
+L 0 L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-41
+0 L B 1 L B 2 
+L B L 0 L L B 
+L L L L B L L 
+0 1 L B L A A 
+L B L L L L L 
+B L L A L L B 
+A L L A L B 2 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-42
+W L 0 L B 2 B 
+1 B L L L L L 
+W L L F L L A 
+F L L 0 L L B 
+0 L L L L L L 
+L L B L L L 0 
+B A L B 2 B L 
+
+4 [0, 0, 4, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-43
+B L L L L 1 B 
+A B L L 0 L L 
+W 1 L B L L L 
+L L L L L B L 
+L L B L L 2 C 
+L B 2 L L B 2 
+W 1 L L L L B 
+
+7 [1, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-44
+L L L L B L L 
+L L B 1 1 L L 
+L A L L L B L 
+B 1 L B L 1 L 
+L L L L B 3 B 
+L L 0 A L B L 
+L B L L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-45
+B L L L 0 A L 
+1 W W 1 L B L 
+A L L B L L L 
+L A L L B 3 B 
+L L L L L B A 
+L B L A L C 2 
+B 2 A L L L B 
+
+27 [1, 1, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-46
+L L B L L L L 
+L W 1 1 L W L 
+L L L B L 1 B 
+B 3 B A L A L 
+L 0 L L B L L 
+L L L A 1 W L 
+L B L L L L L 
+
+23 [0, 1, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-47
+A L L L L B 1 
+L L L B 1 L L 
+B 2 W L L L L 
+L B L L L L L 
+L L L L B 1 L 
+L C 1 L L L B 
+A L L L L B 2 
+
+26 [1, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-48
+L L L B L 1 B 
+1 B L L L L L 
+L L B 3 B L L 
+B C 4 B 2 B L 
+L L B 3 B L L 
+L L L B L L 1 
+L 0 L L L L B 
+
+65 [1, 3, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-49
+L L L L B L L 
+L L B A L L L 
+L B A L 1 B L 
+B 2 L B L 2 B 
+L L 0 L 0 L L 
+L B L 1 L B L 
+L L L B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-50
+B L L L L 1 B 
+A L L B L L L 
+L L B 4 B L L 
+L B 2 B A B L 
+L L B 3 B L L 
+L L L B L L 1 
+B 1 L L L L B 
+
+40 [0, 2, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-51
+B A L A A L B 
+L L L L L B 2 
+A L L B L L L 
+2 B L L L L 0 
+B L L L L L A 
+A L B L L L L 
+B L 1 A B 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-52
+L L B A L W L 
+B 3 A L B 3 B 
+L B L L L A L 
+A L L L L B 2 
+L A L L L L B 
+B 1 W F 0 A L 
+L W W A L B L 
+
+45 [0, 2, 5, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-53
+L B L 0 L 2 B 
+0 L L 0 L B L 
+L L B L L L L 
+1 A L L B 1 A 
+B L L L L L L 
+L B L A L B 2 
+L A L A L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-54
+B L L L 0 L L 
+L L L B L L L 
+0 L B A L B L 
+L B 4 B 2 L B 
+L L B 4 B L 1 
+L L L B L L L 
+B L A L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-55
+B L L 0 1 B L 
+L L L L L L B 
+0 L B 2 B L L 
+A B 3 A A L A 
+L L B 1 L L 0 
+B L L L L L L 
+L L A 1 B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-56
+B L 0 L L 1 B 
+A A L B L 1 L 
+L L L L L B 1 
+L B L A L L L 
+0 L L L L L B 
+L A L L B A A 
+B 2 B L 2 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-57
+L B 3 B L L L 
+L L B L 0 L B 
+L 0 L L L B A 
+B L L L L L L 
+2 L L L B 3 B 
+B L 0 L L B L 
+L B L L A L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-58
+B L L 0 L B L 
+L L L L B L L 
+L L A L A L B 
+3 B L L L L 2 
+B L 2 B A L B 
+L L B L L L L 
+L L L A B L L 
+
+120 [0, 1, 0, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-59
+L L L L B 3 B 
+1 L L L L B L 
+B L 0 L A L L 
+L L L B L L L 
+L B 2 L 0 L L 
+L L B L L L 0 
+L A L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-60
+B A L A L A B 
+2 L L L L B 2 
+B L L L L L L 
+A L L B L L A 
+L L L L L L B 
+3 B L L L L A 
+B A B 2 B A B 
+
+120 [0, 1, 0, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-61
+L A L L L L B 
+L B L A L L 1 
+L L L L L B L 
+L 1 B L L 1 L 
+B L L L L L L 
+2 B L A L W L 
+L L L L B 3 B 
+
+121 [0, 1, 1, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-62
+L L L B L L L 
+L A L 1 L A L 
+L L L L L B L 
+L 0 L 0 L A L 
+L L L L L L B 
+B 2 B 3 B 1 L 
+L L L B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-63
+L B L L L L L 
+L L 0 L B L L 
+L L 0 L 2 0 L 
+L L L L B L L 
+B 2 0 L 2 B L 
+L B L L A L B 
+L L L B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-64
+B L A L A L L 
+L L L L L L B 
+A L L L L B 2 
+B L L L L L L 
+2 B L L L L 0 
+L L L L B L L 
+B L A B 2 L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-65
+L L L L B 2 B 
+A B 1 L L W L 
+L L L L L A L 
+L L L L L B L 
+B 3 B L L L L 
+L L L B A L 0 
+L 0 L L B L L 
+
+21 [0, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-66
+A L L L B L A 
+L L B 2 L L L 
+L B 3 B 3 B L 
+B 2 L L B 3 B 
+L L 0 C 3 B L 
+L B L 2 B L L 
+A L L B L L A 
+
+25 [1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-67
+A L F 0 F L 0 
+W L W F W L L 
+L B 1 W 1 L B 
+A L L L B L 2 
+B L 1 W A L B 
+L L B L L L L 
+A L L A L B A 
+
+8 [0, 0, 8, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-68
+B 1 L L B L L 
+L L L B 4 B A 
+L A B A B L L 
+L L A B A L L 
+L B L A B A L 
+1 L 0 L L B L 
+B L L L L 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-69
+L L B A A L L 
+B L L L L L L 
+1 L L L L L B 
+2 B L A L B 2 
+B L L L L L 0 
+L L L L B L L 
+L L 0 0 L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-70
+B A L W L A W 
+A W L A L B 3 
+L L L L L L B 
+B A B L L 1 L 
+L L L L L B L 
+1 W L 0 L L A 
+B A L L B A B 
+
+224 [0, 1, 4, 1, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-71
+L B L L 1 B L 
+B 4 B L L 1 L 
+A B L L L L L 
+L L L L L L B 
+L L L L B L A 
+L 0 L L L 1 B 
+B L 1 B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-72
+W L F 0 L L B 
+L L L L B L L 
+L B 1 L 1 L L 
+0 L L L L B 3 
+L L 0 L A L B 
+L L L B L L L 
+B L L A B L L 
+
+122 [0, 1, 2, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-73
+L L B L L L L 
+L B 2 L A B L 
+B 2 L B L 2 B 
+L L B 4 B L L 
+L A L B L A L 
+L B A L 2 B L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-74
+L L B L L A L 
+0 L L L B L L 
+L B 2 B 4 B L 
+L L L L B L L 
+B L 1 L A L B 
+L L B L L L 2 
+L 0 L L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-75
+B L L A B L L 
+L B L A 2 B L 
+L 1 L L L L B 
+0 A B L L A 2 
+L L L B L A B 
+L B 1 2 B L L 
+B L L 0 L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-76
+B 1 0 L L L B 
+L L L B A B 2 
+L 2 B L L L A 
+L B L 0 L L L 
+0 L L L B A L 
+1 L 0 L L B L 
+B L L L A 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-77
+L L L L B L L 
+L W L A 2 B L 
+B 3 B L L L L 
+L A L L B 2 B 
+L B L L L A L 
+L L 0 0 L L L 
+L L L L L B L 
+
+21 [0, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-78
+L A L L L L B 
+B L 1 B A B 2 
+L 0 L L W A L 
+L F L L W F L 
+L 2 B L L 0 L 
+A B 2 L 0 L B 
+B L L L L A L 
+
+4 [0, 0, 4, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-79
+L B 1 L B L L 
+B L L L A L B 
+L 0 L L B L 1 
+L L L L L B L 
+A L B L L 2 B 
+L B 2 L L L L 
+L L L B 3 B L 
+
+120 [0, 1, 0, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-80
+B 1 0 L L L B 
+L L L B A B 2 
+L 2 B L L L A 
+L B L 0 L L L 
+0 L L L B A L 
+1 L 0 L L B L 
+B L L L A 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-81
+L W L L 0 L B 
+B 2 L B L A L 
+3 B L L L L L 
+B L L 1 B L L 
+L L L L L B 2 
+L A B L L A B 
+L W 1 L L B L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-82
+W A L L B A W 
+3 B L L A B 3 
+B A L L L L B 
+L L L L B L L 
+L L B L L A L 
+2 B 2 L L B 2 
+B 2 L B L 2 B 
+
+442 [0, 2, 2, 2, 2, 0]
+mencoba tingkat kesulitan 7_easy papan ke-83
+L L L B L L L 
+L L 1 L L W L 
+L L B A B 3 B 
+L B 4 B 3 B L 
+L 2 B 2 B L L 
+B L L L 1 L L 
+L B L L L L L 
+
+41 [0, 2, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-84
+B L L 2 B A B 
+2 L L B L L L 
+B L L L L L L 
+3 B L L L L A 
+B L L L L L L 
+L L B L L L 0 
+L A L 0 L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-85
+L L A 1 B L L 
+L L L L L L B 
+B L L L L L 1 
+1 L L B L L A 
+2 B L L L L L 
+B L L L L L L 
+L L B 1 1 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-86
+L L L B L L L 
+L A B 2 L 0 L 
+L L L L B L L 
+B 1 L 0 L 2 B 
+L L L L L B L 
+L A L 0 L 2 L 
+L L L L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-87
+B A L B L 2 B 
+A L L L L B 1 
+L L L L L L B 
+L L B 2 L L L 
+L L L B L L L 
+2 B L L L L A 
+B A L L B 2 B 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-88
+B L A B 2 B L 
+L L L A L L B 
+2 B L L L L A 
+B A B 3 B A B 
+2 L L B L L 1 
+B L L 1 L B L 
+L B A B 1 L B 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-89
+B L L 0 L 2 B 
+1 L L L L B L 
+L B L A B L L 
+1 L 1 B A L A 
+B L L 1 L L B 
+L L L W L L A 
+L 1 B 2 B L L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-90
+L L L B L L L 
+L 0 L 2 W A L 
+L L L B L L L 
+L 0 L L W 1 B 
+B L L L L L L 
+L 1 B 3 F 0 L 
+L L L B L L L 
+
+23 [0, 1, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-91
+B L L 2 B L L 
+L L L B L L L 
+L L A L A B L 
+0 L B 3 B C 3 
+L B 3 B A L B 
+L L B C L L L 
+B L L 2 B L L 
+
+170 [2, 3, 0, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-92
+L L L B 3 B L 
+B A L L B 4 B 
+A L L L L B L 
+L L B L L L L 
+L B L L L L A 
+L 1 L L L 0 L 
+B L 0 L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-93
+L L 0 L L L B 
+L B L L A L L 
+B 2 A B A B 3 
+L L B A L L B 
+1 B 2 L 0 A L 
+W L A L L B L 
+L L L B A L L 
+
+121 [0, 1, 1, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-94
+L 1 B L L L L 
+L W 1 L L B 3 
+L L L L B 4 B 
+L L L L L B L 
+B 1 L L L L L 
+A L L B 1 L L 
+L L B L L 0 L 
+
+121 [0, 1, 1, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-95
+L 0 L L B L L 
+L L B L A B 3 
+B 2 L L L L B 
+L B L L L L L 
+L L L B L 1 L 
+1 L 0 L L B L 
+B L L L L 1 L 
+
+120 [0, 1, 0, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-96
+L L B 2 B L L 
+L B A L L L B 
+B L L 0 L 1 L 
+1 L A A 2 B A 
+L A L A B L L 
+B L L L A L B 
+L L B 3 B L L 
+
+120 [0, 1, 0, 0, 1, 0]
+mencoba tingkat kesulitan 7_easy papan ke-97
+L B 1 A 0 L L 
+L L L L L L B 
+0 L L B L L A 
+A L B 2 L B 1 
+A L L L B L A 
+L L L B L L L 
+B L A 1 A L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-98
+W L L A L 2 B 
+1 B L 0 L B L 
+W L L L L L L 
+A 0 L B L 0 0 
+L L B L L L L 
+B L L 0 L B A 
+L 0 L 1 B L L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-99
+L B 1 L L L B 
+L 1 L L B 1 L 
+B L L L L L 0 
+L L L L L B L 
+1 B L L L L L 
+W 2 B L C 3 B 
+L L L B 2 B L 
+
+26 [1, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-0
+L L L L B L L 
+L A L B 2 2 B 
+B 1 L L L B L 
+L L B 3 B L L 
+L L L B L A L 
+L 0 A L L 0 L 
+L L B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-1
+L L L B L L L 
+L B A 2 L B L 
+L L L B L 2 B 
+L A B L L 0 L 
+L 0 L L F F L 
+B L L 0 1 F L 
+L L L L B L L 
+
+303 [0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_normal papan ke-2
+L B A L L A B 
+A L L L B L L 
+L L 1 B 2 L 0 
+B L L L L L L 
+1 L 1 L 1 B L 
+L L B L L L A 
+B 1 L L 0 L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-3
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L F L F L 
+L A L A L 1 B 
+L L L F L L L 
+0 L L 0 L B L 
+L B L L L A L 
+
+303 [0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_normal papan ke-4
+1 B 2 L B L A 
+L L B L 1 L B 
+L 0 L L L B 2 
+B L L L L L L 
+2 L L B L 0 L 
+B L A L L L B 
+1 L B L A B A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-5
+0 L L B L L 1 
+L B 2 L L L B 
+L L B 3 B 1 L 
+B L 2 B A L L 
+L 0 L 2 L B L 
+L L L B 1 L L 
+A L B L L L 0 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-6
+L B L L 0 L L 
+B L L A L B L 
+1 L B A F L L 
+L 0 A A 0 1 B 
+B L L 0 L F 2 
+L L B A L L B 
+L B 2 L B L L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-7
+B 3 B L L L L 
+L B L A L B 1 
+L L L B L L L 
+L 1 L L B 2 B 
+L B L L L L L 
+A L L 0 L B L 
+B L L L L A L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-8
+L L L B 2 F L 
+L B 3 C B L L 
+A L B L L 2 B 
+L L L L L B L 
+L 1 L L L L 0 
+L B L L A L L 
+B L 0 L L L B 
+
+126 [1, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-9
+L L L L L B L 
+L A A L B 3 B 
+L L L B L A L 
+L B L L L L L 
+B 3 B L L L L 
+L 0 L L 1 0 L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-10
+B L 0 L L B L 
+L 1 L L B 3 B 
+L B L L L L A 
+L L L L L B L 
+A L L B L L L 
+B 3 B L L 0 L 
+L B L L A L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-11
+L B L A L B L 
+B L L L 0 L L 
+L 1 B 2 L L B 
+0 L A B A L 1 
+L L B A L 0 L 
+B L 1 L B L L 
+L B L 0 L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-12
+L L B L L L L 
+L 0 L L A A L 
+L 1 L B L L L 
+L B L 1 L B L 
+L L L L B 3 B 
+B 2 A B L A L 
+L B L L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-13
+B L 1 B L L L 
+L B L 1 L L B 
+L L L L L B A 
+L A L 0 L 1 L 
+0 L L L L L B 
+L L B 3 B L L 
+L L L B 3 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-14
+L L L L B L L 
+L F 1 A 1 L B 
+B 2 B L L 0 L 
+L A L A B A L 
+L A L B L A L 
+L B A 2 A B L 
+L L L B L L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-15
+F 1 B L 0 L B 
+L L L B L L 2 
+1 L L L L L B 
+B L L 0 L L L 
+L L L L L B 1 
+0 L L B L L L 
+L B A L B 2 B 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-16
+B L 1 L L B L 
+L L B L 1 L B 
+L 0 L L B L 2 
+L L L L L L B 
+A L L L L 0 L 
+L B 3 B L L L 
+L L B C 2 B L 
+
+25 [1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-17
+L L B 1 L L L 
+L L L L L L B 
+B L L 2 B L L 
+2 L 1 B 3 B 1 
+B L L A L L F 
+L L L B L L L 
+L B L 2 B L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-18
+L B 1 L L B L 
+B A L L A 2 F 
+L 1 L L L B 1 
+L B L L L L L 
+A L B L L 0 L 
+L A 2 B L 1 B 
+B L L L A F L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-19
+L L L L L B L 
+B L A L 0 L L 
+L 0 L B L A L 
+L L L L B L L 
+L A B L L 0 L 
+L B 3 L 0 L B 
+L L B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-20
+B 2 B L L L L 
+L L L B A B 2 
+L 0 A L A L B 
+L L B A B L L 
+L L A L 2 0 L 
+1 B A L B L L 
+L L L B L A L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-21
+0 L L B 2 B 1 
+L L B L L L L 
+1 B L L L L L 
+L L L A B L L 
+L L L B L L 0 
+B L L L L L L 
+1 L 0 L L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-22
+A L L L L B 2 
+L L L L L L B 
+B L 2 B 1 L L 
+L L B L L L L 
+L B 2 L 1 L L 
+L L L L B L L 
+A L B L L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-23
+B L L L L 1 B 
+2 B L L 1 F L 
+L 1 L L B L L 
+B L L L L L L 
+L L B L L 0 L 
+L F 2 B L L 1 
+L 0 L L L L B 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-24
+L L L B 2 B L 
+F 2 B L L 1 L 
+A B L L L L L 
+L L L L L L B 
+L L L L L F A 
+B 3 C L B 3 B 
+L B 1 L L B L 
+
+227 [1, 1, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-25
+B 1 1 L B L L 
+L L B L 2 F A 
+L 1 L L B L A 
+L B L L L C L 
+0 L L B L 2 L 
+1 L A L L B L 
+B L L L A 2 B 
+
+126 [1, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-26
+B L L A L B L 
+L B 3 B L L L 
+L L B A B A B 
+A L 1 A 1 L 2 
+B 2 F A L L B 
+L B L L A L L 
+L L F 0 L B L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-27
+L L L B L 0 L 
+0 0 L L L 1 B 
+L L B A B L L 
+L B 4 B 2 F L 
+L L B A L L L 
+L 0 L B L 0 0 
+B A L L B L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-28
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L L L L L B L 
+L F L A L L 0 
+L 1 B L L L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-29
+L A L B 3 B L 
+B L A L B L 1 
+1 L B L L A B 
+L B L L L L L 
+F 2 L L L B 2 
+2 B L L A L B 
+B L A L B A L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-30
+B 2 B L L L L 
+L L L L L B 2 
+L B 3 B A L B 
+L L B L L L L 
+L L A L 1 L L 
+1 L L L B L L 
+B L L L L A L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-31
+B A L B L A B 
+2 B L A L B A 
+L L B L L L L 
+B 2 L 0 L 1 B 
+L B L L L L L 
+A L L A L B A 
+B A L L B 3 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-32
+L L 0 L L L B 
+L B L L L L L 
+L L B 3 B L 0 
+B L 3 B A L L 
+2 L B A L L B 
+B L L L L L L 
+L L L B 2 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-33
+L L L L B 2 L 
+2 B 3 B 1 B L 
+B 3 B L L 1 L 
+L B L L L L L 
+L A L L F 2 B 
+L B 1 L 2 B A 
+L A L L B L L 
+
+141 [0, 2, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-34
+L L B 2 B L L 
+B L L L L L L 
+L L 0 L 1 L B 
+0 L L L B L 2 
+L B 3 B A L B 
+L L B L L L L 
+B L L 0 L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-35
+L L L L B L L 
+L F 1 A 1 L B 
+B 2 B L L 0 L 
+L A L A B A L 
+L A L B L A L 
+L B A 2 A B L 
+L L L B L L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-36
+0 L L L B L A 
+L B L L 1 L L 
+B A 1 B A L L 
+L L L L L B L 
+L B 1 L 0 3 B 
+L L 1 L L B L 
+0 L B L L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-37
+L B L L 0 2 B 
+0 L B L 1 B L 
+1 A L B L L L 
+B L L L L L L 
+L L L L B 1 A 
+L B 1 L L L 0 
+L A A L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-38
+B L 1 0 L L L 
+L L B 1 L L B 
+L L L L L B 2 
+A A L B L 1 A 
+0 L L L B L L 
+L B L A L B L 
+B L L A 0 L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-39
+L L B L A B L 
+B L 2 B L L L 
+3 B L L L 1 B 
+B L L 1 B L L 
+L 1 B L L L 1 
+L L L F 1 L B 
+L B 1 L B L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-40
+L L L L B 3 B 
+1 L L L L B L 
+B L L A L L L 
+L L 1 B 1 L L 
+L B L A L L L 
+L L L L B L A 
+L 1 B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-41
+L L B 2 L B L 
+B A L B C 3 B 
+L L L L L B L 
+0 L L L L L A 
+L B L L L L L 
+L 1 L L L A B 
+B L L 1 B L L 
+
+5 [1, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-42
+B L L L L 0 L 
+2 F A B L L L 
+B L L L L 2 B 
+L L B 3 C B L 
+L 1 L B L L L 
+L B L L A L 0 
+L A L L B L L 
+
+126 [1, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-43
+L 1 B A L B L 
+B L L L A L 1 
+L 1 L L L L B 
+1 B L A B L 2 
+F L L L L 1 B 
+A L 2 B L L L 
+L L B 2 L 0 L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-44
+L 1 L L L B L 
+L B 1 L L L A 
+B L L L L 0 L 
+L L B L L L L 
+L 0 L L B L L 
+1 L L B 2 L B 
+B L L L L 0 L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-45
+L 0 L B 2 B L 
+B A L L L A 0 
+A L L L B L L 
+L B L 0 L B L 
+B L L L L L 1 
+2 A B L L 1 B 
+B L 2 B L A L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-46
+L L L B L A L 
+1 B 1 L L B L 
+L L L L B 4 B 
+B L L 0 L B L 
+L 1 B L L L L 
+L L L B 2 L A 
+L 0 L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-47
+L L L B L 2 B 
+1 F L 2 L B L 
+B L 2 B A L L 
+L 2 B A B 1 L 
+L B 4 B A L L 
+L L B A B L 0 
+L A L L L B L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-48
+B L L L L A L 
+1 1 B L 1 1 B 
+L 1 L L B L L 
+L B L 0 L B L 
+B L L L L A L 
+L 0 A B L 1 A 
+L 0 L L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-49
+L B L 0 L L B 
+L L A L B L L 
+B L 1 L 1 0 L 
+2 L B L L L 1 
+B A A L 0 L B 
+L L L B 2 B L 
+L B L 1 F L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-50
+L L L L B L L 
+L B L L 2 B L 
+B 2 A L 1 L L 
+L L L L B L L 
+L L A B 2 1 B 
+L B 2 L F F L 
+L L B L L L L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-51
+0 L L B L A A 
+0 L B A L B L 
+L L L B L L L 
+B 1 L 2 B A L 
+L L L L L L B 
+L B L A L B 2 
+A A L B L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-52
+L L L B L L L 
+L L B 4 B L L 
+L B 4 B A B L 
+L 2 B L L A L 
+B L 1 L 1 L B 
+L B L 2 B L L 
+L L L B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-53
+B L L A A B L 
+L B L L 0 L B 
+A 1 L B L L L 
+1 L B 2 L L A 
+B L L L L 0 1 
+L B 1 L L L B 
+L L A 1 B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-54
+L B L L 1 B L 
+B L L L L L L 
+2 L 1 B A L B 
+B L C 3 B L L 
+L L 1 B A L 1 
+L L L L L L B 
+L L 0 L B L L 
+
+5 [1, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-55
+B L L A B L L 
+L B L L A L L 
+L 1 L L L L B 
+0 L B 2 L B 3 
+L L L B L 2 B 
+B L 1 L B L L 
+L L B 1 L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-56
+L 0 L L L B L 
+L L L B L L A 
+L L B 4 B L L 
+B L 2 B 3 L L 
+L B L 3 B L L 
+0 L L B L L L 
+L L B L L 1 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-57
+L B A B L L L 
+L A L L B 3 B 
+L L B 2 L B 2 
+B L A B 2 L L 
+2 B L A B L L 
+F 2 B L L A B 
+L L L B 2 B L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-58
+1 B 1 L B L A 
+L L F L A L B 
+L A L L L B 2 
+B L L L L L L 
+2 L L L B A L 
+B L 0 L L L B 
+A L L B 2 B 2 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-59
+L B 1 L L L B 
+B L L 0 L B L 
+L L B 3 B L 0 
+L 0 A B A A L 
+1 L B A B L L 
+B L L 0 L L B 
+L B L L 1 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-60
+B L L 1 F L L 
+L L 2 B L L L 
+L L B A L 0 F 
+1 B 2 A 1 L A 
+L A L A B L L 
+B L L L 1 L B 
+L L B 1 L B L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-61
+L L L B L 1 B 
+0 2 B L L A L 
+L B L 2 B L L 
+L L 1 B 4 B L 
+L L L 2 B L L 
+L 1 B L L A 1 
+B 1 L L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-62
+L L L L B L L 
+L F A L 1 L B 
+L 1 B L L 0 L 
+L F L L L F L 
+B 2 L L B A L 
+L B A B 4 B L 
+L L L L B L L 
+
+303 [0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_normal papan ke-63
+0 L L F 2 B 1 
+L L L L B L L 
+0 L B 2 L L B 
+L L A B A L L 
+B L L A L L 0 
+L L B L L L L 
+A B 2 L B L A 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-64
+A L L B 3 B A 
+B L 0 L B L L 
+A B L L L 0 L 
+L L L L L L B 
+B 1 L L L L A 
+L L B L 2 B L 
+A F 1 L B L A 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-65
+B 1 L L L L B 
+L 0 L B L A 2 
+L L L L L L B 
+L B L 0 L B L 
+L L L L B L L 
+1 1 B L L 0 L 
+B L L L L A L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-66
+B 1 A L L L B 
+L L L B A B 2 
+L 2 B L L L A 
+L B L L L L L 
+0 L L L B 1 L 
+1 L 0 L L L B 
+B L L L 0 A L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-67
+L A L L L L B 
+L L B L L L 1 
+L B 2 L 0 L L 
+B L L L L L L 
+L L 0 L 1 B L 
+A L L B L L L 
+L L L L B 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-68
+B A B L A L B 
+L B 2 L L B A 
+A L L L B 3 B 
+L L B L L L L 
+B 2 L B L L A 
+3 B L L A B L 
+B L A L B 3 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-69
+L 0 1 B L L L 
+L 0 L L L A A 
+B L L L L L 0 
+L B L A L B L 
+0 L B L L L L 
+A A L L B 2 B 
+L L L B 2 0 L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-70
+L B L L 0 L B 
+B L L 1 L B L 
+1 L L B L L L 
+L 0 L L B A L 
+B L L L L L 0 
+L L B 2 L B L 
+L B 3 B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-71
+L B A L B A L 
+0 L L L L L B 
+L L L L L B 2 
+B L L L L L L 
+1 L L L L L B 
+L L L B L L 2 
+B 2 B L 0 L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-72
+L B L L L L L 
+L L L B 3 B L 
+B 3 B 4 B L L 
+L B A B 3 L L 
+L L B 4 B 2 B 
+L L 2 B L L L 
+L L L L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-73
+B L L L 2 B L 
+L 0 L L B 3 B 
+A L L B L L L 
+L L L L L B L 
+L B L L L L 0 
+B 4 B L L A L 
+L B A L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-74
+L B 1 L 0 L B 
+B L A B L L L 
+A L B L L 0 A 
+B L L L L L L 
+1 A L L B L 0 
+L B L L A B L 
+B L 0 L A L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-75
+L F L A L B L 
+B 1 L L L 2 F 
+L L L L L B L 
+0 L L L L L 0 
+L B L L L L L 
+B A L B L A B 
+L L B 3 B L L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-76
+L 1 L L L L B 
+L B L L 1 B 2 
+B 3 B L L L L 
+L B L L L L L 
+L L L L B 2 B 
+A L 1 B L L L 
+B L L L L 0 L 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-77
+L L B L L L L 
+L B 2 L B L L 
+B L 2 B 2 1 B 
+L L B L L L L 
+L 1 1 L A L L 
+L B L L 2 B L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-78
+L L L L L L B 
+B 3 B L L A L 
+L B 1 L 0 L L 
+L L B L L L L 
+L L 2 B 3 B L 
+L 1 L L B 2 L 
+L B L L L L L 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-79
+A L 0 L B L A 
+L L L L L L B 
+L L L L L B 3 
+L L L L L L B 
+1 B L L L L L 
+L L L B L L L 
+0 L B L 0 L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-80
+L B L L 0 0 L 
+0 L B A L L B 
+A L L B L L L 
+L 0 L 2 L 0 L 
+L L L B L L A 
+L B L 1 L B A 
+B 2 A L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-81
+B L L L 1 A L 
+A L 0 L B L L 
+A L F L L 1 B 
+L B L L L L L 
+F 1 F L L L 0 
+L L C B 3 B A 
+F 0 1 L B L L 
+
+429 [1, 1, 4, 0, 0, 4]
+mencoba tingkat kesulitan 7_normal papan ke-82
+B L 0 L 0 L B 
+L L 1 B L L L 
+1 B L L L A 0 
+F L L 0 L B L 
+A 2 B L L L 1 
+L B L L 0 L B 
+B L A B A L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-83
+A L A L F L A 
+L B L L 1 L B 
+F 1 L L B L A 
+L L L L L B L 
+A L B L L 2 B 
+L B 2 L L L L 
+1 C L B 2 B A 
+
+227 [1, 1, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-84
+B A F L L 1 B 
+A B 3 B L L 2 
+L L B L L A B 
+B L L L L L L 
+L A L L F L L 
+2 B L L 1 B 2 
+B 2 L L F A B 
+
+303 [0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_normal papan ke-85
+L A 0 L L B L 
+L L L B L L 0 
+L L B L L L A 
+B L L L L L L 
+2 B L L L L L 
+1 L L L B L L 
+B L L L 1 A B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-86
+L A L A L B L 
+B 3 B L L A 0 
+L B L L L L L 
+A L L L L B 1 
+L L L B L L L 
+A 1 L L L 1 B 
+L B L 1 B 1 L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-87
+L B L L L A L 
+A 2 A B L A L 
+L B L L L 1 B 
+L L L 2 B L L 
+B 1 L B L L L 
+L 1 B L 0 0 A 
+L A L L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-88
+B 1 L L B 2 B 
+2 L B L L L 1 
+B L 1 L 1 B L 
+L L F L F L L 
+L B 2 B A L B 
+A L L L B L 2 
+B 2 B L L 1 B 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_normal papan ke-89
+L B L 0 L B L 
+L A B A L 2 B 
+B L L L L L L 
+1 A L 0 L A A 
+L L L L B L L 
+L 0 L A L 0 L 
+B L L 0 L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-90
+B L L L A 0 L 
+2 B L L L L L 
+A L L L L L B 
+L L L L L B L 
+L L L L B L 0 
+L L B L L L A 
+B 1 2 B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-91
+L L L L L B L 
+L L L B 2 L L 
+L A B 4 B L L 
+L L 2 B 3 L L 
+B L L 2 B 3 B 
+L B 2 L L B L 
+L L B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-92
+L L B L L L L 
+B L 1 L 2 B L 
+L 0 L L B 3 B 
+L L B L L L L 
+L A L B L 0 L 
+L B 1 L A L L 
+L L L L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-93
+L L B L L L L 
+B L 2 B 3 B L 
+L A L L B 1 B 
+L L B 2 L B L 
+L A L B L 1 L 
+L B A L 0 L L 
+L L L L L B L 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-94
+L L L B L L L 
+L B L 2 B L L 
+L L 0 L 3 B L 
+B 1 L L B 2 L 
+L L 1 B 2 L B 
+L B L 2 L B L 
+L L L B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-95
+L L L L L B L 
+L 2 B 3 B 2 L 
+L B 4 B A F L 
+L 2 B A B 3 B 
+B L A B A B L 
+L 2 B A B A L 
+L B L L L L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-96
+L B 2 B L L L 
+L A F L L 1 B 
+L B L A B L 1 
+B L A A A L L 
+1 L L 0 L B L 
+L 1 B L L A L 
+B L L L 0 L B 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-97
+L L B L L L L 
+L L L A L B L 
+L B 2 L 0 L L 
+L 2 B L L 2 B 
+B L A F 2 B L 
+L L B 3 B L L 
+L L L B L L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-98
+L L L L L B L 
+L A L B L 1 L 
+B L L 3 B L L 
+L B 3 B 4 B L 
+L L B A B L L 
+L A L B L 2 B 
+L L L L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-99
+B 2 L 1 B L L 
+L B L L L L A 
+L L B A L L F 
+A L A B 3 B 1 
+L L B 3 B L L 
+A L L L L L B 
+B L L A L A L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_normal papan ke-0
+L L L L B L L 
+L A L B 2 2 B 
+B 1 L L L B L 
+L L B 3 B L L 
+L L L B L A L 
+L 0 A L L 0 L 
+L L B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-1
+L L L B L L L 
+L B A 2 L B L 
+L L L B L 2 B 
+L A B L L 0 L 
+L 0 L L W F L 
+B L L 0 1 W L 
+L L L L B L L 
+
+3 [0, 0, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-2
+L B A L L A B 
+A L L L B L L 
+L L 1 B 2 L 0 
+B L L L L L L 
+1 L 1 L 1 B L 
+L L B L L L A 
+B 1 L L 0 L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-3
+B 3 B L L L L 
+L B L 1 B L 0 
+L L L W L W L 
+L A L A L 1 L 
+L L L L L B L 
+0 L L 0 L L L 
+L B L L L A B 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-4
+1 B 2 B L L A 
+W L W L 1 L B 
+F 0 L L B L 2 
+L L L L L L B 
+2 B L L L 0 L 
+B L A L L L L 
+1 L B L A B A 
+
+3 [0, 0, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-5
+0 L B L L L 1 
+L W 2 L L L B 
+L L B 3 B 1 L 
+B L 2 B A L L 
+L 0 L 2 L B L 
+L L L B 1 L L 
+A L B L L L 0 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-6
+L B L L 0 F L 
+B L L A F W L 
+1 L W A F W L 
+L 0 A A 0 1 B 
+B L L 0 L W 2 
+L L B A L L B 
+L B 2 L B L L 
+
+7 [0, 0, 7, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-7
+B 3 B L L L L 
+L B L A L B 1 
+L L L B L L L 
+L 1 L L B 2 B 
+L B L L L L L 
+A L L 0 L B L 
+B L L L L A L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-8
+L L L B 2 W L 
+L B 3 C B L L 
+A L B L L 2 B 
+L L L L L B L 
+L 1 L L L L 0 
+L B L L A L L 
+B L 0 L L L B 
+
+26 [1, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-9
+L B L L L L L 
+L A A L B 3 B 
+L B L L L A L 
+L L L L L B L 
+B 3 B L L L L 
+L 0 L B 1 0 L 
+L F L L W F L 
+
+43 [0, 2, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-10
+B L 0 L L W L 
+L 1 L L B 3 B 
+L B L L L C A 
+L L L L L B L 
+A L L B L L L 
+B 3 B L L 0 L 
+L B L L A L B 
+
+26 [1, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-11
+L B L A L B L 
+B L L L 0 L L 
+L 1 B 2 L L B 
+0 L A B A L 1 
+L L B A L 0 L 
+B L 1 L B L L 
+L B L 0 L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-12
+L L B L L L L 
+L 0 L L A A L 
+L 1 L B L L L 
+L B L 1 L W L 
+L L L L B 3 B 
+B 2 A B L A L 
+L B L L L L L 
+
+21 [0, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-13
+B L 1 B L L L 
+L B L 1 L L B 
+L L L L L B A 
+L A L 0 L 1 L 
+0 L L L L L B 
+L L B 3 B L L 
+L L L B 3 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-14
+L L L L B L L 
+L W 1 A 1 L B 
+B 2 B L L 0 L 
+L A L A B A L 
+L A L B L A L 
+L B A 2 A B L 
+L L L B L L L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-15
+L 1 B L 0 L B 
+B L L L L L 2 
+1 L L L L L B 
+W L L 0 L L L 
+L L L L L B 1 
+0 L L B L L L 
+L B A L B 2 B 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-16
+B L 1 L L B L 
+L L B L 1 L B 
+L 0 L L B L 2 
+L L L L L L B 
+A L L L L 0 L 
+L B 3 B L L L 
+L L B C 2 B L 
+
+25 [1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-17
+L B L 1 L L B 
+L L L B L L L 
+B L L 2 W L L 
+2 L 1 B 3 B 1 
+B L C A B L L 
+L L L B L L L 
+L L B 2 L L B 
+
+6 [1, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-18
+L B 1 L L B L 
+B A L L A 2 W 
+L 1 L L L B 1 
+L B L L L L L 
+A L B L L 0 L 
+L A 2 B L 1 B 
+B L L L A W L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-19
+L L B L L L C 
+B L A L 0 F W 
+L 0 L B L A W 
+L F W C W F W 
+C A W L F 0 F 
+L B 3 L 0 F W 
+L L B L L L L 
+
+48 [3, 1, 13, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-20
+B 2 B L L L L 
+L L L B A B 2 
+L 0 A L A L B 
+L L B A W L L 
+L L A B 2 0 L 
+1 B A L B L L 
+L L B L L A L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-21
+0 L L B 2 B 1 
+L L B L L L L 
+1 B L L L L L 
+L L L A B L L 
+L L L B L L 0 
+B L L L L L L 
+1 L 0 L L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-22
+A L L L L B 2 
+L L L L L L B 
+B L 2 B 1 L L 
+L L B L L L L 
+L B 2 L 1 L L 
+L L L L B L L 
+A L B L L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-23
+B L L L L 1 B 
+2 W L L 1 W L 
+B 1 L L B L L 
+L W L L L F L 
+L L B L L 0 L 
+L F 2 B L L 1 
+L 0 L L L L B 
+
+5 [0, 0, 5, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-24
+L L L B 2 B L 
+W 2 B L L 1 W 
+A B L L L L L 
+L L L L L B L 
+L L L L L L A 
+B 3 C L B 3 B 
+L B 1 L L B L 
+
+27 [1, 1, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-25
+B 1 1 L B L L 
+L L B L 2 B A 
+L 1 L B L L A 
+L B L L L L L 
+0 L L L B 2 L 
+1 L A L L B L 
+B L L L A 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-26
+B L L A L B L 
+L B 3 B L L L 
+L L B A B A B 
+A L 1 A 1 L 2 
+B 2 W A L L B 
+L B L L A L L 
+L L F 0 L B L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-27
+L L L B L 0 L 
+0 0 L L L 1 B 
+L L B A B L L 
+L B 4 B 2 W L 
+L L B A L F L 
+L 0 L B L 0 0 
+B A L L B L L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-28
+L L L L B 3 B 
+2 B L A L B L 
+B L L L L L L 
+L 0 L A L A L 
+L L L L L B L 
+L W L A L L 0 
+L 1 B L L L L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-29
+L A L B 3 B L 
+B L A L B L 1 
+1 L B L L A B 
+L B L L L L L 
+W 2 L L L B 2 
+2 B L L A L B 
+B L A L B A L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-30
+B 2 B L L L L 
+L L L L L B 2 
+L B 3 B A L B 
+L L B L L L L 
+L L A L 1 L L 
+1 L L L B L L 
+B L L L L A L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-31
+B A L B L A B 
+2 B L A L L A 
+L L L L L B L 
+B 2 L 0 L 1 W 
+L B L L L L L 
+A L B A L W A 
+B A L L B 3 B 
+
+122 [0, 1, 2, 0, 1, 0]
+mencoba tingkat kesulitan 7_normal papan ke-32
+L L 0 L L L B 
+B L L L L L L 
+L L B 3 B L 0 
+C B 3 B A L L 
+2 L B A L L B 
+B L L L L L L 
+L L L B 2 B L 
+
+45 [1, 2, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-33
+L L L L B 2 L 
+2 B 3 B 1 B L 
+B 3 B L L 1 L 
+L B L L L L L 
+L A L L W 2 B 
+L B 1 L 2 B A 
+L A L L B L L 
+
+41 [0, 2, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-34
+L L B 2 B L L 
+B L L L L L L 
+L L 0 L 1 L B 
+0 L L L B L 2 
+L B 3 B A L B 
+L L B L L L L 
+B L L 0 L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-35
+L L L L B L L 
+L W 1 A 1 L B 
+B 2 B L L 0 L 
+L A L A B A L 
+L A L B L A L 
+L B A 2 A B L 
+L L L B L L L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-36
+0 L B L L L A 
+L L L B 1 L L 
+L A 1 L A B L 
+L L B L L L L 
+B L 1 L 0 3 B 
+L B 1 L L B L 
+0 L L L B L A 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-37
+L B L L 0 2 B 
+0 L L L 1 B L 
+1 A B L L L L 
+B L L L L L L 
+L L L L B 1 A 
+L W 1 B L L 0 
+L A A L L B L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-38
+B L 1 0 F L L 
+L L B 1 L L B 
+L L L L L B 2 
+A A L B L 1 A 
+0 L L L W L L 
+L B L A L B L 
+B L L A 0 L B 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-39
+L L B L A B L 
+W L 2 B L L L 
+3 B L L L 1 B 
+B L L 1 B L L 
+L 1 B L L L 1 
+L L L W 1 L B 
+L B 1 L B L L 
+
+122 [0, 1, 2, 0, 1, 0]
+mencoba tingkat kesulitan 7_normal papan ke-40
+L L L L B 3 B 
+1 L L L L B L 
+B L L A L L L 
+L L 1 B 1 L L 
+L B L A L L L 
+L L L L B L A 
+L 1 B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-41
+L L B 2 L W L 
+B A L B C 3 B 
+L L L L L B L 
+0 L L L L L A 
+L B L L L L L 
+L 1 L L L A B 
+B L L 1 B L L 
+
+26 [1, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-42
+B L L L L 0 L 
+2 W A B L L L 
+B L L L L 2 B 
+L L B 3 C B L 
+L 1 L B L L L 
+L B L L A L 0 
+L A L L B L L 
+
+26 [1, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-43
+L 1 B A B L L 
+L L L B A L 1 
+B 1 L L L L B 
+1 W L A L B 2 
+W W L L W 1 W 
+A W 2 B L L L 
+L L B 2 F 0 F 
+
+8 [0, 0, 8, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-44
+L 1 L L L B L 
+L B 1 L L L A 
+L L W L L 0 L 
+B L L L L L L 
+L 0 L L B L L 
+1 L L B 2 L B 
+B L L L L 0 L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-45
+L 0 L W 2 B L 
+B A L L B A 0 
+A B L L L L L 
+L L L 0 L B L 
+B L L L L L 1 
+2 A B L L 1 B 
+B L 2 B L A L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-46
+L L L B L A L 
+1 B 1 L L B L 
+L L L L B 4 B 
+L L F 0 L B L 
+B 1 W L L L L 
+L L L B 2 L A 
+L 0 L L B L L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-47
+L L L B L 2 B 
+1 W W 2 L B L 
+B L 2 B A L L 
+L 2 B A B 1 L 
+L B 4 B A L L 
+L L B A B L 0 
+L A L L L B L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-48
+B L L L L A L 
+1 1 B L 1 1 B 
+L 1 L L B L L 
+L B L 0 L B L 
+B L L L L A L 
+L 0 A B L 1 A 
+L 0 L L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-49
+L B L 0 L L B 
+L L A L B L L 
+B L 1 L 1 0 L 
+2 L B L L L 1 
+B A A L 0 L B 
+L L L B 2 B L 
+L B L 1 W L L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-50
+L L L L B L L 
+L B L L 2 B L 
+B 2 A L 1 L L 
+L L L L B L L 
+L L A B 2 1 B 
+L B 2 L W W L 
+L L B L L L L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-51
+0 L L B L A A 
+0 L B A L B L 
+L L L B L L L 
+B 1 L 2 B A L 
+L L L L L L B 
+L B L A L B 2 
+A A L B L L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-52
+L L L B L L L 
+L L B 4 B L L 
+L B 4 B A B L 
+L 2 B L L A L 
+B L 1 C 1 L B 
+L B L 2 B L L 
+L L L B L L L 
+
+5 [1, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-53
+B L L A A B L 
+L B L L 0 L B 
+A 1 L B L L L 
+1 L B 2 L L A 
+B L L L L 0 1 
+L B 1 L L L B 
+L L A 1 B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-54
+L B L L 1 B L 
+B L L L L L L 
+2 L 1 B A L B 
+B L C 3 B L L 
+L L 1 B A L 1 
+L L L L L L B 
+L L 0 L B L L 
+
+5 [1, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-55
+B L L A L L B 
+L B L L A L L 
+L 1 L W L L L 
+0 L B 2 L B 3 
+L L L B L 2 B 
+L B 1 L L W L 
+B L L 1 B L L 
+
+122 [0, 1, 2, 0, 1, 0]
+mencoba tingkat kesulitan 7_normal papan ke-56
+L 0 L L L L B 
+L L L B L L A 
+L L B 4 B L L 
+B L 2 B 3 B L 
+L L B 3 B L L 
+0 L L B L L L 
+L B L L L 1 B 
+
+60 [0, 3, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-57
+L B A B L L L 
+L A L L B 3 B 
+L L B 2 L B 2 
+B L A B 2 L L 
+2 B L A B L L 
+W 2 B L L A B 
+L L L B 2 B L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-58
+1 B 1 L B L A 
+L L W L A L B 
+L A L L L B 2 
+B L L L L L L 
+2 B L L L A L 
+W L 0 L L L B 
+A L L B 2 B 2 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-59
+L B 1 L L L B 
+B L L 0 L B L 
+L L B 3 B L 0 
+L 0 A B A A L 
+1 L B A B L L 
+B L L 0 L L B 
+L B L L 1 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-60
+B L L 1 B L L 
+L B 2 L L L B 
+L L B A L 0 L 
+1 L 2 A 1 L A 
+B A B A B L L 
+L L L B 1 B L 
+L B L 1 L L B 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-61
+L B L L L 1 B 
+0 2 W W L A L 
+L B L 2 B L L 
+L L 1 B 4 B L 
+L L L 2 B L L 
+L 1 B L L A 1 
+B 1 L L L L B 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-62
+L L L L B L L 
+L W A L 1 L B 
+L 1 W L L 0 L 
+L B L L L L L 
+B 2 L L B A L 
+L W A B 4 B L 
+L L L L B L L 
+
+3 [0, 0, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-63
+0 L L W 2 B 1 
+L L L L B L L 
+0 L B 2 L L B 
+L L A B A L L 
+B L L A L L 0 
+L L B L L L L 
+A B 2 L B L A 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-64
+A L L B 3 B A 
+B L 0 L B L L 
+A B L L L 0 L 
+L L L L L L B 
+B 1 L L L L A 
+L L B L 2 B L 
+A W 1 L B L A 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-65
+B 1 L L L L B 
+L 0 L L B A 2 
+L L L L L L B 
+L L F 0 L B L 
+L B L L L L L 
+1 1 W W L 0 L 
+B L L L L A L 
+
+3 [0, 0, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-66
+B 1 A L L L B 
+L L L B A B 2 
+L 2 B L L L A 
+L B L L L L L 
+0 L L L B 1 L 
+1 L 0 L L L B 
+B L L L 0 A L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-67
+L A L L L L B 
+L L B L L L 1 
+L B 2 L 0 L L 
+B L L L L L L 
+L L 0 L 1 B L 
+A L L B L L L 
+L L L L B 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-68
+B A W L A B L 
+L B 2 B L L A 
+A L L L B 3 B 
+L L L L L B L 
+B 2 W L L L A 
+3 B L L A L L 
+B L A L B 3 B 
+
+122 [0, 1, 2, 0, 1, 0]
+mencoba tingkat kesulitan 7_normal papan ke-69
+L 0 1 B L L L 
+L 0 L L L A A 
+B L L L L L 0 
+L B L A L B L 
+0 L B L L L L 
+A A L L B 2 B 
+L L L B 2 0 L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-70
+L B L L 0 L B 
+B L L 1 L B L 
+1 L L B L L L 
+L 0 L L B A L 
+B L L L L L 0 
+L L B 2 L B L 
+L B 3 B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-71
+L B A L B A L 
+0 L L L L L B 
+L L L L L B 2 
+B L L L L L L 
+1 L L L L L B 
+L L L B L L 2 
+B 2 B L 0 L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-72
+L B L L L L L 
+L L L B 3 B L 
+B 3 B 4 B L L 
+L B A B 3 C L 
+L L B 4 B 2 B 
+L L 2 B L L L 
+L L L L L B L 
+
+5 [1, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-73
+B L L L 2 B L 
+L 0 L L B 3 B 
+A L L L L B L 
+L L L B L L L 
+L B L L L L 0 
+B 4 B L L A L 
+L B A L L L B 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-74
+L B 1 L 0 L B 
+W L A B L L L 
+A L B L L 0 A 
+B L L L L L L 
+1 A L L B L 0 
+L B L L A B L 
+W L 0 L A L B 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-75
+L W L A L B L 
+B 1 L B L 2 W 
+L L L L L B L 
+0 L L L L L 0 
+L B L L L L L 
+B A L L L A B 
+L L B 3 B L L 
+
+122 [0, 1, 2, 0, 1, 0]
+mencoba tingkat kesulitan 7_normal papan ke-76
+L 1 L L L L B 
+L B L L 1 B 2 
+B 3 B L L L L 
+L B L L L L L 
+L L L L B 2 B 
+A L 1 B L L L 
+B L L L L 0 L 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-77
+L L B L L L L 
+L B 2 L B L L 
+B L 2 B 2 1 B 
+L L B L L L L 
+L 1 1 L A L L 
+L B L L 2 B L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-78
+L L L L L B L 
+B 3 B L L A L 
+L B 1 L 0 L B 
+L L B L L L L 
+L L 2 B 3 B L 
+L 1 L L B 2 L 
+L B L L L L L 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-79
+A L 0 L B L A 
+L L L B L L L 
+L L L L L B 3 
+L L L L L L B 
+1 B L L L L L 
+L L B L L L L 
+0 L L L 0 L A 
+
+120 [0, 1, 0, 0, 1, 0]
+mencoba tingkat kesulitan 7_normal papan ke-80
+L B L L 0 0 L 
+0 L B A L L B 
+A L L B L L L 
+L 0 L 2 L 0 L 
+L L L B L L A 
+L B L 1 L B A 
+B 2 A L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-81
+B L L L 1 A L 
+A L 0 L B L L 
+A L F L L 1 B 
+L B L L L L L 
+W 1 W L L L 0 
+L L C B 3 B A 
+F 0 1 L B L L 
+
+29 [1, 1, 4, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-82
+B L 0 L 0 L B 
+L L 1 B L L L 
+1 B L L L A 0 
+W L L 0 L B L 
+A 2 B L L L 1 
+L B L L 0 L B 
+B L A B A L L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-83
+A L A L W L A 
+L B L L 1 L B 
+W 1 L L B L A 
+L L L L L B L 
+A L B L L 2 B 
+L B 2 L L L L 
+1 C L B 2 B A 
+
+27 [1, 1, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-84
+B A W L L 1 B 
+A B 3 B L L 2 
+L L B L L A B 
+L L L L B L L 
+W A L L L L L 
+2 B L L 1 B 2 
+B 2 L L W A B 
+
+3 [0, 0, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-85
+L A 0 L L B L 
+L L L B L L 0 
+L L B L L L A 
+B L L L L L L 
+2 B L L L L L 
+1 L L L B L L 
+B L L L 1 A B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-86
+L A L A L B L 
+B 3 B L L A 0 
+L B L L L L L 
+A L L L L B 1 
+L L L B L L L 
+A 1 L L L 1 B 
+L B L 1 B 1 L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-87
+L B L L L A L 
+A 2 A B L A L 
+L B L L L 1 B 
+L L L 2 B L L 
+B 1 L B L L L 
+L 1 B L 0 0 A 
+L A L L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-88
+B 1 W L W 2 B 
+2 L L L L B 1 
+B L 1 B 1 L L 
+L L B L L L L 
+L B 2 L A L B 
+A L L L B C 2 
+B 2 B L L 1 B 
+
+47 [1, 2, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-89
+L B L 0 L B L 
+L A L A B 2 W 
+B L L L L L L 
+1 A L 0 L A A 
+L L B L L L L 
+L 0 L A L 0 L 
+B L L 0 L L B 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-90
+B L L L A 0 L 
+2 B L L L L L 
+A L L L L L B 
+L L L L L B L 
+L L L L B L 0 
+L L B L L L A 
+B 1 2 B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-91
+L L L L B L L 
+L L L B 2 B L 
+L A B 4 B L L 
+L L 2 B 3 C L 
+B L L 2 B 3 B 
+L B 2 L L B L 
+L L B L L L L 
+
+25 [1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-92
+L L B L L L L 
+B L 1 L 2 B L 
+L 0 L L B 3 B 
+L L B L L L L 
+L A L L L 0 L 
+L W 1 B A L L 
+L L L L L B L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-93
+L L B L L L L 
+B L 2 B 3 B L 
+L A L L B 1 B 
+L L B 2 L B L 
+L A L B L 1 L 
+L B A L 0 L L 
+L L L L L B L 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-94
+L L L B L L L 
+L B L 2 B L L 
+L L 0 F 3 B L 
+B 1 L L B 2 L 
+L L 1 W 2 L B 
+L L B 2 B L L 
+L B L L L L L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-95
+L L L L L B L 
+L 2 B 3 B 2 L 
+L B 4 B A W L 
+L 2 B A B 3 B 
+L W A B A B L 
+B 2 W A B A L 
+L B L L L L L 
+
+3 [0, 0, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-96
+L W 2 B L L L 
+L A B L L 1 W 
+L B L A L B 1 
+B L A A A L W 
+1 L L 0 F L W 
+L 1 B L L A W 
+B L L L 0 F W 
+
+8 [0, 0, 8, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-97
+L L L L B L L 
+L L B A L B L 
+B L 2 F 0 L L 
+L 2 B L L 2 B 
+L B A W 2 B L 
+L L B 3 B L L 
+L L L B L L L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-98
+L L L L L B L 
+L A L W L 1 L 
+L L B 3 B L L 
+L B 3 B 4 B L 
+L L B A B L L 
+B A L B L 2 B 
+L L L L L B L 
+
+21 [0, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_normal papan ke-99
+B 2 L 1 B L L 
+L B L L L L A 
+L L B A L L W 
+A L A B 3 B 1 
+L L B 3 B L L 
+A L L B L L L 
+B L L A L A B 
+
+21 [0, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-0
+L B L 1 B L L 
+L L A A L F L 
+B L L L L 1 B 
+1 A L 1 L 0 A 
+L 0 L B L L L 
+B L L A 2 B L 
+L L B 2 B L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-1
+L L L B L 1 B 
+2 B L L L L L 
+B L A L 0 L L 
+L L B A L B L 
+L L A F 1 L L 
+L L L L B L 0 
+L 1 B L L L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-2
+B 1 L L L B L 
+L F L 1 L L 0 
+L L L B L L L 
+L A B 2 L 0 L 
+L L L L L L B 
+1 F L 1 B L L 
+B L L L L 0 L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_hard papan ke-3
+L B L L A A L 
+0 L L L B L L 
+A L 2 B 2 L L 
+L L B A L L B 
+B L 2 B 2 L 1 
+L L L L B L 0 
+L 0 0 L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-4
+B 2 L B A L F 
+L B L L A L 1 
+A A L L L L B 
+B L L 0 L B L 
+L L B L L 2 A 
+A B 2 L L B L 
+B L 1 B L A B 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-5
+L L B 2 F L L 
+L L L B L L L 
+F L L A L L B 
+2 B 2 B 3 B 2 
+B L L A B L L 
+L L B L L L L 
+L L L 0 L L B 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_hard papan ke-6
+B L L 0 L F L 
+L 0 L L B 3 B 
+L L L L L B L 
+A B L L L L 0 
+L L L B L L L 
+B 3 B L L 1 B 
+L B L 0 L F L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_hard papan ke-7
+B L L 1 0 L L 
+L L L B L L L 
+0 L L L L L B 
+1 L B 2 B L 1 
+B L L L L L 0 
+L L L B L L L 
+L B 1 1 L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-8
+L L L B 2 F L 
+B L 1 L B L L 
+1 L B A L 1 B 
+L B 3 A A L L 
+L 2 B 1 L B 2 
+B L L L A L B 
+L B 2 B L L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-9
+B L L L A B L 
+L L B 3 B L L 
+1 B A B 2 L L 
+L A L L B 3 B 
+L B 2 L 1 B A 
+L L B A B L L 
+B L 1 L L L B 
+
+40 [0, 2, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-10
+L L B 1 L B L 
+B 2 L L F 2 F 
+L B 3 B 2 B L 
+0 L B L L L A 
+L L A L A L L 
+B 3 B L L 2 B 
+L B L A L B L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_hard papan ke-11
+B L L L A 0 L 
+2 B 1 L L L B 
+A L L B L 0 L 
+L L B L L L L 
+L 1 L L B L A 
+L B L L A B 2 
+B 2 A L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-12
+L L B L L 1 L 
+A B 2 L L B L 
+L L L F L 2 B 
+L L L 1 B L L 
+B 3 B L L L L 
+L B L L 1 B 1 
+L A L B L L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-13
+L L B L L L L 
+L F 1 L 1 B L 
+B 2 L B L A L 
+L B L 1 L B L 
+L 3 B L L 2 B 
+L B 4 B A F L 
+L L B L L L L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_hard papan ke-14
+B L A B L 1 F 
+A L L L L B L 
+L L 0 L A L A 
+B L L A B L L 
+A B 2 L 1 L B 
+L L B L L L 2 
+B A L B 1 L B 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-15
+L L F L A B L 
+B L 1 B L L L 
+2 B L L L 0 L 
+L L L A L L B 
+B 2 B L L L 2 
+L L L F 1 L B 
+L B 1 L B L L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_hard papan ke-16
+B 2 B L L L L 
+L L L B L L A 
+L B C 2 B L L 
+L L 1 A 1 L L 
+L L B 2 L B L 
+1 L L B L L L 
+B L L L L 1 B 
+
+5 [1, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-17
+B 2 B L L L L 
+L L L B L L 1 
+L B 2 L 1 L B 
+L L B A B L L 
+L C 3 B 3 B L 
+0 L B L C L L 
+L L L L B A L 
+
+10 [2, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-18
+0 L L L F L 0 
+L B L 0 1 B L 
+L 2 B L L L L 
+L 0 L 0 L A L 
+L L L L B A B 
+B L 0 A L B L 
+A B L L L L 0 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-19
+L L L B L L L 
+L A A 1 L 1 B 
+L B L L L A L 
+L 2 B 3 B 1 C 
+L A L B L L L 
+B 1 L A A 1 L 
+L L L L L B L 
+
+5 [1, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-20
+B L L L L A L 
+A L L B L L L 
+L L B 4 B L L 
+L L A B 3 B L 
+L L B A L L B 
+L B L L L L 2 
+B 2 L L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-21
+L L L L L B L 
+L B 1 L B L L 
+L L 0 L 1 1 B 
+L L L B L L L 
+B 1 1 L 0 L L 
+L L B L 2 B L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-22
+A B L L L A 0 
+0 L L L 0 L L 
+L A L B L L L 
+L L B 2 L B L 
+L B L L L A B 
+B L 1 B L L A 
+A 0 L L B L 0 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-23
+2 B L L A F 1 
+B L L 1 L L B 
+2 L L B L L L 
+B 1 L L B 2 L 
+L L L L L B 1 
+L L B A L L F 
+A F 2 B L L A 
+
+303 [0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_hard papan ke-24
+L L B L L 1 L 
+A B 2 A L B L 
+L L L L F 2 B 
+L 1 B L L 0 L 
+L A L B L L L 
+L F L 2 A B A 
+B 1 L B L L L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_hard papan ke-25
+L L L L B L L 
+L B A B 3 B L 
+L 1 L L L A L 
+L L B A L B L 
+L 0 L L B 4 B 
+B L 1 B 3 B L 
+L B L L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-26
+L L B 2 L L B 
+L L L B 1 L L 
+B 1 A L 2 B L 
+A L L L B L A 
+L B 1 L 2 0 L 
+L L 0 L B L L 
+B L L A L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-27
+L L L L B 1 L 
+1 L B L L L L 
+B L A B 3 B L 
+L L F A B L L 
+L B 2 B 3 C B 
+L L L L B L 2 
+L 0 L L L L B 
+
+106 [1, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-28
+B L L L L A L 
+2 B L L A B L 
+L A A L 0 L L 
+L L B L L L L 
+L F 1 L 0 2 B 
+L F 0 L L B 2 
+B 1 L B L L L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_hard papan ke-29
+L 1 L L L L B 
+L B L L L L 1 
+L L B 3 B L L 
+L L A B 4 B L 
+B L L 3 B L L 
+2 L L B L L L 
+B L L L L A B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-30
+A L F 2 B L A 
+L L L B L L L 
+F L F A L L B 
+1 B 2 B 2 F 1 
+F L L 2 B L L 
+L L L L L L B 
+0 L B 1 L F 1 
+
+606 [0, 0, 6, 0, 0, 6]
+mencoba tingkat kesulitan 7_hard papan ke-31
+B 1 L B A L F 
+L L L L L B 2 
+A L B 2 L L B 
+B L A B 1 L L 
+L L B 3 L L A 
+A L L B L L L 
+L B 1 L B A B 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-32
+B L L 0 L B L 
+L B A L L L B 
+L L L L B 1 L 
+A L L B L L A 
+B 3 B L L L L 
+L B L C 3 B L 
+L L L 1 B L L 
+
+25 [1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-33
+L B A L B L L 
+L L L F 1 L B 
+B 3 B L L L A 
+L B L L L L L 
+0 L C L B 3 B 
+L C 2 L L B L 
+B L L L 1 C L 
+
+156 [3, 2, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-34
+L B A B L L L 
+B 2 L L B 3 B 
+L L L L L B 1 
+L L B 1 L L B 
+2 B L L L L L 
+B 2 L L L A L 
+L L L B 1 F L 
+
+121 [0, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-35
+L L L L B 3 B 
+A L L L L B L 
+L L 0 L 0 L L 
+L B L L L L L 
+L L 2 B 1 L L 
+L L B L L L 0 
+B 1 L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-36
+L B 1 L 1 B L 
+L L L L L L B 
+A L 0 L 0 L 1 
+L L L L L L F 
+0 L 1 B 1 L 1 
+L L L L L L B 
+B L A L A L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-37
+L B 1 L B L L 
+L L L L 2 B L 
+B 2 B L L L A 
+L L L L L L B 
+2 B L L L 0 L 
+B L 2 B L L L 
+L L B L 1 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-38
+L B L A L L B 
+L L L B 3 B L 
+B 1 L L B L L 
+1 L B 2 L L 0 
+L L L B L 1 L 
+B L 1 L L B L 
+L L B 1 L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-39
+L L L L L B L 
+B 2 A B L 2 B 
+L B L L L 0 L 
+L L B 3 B L L 
+L A L B L L L 
+L 0 L L 1 0 L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-40
+L L 0 L B L L 
+L B L A A L B 
+L A L L L B 2 
+B 2 L B L A L 
+A B L L L 1 B 
+B L 0 2 B L L 
+L L L B 2 F L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-41
+L B L L L A L 
+0 1 1 B L 0 L 
+L F L L L 1 B 
+L F L 1 B L L 
+B 2 B L L L L 
+L A L F 1 0 0 
+L A L L B L L 
+
+303 [0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_hard papan ke-42
+B L L L L 0 L 
+A L L L B L L 
+L B 1 L 1 L L 
+L L L L L L B 
+L L 1 B 3 B C 
+L L L L B L 1 
+B 2 B L L L L 
+
+25 [1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-43
+L B 2 B L 2 B 
+A L L L L B L 
+L L L L L L 0 
+B L L 0 L L L 
+1 L L L L L B 
+L L L L B L 2 
+F 1 B L 1 L B 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-44
+0 L 2 B L L 1 
+L L B A L L B 
+L B L L L L A 
+B A L 0 L 1 F 
+A L L L L B L 
+L B L A B L L 
+0 L L B 2 L A 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-45
+2 B L A L B A 
+B L L L 0 L B 
+L 1 F L L L L 
+1 B L L L L 1 
+L L L L B 2 B 
+B L A B L L L 
+1 L B 2 L B A 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-46
+L L B L A B L 
+B L 1 L B L L 
+1 F L L L 2 B 
+L L L L L B L 
+B 2 B L L L 1 
+L L L B 2 L B 
+L B 2 C B L L 
+
+126 [1, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-47
+B L L 1 1 B L 
+L L L B L L L 
+0 L L L L L B 
+1 L B 2 B L 1 
+B L L L L L A 
+L L L B L L L 
+L B 1 1 L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-48
+B L L L L 0 L 
+2 L L L L L B 
+B L A B 3 B L 
+L L L L B L L 
+L L 0 L 2 C L 
+L B L L L L 0 
+L 2 B L L L L 
+
+25 [1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-49
+L B L L L L L 
+L 1 L 1 B A L 
+L L B A L B L 
+L A 1 A 0 1 L 
+L F L 0 F F L 
+B 2 B 1 F 2 B 
+L L L L L B L 
+
+404 [0, 0, 4, 0, 0, 4]
+mencoba tingkat kesulitan 7_hard papan ke-50
+B L L L L 0 L 
+1 L 1 B L L L 
+L B L L L 1 B 
+L L B 3 B L L 
+L A L B L L L 
+L B L L A L 0 
+B 2 L L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-51
+0 L L B L L A 
+L L 1 L L F L 
+L L B A B 3 B 
+L B 3 B A B L 
+B 2 F 3 B L L 
+L L L B 3 C L 
+A L L L B L A 
+
+207 [1, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_hard papan ke-52
+1 L L B L L A 
+B L L A A L L 
+L A L L L B L 
+L A L L B 3 B 
+L L B L L 1 L 
+L F 1 1 L B L 
+0 L L B L L A 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-53
+0 L L L L B 1 
+L L L B 2 L L 
+B 1 L L B L L 
+L L F 1 L L L 
+L L L B L A L 
+L B 3 C L L B 
+0 L B L L L 1 
+
+126 [1, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-54
+B 2 B L L 1 B 
+2 L L L B L A 
+B L A L 2 B L 
+L L B L L L L 
+L B 2 L 1 L B 
+1 L L L B L A 
+B 1 L B L 1 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-55
+B A L L L L B 
+L B L A A B 2 
+L 1 L B L L L 
+L 1 B L L A L 
+L L L L B 1 L 
+A B 2 0 L L B 
+L L B L L 0 L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-56
+L L L B L 0 L 
+A L F 2 B L L 
+L B 2 F 2 B L 
+L A B L C 2 B 
+L B 2 F 1 F L 
+B L L 2 B L A 
+L 0 L B L L L 
+
+409 [1, 0, 4, 0, 0, 4]
+mencoba tingkat kesulitan 7_hard papan ke-57
+B L 1 L B 2 B 
+2 L B L L L L 
+B L L L L L 1 
+L B L 1 L L B 
+0 L L B L L L 
+L L L L L B 2 
+B 1 L L A L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-58
+A L F L L L 0 
+L B 3 B L L L 
+L L B L L A L 
+L L L 0 L B L 
+B 3 C L B L L 
+L B L L 2 L B 
+A L L L B L 1 
+
+126 [1, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-59
+B 2 L A L L B 
+L B L L L L 1 
+L L L L L B L 
+0 L L L L L 1 
+L L L L L L B 
+A L L B L L L 
+L L B 3 B A L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-60
+A B L L L 0 A 
+1 L B L L L L 
+B L 1 L 0 L B 
+L L L L L B L 
+L L 1 L 0 L L 
+L L B L L L 0 
+A A L B L L 0 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-61
+F 1 B L 1 L B 
+L L L L B L 2 
+1 L L L L L B 
+B L L 0 L B L 
+L L L L L L 0 
+2 B L L L L L 
+B L A B L 1 B 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-62
+L L B L L 2 B 
+1 B L L 1 B L 
+L A 2 B 2 L L 
+L L B A B L L 
+L B 3 B 3 A L 
+B L 1 L B L A 
+L 1 B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-63
+L L B L L L L 
+L L L B A L B 
+L 0 L 3 B L L 
+L L A B 3 B L 
+B L L 2 F 1 L 
+L B 3 B L L L 
+L L B L L L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-64
+L L L B L L L 
+B L 0 1 L B L 
+L F L F L 1 L 
+L 0 L 1 B A B 
+L 2 B L L L L 
+L B L 1 1 B L 
+L L L B L L L 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_hard papan ke-65
+L B 1 L L B L 
+B L L 0 L L B 
+L L B L L L 2 
+L 0 L L L A B 
+0 L L B L L L 
+L B L 3 B L L 
+L L L B 3 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-66
+L 0 L L L L B 
+L 0 A L L 0 2 
+L L L B L A B 
+B L L A B L L 
+L 1 B L L L L 
+0 0 L F 1 A L 
+L L L L B A L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-67
+L L L B 2 B L 
+B L 0 L L L L 
+2 L L L B 2 B 
+B L C 1 L L L 
+L 1 F L L L 0 
+L B L L 1 B L 
+L L 1 B L L L 
+
+126 [1, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-68
+A L L L B L 0 
+L B 3 B L L L 
+L L B 2 L A B 
+B L 1 A 2 B L 
+L A F 2 B L L 
+L L L B A L L 
+1 B L L L L A 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-69
+L L L L B 1 L 
+A A L 0 L 1 B 
+L L B L L L L 
+L 0 L L L 0 L 
+L L L B L L L 
+B A L 1 L A 1 
+L 0 L L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-70
+L 0 L L L B L 
+B L L 0 L L 0 
+L L L L B L L 
+L 0 L L L 0 L 
+L L L B L L L 
+0 L B 2 L L B 
+L B L L L 0 L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-71
+L L B L L L L 
+L B L A 1 B L 
+B 2 L L L L B 
+L 0 L A L 0 L 
+L L L B L 0 L 
+L B 1 3 B L L 
+L L L B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-72
+B L A L 0 L B 
+L L L B L L L 
+A L F A L B 2 
+B L 2 B A L B 
+2 L B 3 B L A 
+B L L L L L L 
+L B 1 F A L B 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_hard papan ke-73
+L B L L L 1 L 
+1 L L 0 L B L 
+B L L L L L L 
+L 0 L L B 3 B 
+L L L L L B L 
+L B L 0 L L 0 
+L 2 B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-74
+F L 2 B L A B 
+1 L B L L L L 
+B L L A B L A 
+L B 2 B A L L 
+A L L 2 L L B 
+L L L B L L 1 
+B 2 B L 1 B L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-75
+L L B L L A L 
+1 L 2 B L L L 
+B L L A B A L 
+L B A B 3 B L 
+L 1 F A L L B 
+L L L B 1 L 2 
+L 0 L L L L B 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-76
+L B 2 L L B L 
+B 3 B L L 2 B 
+L B L L L L 2 
+L L L L L L B 
+0 L L B L L L 
+L A L L B A L 
+B L L L 2 B L 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-77
+0 L 1 0 L B A 
+L L B L L L L 
+L L L L B L A 
+1 B L L L L 1 
+A L L L L L B 
+L L L B L L L 
+0 L L 1 0 L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-78
+L L B L L L L 
+L 0 1 L 1 A L 
+B 2 L L B A L 
+L B L L L L L 
+L 1 L B L 1 B 
+L 0 A L 1 A L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-79
+L B L A L L B 
+F 2 B L L 1 L 
+L L L L L B L 
+0 L L A L L 0 
+L B L L L L L 
+B 2 L L B 1 L 
+L F L 0 L L B 
+
+202 [0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_hard papan ke-80
+A 0 L B L L 0 
+L L A L L B 1 
+L L L L L A F 
+L B L 1 B L L 
+B 4 B L L L L 
+A B L L 2 B L 
+A L L L B A A 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-81
+B L L L L 1 B 
+A L L B L L L 
+L L B 4 B L L 
+L B 4 B 3 B L 
+L L B 3 F L L 
+L L L B L L 1 
+B A L L L L B 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-82
+L L L B 3 B L 
+B A L L B 3 B 
+1 L L L L L L 
+L B L A L L L 
+L L L L L B A 
+L 1 B L L 2 B 
+B L 2 B L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-83
+B L A 1 B L L 
+L 0 L L L 1 B 
+L L L B L L A 
+A W L L L W A 
+1 F L L L F L 
+B 3 B L L 2 B 
+L B L A A B L 
+
+4 [0, 0, 4, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-84
+L B L 0 L F L 
+F 1 L L B 3 B 
+L L L L L B L 
+0 L L B L L 0 
+L B L L L L L 
+F 1 L L C 3 B 
+L L B 1 L B L 
+
+328 [1, 1, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_hard papan ke-85
+L B A B L 0 L 
+A 3 B L L A B 
+L B L L L L A 
+B L L A B L L 
+A L L L L L B 
+L A L L L 1 1 
+B 1 L B 2 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-86
+B L L L A B L 
+L A B L L A L 
+1 L 2 B A L L 
+B L L A L L B 
+L B 1 L 2 B 3 
+L 1 L L B A B 
+L F A B L L L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-87
+L B 1 L B L L 
+L L F L 2 B L 
+L A 1 B A L A 
+B L L A B L L 
+1 L A B 3 1 B 
+L B 1 L B L L 
+B L L L A B L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-88
+B L L L L 0 L 
+1 A B 2 L A B 
+L L L B L L L 
+L A L A L 0 L 
+L B L L L L L 
+B 2 L A B 2 A 
+L A L L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-89
+B A L L 0 L B 
+L 1 L B L 0 1 
+2 B L L L L L 
+B L L 1 L L B 
+L L L B L L 2 
+1 1 B L L 1 B 
+B L 1 L B 1 L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-90
+L B L 0 L L B 
+L L A L B L L 
+B L L A L 0 L 
+2 L A B A L A 
+B 2 F A L L B 
+L B L L 1 B L 
+L L F 0 F L L 
+
+303 [0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_hard papan ke-91
+L 0 L L L B L 
+L 1 1 B L 1 A 
+L B L L L 1 B 
+L L F 2 B L L 
+B 1 L B L L L 
+A 0 L L 1 A L 
+L L L L B 1 L 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-92
+L 1 L 1 B L L 
+L B L L L L 0 
+B L L L L L L 
+1 L L 0 L L 0 
+L L L L L B L 
+0 L L B L L L 
+L L B 2 L A B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-93
+B A L B 2 L B 
+L L L L B L 1 
+2 B L L L L L 
+B L L A L L B 
+L L B L L L 1 
+A L L L L B L 
+B L 1 B L 2 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-94
+B 1 L 0 1 B L 
+L L B L L L A 
+0 L L L L L B 
+0 L L B L L 1 
+L B L L L L 0 
+1 L L L B L L 
+B L 0 0 L 1 B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-95
+L L L L L B L 
+L 1 1 B L 1 L 
+L B C 3 B 1 L 
+L L 2 B A F L 
+B 2 B A B L L 
+L 0 L F 1 2 B 
+L L L L L B L 
+
+207 [1, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 7_hard papan ke-96
+B L L L 0 0 L 
+1 L B 1 L L L 
+A L L L L B L 
+L A L L F 2 B 
+L L L B L L A 
+B L L 1 L B 2 
+L 0 A L L L B 
+
+101 [0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 7_hard papan ke-97
+B A B 3 B L L 
+L L L B L L A 
+L B L A L L B 
+A L 2 B A B 3 
+L L B A L L B 
+1 L L L B L L 
+B L L 0 L A L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-98
+L B L L L 0 L 
+0 L L 0 L F L 
+L L L F L F L 
+B A L L B 3 B 
+L L L L L B L 
+L L B 3 C L 0 
+L 0 L B L L L 
+
+328 [1, 1, 3, 0, 0, 3]
+mencoba tingkat kesulitan 7_hard papan ke-99
+L L L L B L L 
+L B 2 B A B L 
+L 1 L L L 1 L 
+L L B 3 B L L 
+B 2 L B L A L 
+L B 2 L 0 L B 
+L L B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-0
+L B L 1 B L L 
+L L A A L W L 
+B L L L L 1 B 
+1 A L 1 L 0 A 
+L 0 L B L L L 
+B L L A 2 B L 
+L L B 2 B L L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-1
+L L L B L 1 B 
+2 B L L L L L 
+B L A L 0 L L 
+L L B A L B L 
+L L A W 1 L L 
+L L L L B L 0 
+L 1 B L L L L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-2
+B 1 L L L B L 
+L W L 1 L L 0 
+L L L B L L L 
+L A B 2 L 0 L 
+L L L L L L B 
+1 W L 1 B L L 
+B L L L L 0 L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-3
+L B L L A A L 
+0 L L L B L L 
+A L 2 B 2 L L 
+L L B A L L B 
+B L 2 B 2 L 1 
+L L L L B L 0 
+L 0 0 L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-4
+B 2 L B A L W 
+L B L L A L 1 
+A A L L L L B 
+B L L 0 L B L 
+L L B L L 2 A 
+A B 2 L L B L 
+B L 1 B L A B 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-5
+L L B 2 W L L 
+L L L B L L L 
+W L L A L L B 
+2 B 2 B 3 B 2 
+B L L A B L L 
+L L B L L L L 
+L L L 0 L L B 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-6
+B L L 0 L W L 
+L 0 L L B 3 B 
+L L L L L B L 
+A B L L L L 0 
+L L L B L L L 
+B 3 B L L 1 B 
+L B L 0 L W L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-7
+B L L 1 0 L L 
+L L L B L L L 
+0 L L L L L B 
+1 L B 2 B L 1 
+B L L L L L 0 
+L L L B L L L 
+L B 1 1 L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-8
+L L L B 2 W L 
+B L 1 L B L L 
+1 L B A L 1 B 
+L B 3 A A L L 
+L 2 B 1 L B 2 
+B L L L A L B 
+L B 2 B L L L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-9
+B L L L A B L 
+L L B 3 B L L 
+1 B A B 2 L L 
+L A L L B 3 B 
+L B 2 L 1 B A 
+L L B A B L L 
+B L 1 L L L B 
+
+40 [0, 2, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-10
+L L B 1 L B L 
+B 2 L L W 2 W 
+L B 3 B 2 B L 
+0 L B L L L A 
+L L A L A L L 
+B 3 B L L 2 B 
+L B L A L B L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-11
+B L L L A 0 L 
+2 B 1 L L L B 
+A L L B L 0 L 
+L L B L L L L 
+L 1 L L B L A 
+L B L L A B 2 
+B 2 A L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-12
+L L B L L 1 L 
+A B 2 L L B L 
+L L L W L 2 B 
+L L L 1 B L L 
+B 3 B L L L L 
+L B L L 1 B 1 
+L A L B L L L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-13
+L L B L L L L 
+L W 1 W 1 B L 
+B 2 L W L A L 
+L B L 1 B L L 
+C 3 B L L 2 B 
+L B 4 B A B L 
+L L B L L L L 
+
+8 [1, 0, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-14
+B L A B L 1 W 
+A L L L L B L 
+L L 0 L A L A 
+B L L A B L L 
+A B 2 L 1 L B 
+L L B L L L 2 
+B A L B 1 L B 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-15
+L L W L A B L 
+B L 1 B L L L 
+2 B L L L 0 L 
+L L L A L L B 
+B 2 B L L L 2 
+L L L W 1 L B 
+L B 1 L B L L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-16
+B 2 B L L L L 
+L L L B L L A 
+L B C 2 B L L 
+L L 1 A 1 L L 
+L L B 2 L B L 
+1 L L B L L L 
+B L L L L 1 B 
+
+5 [1, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-17
+B 2 B L L L L 
+L L L B L L 1 
+L B 2 L 1 L B 
+L L B A B L L 
+L C 3 B 3 B L 
+0 L B L C L L 
+L L L L B A L 
+
+10 [2, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-18
+0 L B L L L 0 
+L B L 0 1 B L 
+B 2 L L L L B 
+L 0 L 0 L A L 
+L L L L B A L 
+L L 0 A L B L 
+A B L L L L 0 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-19
+L L L B L L L 
+L A A 1 L 1 B 
+L B L L L A L 
+L 2 B 3 B 1 C 
+L A L B L L L 
+B 1 L A A 1 L 
+L L L L L B L 
+
+5 [1, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-20
+B L L L L A B 
+A L L B L L L 
+L L B 4 B L L 
+L L A B 3 B L 
+L L B A B L C 
+L B L L L L 2 
+B 2 L L L L B 
+
+45 [1, 2, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-21
+L L L L L B L 
+L B 1 L B L L 
+L L 0 L 1 1 B 
+L L L B L L L 
+B 1 1 L 0 L L 
+L L B L 2 B L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-22
+A B L L L A 0 
+0 L L L 0 L L 
+F A L B L L L 
+L L B 2 L B L 
+L B L L L A B 
+W L 1 B L L A 
+A 0 L L B L 0 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-23
+2 B L L A W 1 
+B L L 1 L L B 
+2 L L B L L L 
+B 1 L L B 2 L 
+L L L L L B 1 
+L L B A L L W 
+A W 2 B L L A 
+
+3 [0, 0, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-24
+L L B L L 1 L 
+A B 2 A L B L 
+L L L L W 2 B 
+L 1 B L L 0 L 
+L A L B L L L 
+L W L 2 A B A 
+B 1 L B L L L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-25
+L L B L L L L 
+L B A B 3 B L 
+L 1 L L B A L 
+L L B A L B L 
+L 0 L L C 4 B 
+B L 1 B 3 B L 
+L L L L B L L 
+
+25 [1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-26
+L L B 2 L L B 
+L L L B 1 L L 
+B 1 A L 2 B L 
+A L L L B L A 
+L B 1 L 2 0 L 
+L L 0 L B L L 
+B L L A L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-27
+L L L L B 1 L 
+1 L B L L L L 
+B L A B 3 B L 
+L L W A B L L 
+L B 2 B 3 C B 
+L L L L B L 2 
+L 0 L L L L B 
+
+6 [1, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-28
+B L L L L A L 
+2 B L L A B L 
+L A A L 0 L L 
+L L B L L L L 
+L W 1 L 0 2 B 
+L F 0 L L B 2 
+B 1 L B L L L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-29
+L 1 L L L L B 
+L B L L L L 1 
+L L B 3 B L L 
+B L A B 4 B L 
+C L B 3 B L L 
+2 L L B L L L 
+B L L L L A B 
+
+45 [1, 2, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-30
+A B L 2 B L A 
+L L L B L L L 
+L L B A L L B 
+1 L 2 B 2 W 1 
+B L L 2 B L L 
+L L L L L L B 
+0 L B 1 L W 1 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-31
+W 1 B L A L B 
+L L L B L L 2 
+A L L 2 L L B 
+B L A B 1 W L 
+L L B 3 B L A 
+A L L B L L L 
+L B 1 L L A B 
+
+42 [0, 2, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-32
+B L L 0 L B L 
+L B A L L L B 
+L L L L B 1 L 
+A L L B L L A 
+B 3 B L L L L 
+L B L C 3 B L 
+L L L 1 B L L 
+
+25 [1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-33
+L B A L B L L 
+L L L W 1 L B 
+B 3 B L L L A 
+L B L L L L L 
+0 L C L B 3 B 
+L C 2 L L B L 
+B L L L 1 C L 
+
+56 [3, 2, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-34
+L B A B L L L 
+B 2 L L B 3 B 
+L L L L L B 1 
+L L B 1 L L B 
+2 B L L L L L 
+B 2 L L L A L 
+L L L B 1 W L 
+
+21 [0, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-35
+L L L L B 3 B 
+A L L L L B L 
+L L 0 L 0 L L 
+L B L L L L L 
+L L 2 B 1 L L 
+L L B L L L 0 
+B 1 L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-36
+L B 1 L 1 B L 
+L L L L L L B 
+A L 0 L 0 L 1 
+F L F L F L W 
+0 L 1 B 1 L 1 
+L L L L L L B 
+B L A L A L L 
+
+4 [0, 0, 4, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-37
+L B 1 L B L L 
+L L L L 2 B L 
+B 2 B L L L A 
+L L L L L L B 
+2 B L L L 0 L 
+B L 2 B L L L 
+L L B L 1 B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-38
+L B L A L L B 
+L L L B 3 B L 
+B 1 L L B L L 
+1 L B 2 L L 0 
+L L L B L 1 L 
+B L 1 L L B L 
+L L B 1 L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-39
+L L L L L B L 
+B 2 A B L 2 B 
+L B L L L 0 L 
+L L B 3 B L L 
+L A L B L L L 
+L 0 L L 1 0 L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-40
+L L 0 L B L L 
+L B L A A L B 
+L A L L L B 2 
+B 2 L B L A L 
+A B L L L 1 B 
+B L 0 2 B L L 
+L L L B 2 W L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-41
+L B L L L A L 
+0 1 1 B L 0 L 
+L W L L L 1 B 
+L W L 1 B L L 
+B 2 B L L L L 
+L A L W 1 0 0 
+L A L L B L L 
+
+3 [0, 0, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-42
+B L L L L 0 L 
+A L L L B L L 
+L B 1 L 1 L L 
+L L L L L L B 
+L L 1 B 3 B C 
+L L L L B L 1 
+B 2 B L L L L 
+
+25 [1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-43
+L B 2 B L 2 B 
+A L L L L B L 
+L L L L L L 0 
+B L L 0 L L L 
+1 L L L L L B 
+L L L L B L 2 
+W 1 B L 1 L B 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-44
+0 L 2 B L L 1 
+L L B A L L B 
+L B L L L L A 
+B A L 0 L 1 W 
+A L L L L B L 
+L B L A B L L 
+0 L L B 2 L A 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-45
+2 B L A L B A 
+B L L L 0 L B 
+L 1 L B L L L 
+1 B L L L L 1 
+L L B L L 2 B 
+B L A L L B L 
+1 L B 2 B L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-46
+L L B L A B L 
+B L 1 L B L L 
+1 W L L L 2 B 
+L L L L L B L 
+B 2 B L L L 1 
+L L L B 2 L B 
+L B 2 C B L L 
+
+26 [1, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-47
+B L L 1 1 B L 
+L L L B L L L 
+0 L L L L L B 
+1 L B 2 B L 1 
+B L L L L L A 
+L L L B L L L 
+L B 1 1 L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-48
+B L L L L 0 L 
+2 L L L L L B 
+B L A B 3 B L 
+L L L L B L L 
+L L 0 L 2 C L 
+L B L L L L 0 
+L 2 B L L L L 
+
+25 [1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-49
+L B L L L L L 
+L 1 L 1 B A L 
+L L B A L W L 
+L A 1 A 0 1 L 
+L B L 0 L B L 
+B 2 W 1 W 2 B 
+L L L B L L L 
+
+3 [0, 0, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-50
+B L L L L 0 L 
+1 L 1 B L L L 
+L B L L L 1 B 
+L L B 3 B L L 
+L A L B L L L 
+L B L L A L 0 
+B 2 L L L B L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-51
+0 L B L L L A 
+L L 1 W L W L 
+B L L A B 3 B 
+L B 3 B A B L 
+L 2 B 3 B L L 
+L L L B 3 C L 
+A L L L B L A 
+
+27 [1, 1, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-52
+1 B L L L L A 
+L L L A A B L 
+B A L B L L L 
+L A L L B 3 B 
+L L B L L 1 L 
+L W 1 1 L B L 
+0 L L B L L A 
+
+21 [0, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-53
+0 L L L L B 1 
+L L L B 2 L L 
+B 1 L L B L L 
+L L W 1 L L L 
+L L L B L A L 
+L B 3 C L L B 
+0 L B L L L 1 
+
+26 [1, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-54
+B 2 B L L 1 B 
+2 L L L B L A 
+B L A B 2 L L 
+L L L L L L B 
+L B 2 L 1 B L 
+1 L B L L L A 
+B 1 L L W 1 B 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-55
+L A L L L L B 
+L W L A A B 2 
+L 1 B L L L L 
+B 1 L B L A L 
+L L L L B 1 L 
+A B 2 0 L L B 
+L L B L L 0 L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-56
+L L L B L 0 L 
+A L W 2 B L L 
+L B 2 W 2 B L 
+L A B L C 2 B 
+L B 2 W 1 W L 
+B L L 2 B L A 
+L 0 L B L L L 
+
+9 [1, 0, 4, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-57
+B L 1 L B 2 B 
+2 L B L L L L 
+B L L L L L 1 
+L L L 1 L L B 
+0 L L B L L C 
+L B L L L L 2 
+W 1 L L A L B 
+
+26 [1, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-58
+A L W L L F 0 
+L B 3 B L L L 
+L L B L L A L 
+L L L 0 L B L 
+B 3 C L B L L 
+L B L L 2 L B 
+A L L L B L 1 
+
+27 [1, 1, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-59
+B 2 L A L L B 
+L B L L L L 1 
+L L L B L L L 
+0 L L L L L 1 
+L L L L L L B 
+A L L L L B L 
+L L B 3 B A L 
+
+120 [0, 1, 0, 0, 1, 0]
+mencoba tingkat kesulitan 7_hard papan ke-60
+A L L B L 0 A 
+1 L B L L L L 
+B L 1 L 0 L B 
+L L L L L B L 
+L W 1 L 0 L L 
+L L B L L L 0 
+A A L L B L 0 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-61
+W 1 B L 1 L B 
+L L L L B L 2 
+1 L L L L L B 
+B L L 0 L B L 
+L L L L L L 0 
+2 B L L L L L 
+B L A B L 1 B 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-62
+L L B L L 2 B 
+1 B L L 1 B L 
+L A 2 B 2 L L 
+L L B A B L L 
+L B 3 B 3 A L 
+B L 1 L B L A 
+L 1 B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-63
+L B L L L L L 
+L L B L A L L 
+L 0 L 3 B L L 
+L L A B 3 B L 
+B L L 2 B 1 B 
+L B 3 B L L L 
+L L B L L L L 
+
+80 [0, 4, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-64
+L L L B L L L 
+B L 0 1 L B L 
+L F L W L 1 L 
+L 0 L 1 B A B 
+L 2 B L L L L 
+L B L 1 1 B L 
+L L L B L L L 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-65
+L B 1 L L L B 
+B L L 0 L L L 
+L L L L L B 2 
+L 0 L W L A B 
+0 F L W L L L 
+L L B 3 B L L 
+L L L B 3 B L 
+
+3 [0, 0, 3, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-66
+L 0 L L L L B 
+L 0 A B L 0 2 
+L L L L B A B 
+B L L A L B L 
+L 1 B L L L L 
+0 0 L W 1 A L 
+L L L L B A L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-67
+L L L B 2 B L 
+B L 0 L L L L 
+2 L L L B 2 B 
+B L C 1 L L L 
+L 1 W L L L 0 
+L B L L 1 B L 
+L L 1 B L L L 
+
+26 [1, 1, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-68
+A L L L B L 0 
+L B 3 B L L L 
+L L B 2 L A B 
+B L 1 A 2 B L 
+L A W 2 B L L 
+L L L B A L L 
+1 B L L L L A 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-69
+L L L L B 1 L 
+A A L 0 L 1 B 
+L L B L L L L 
+L 0 L L L 0 L 
+L L L B L L L 
+B A L 1 L A 1 
+L 0 L L L L B 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-70
+L 0 L L L B L 
+B L L 0 L L 0 
+L L L L B L L 
+L 0 L L L 0 L 
+L L L B L L L 
+0 L B 2 L L B 
+L B L L L 0 L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-71
+L L L L B L L 
+L W L A 1 L B 
+B 2 B L L L L 
+L 0 L A L 0 L 
+L L L W L 0 L 
+L B 1 3 B L L 
+L L L B L L L 
+
+22 [0, 1, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-72
+B L A L 0 L B 
+L L L B L L L 
+A L W A L B 2 
+B L 2 B A L B 
+2 L B 3 B L A 
+B L L C L L L 
+L B 1 W A L B 
+
+7 [1, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-73
+L B L L L 1 L 
+1 L L 0 L B L 
+B L L L L L L 
+L 0 L L B 3 B 
+L L L L L B L 
+L B L 0 L L 0 
+L 2 B L L L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-74
+W L 2 B L A B 
+1 L B L L L L 
+B L L A B L A 
+L B 2 B A L L 
+A L L 2 L L B 
+L L L B L L 1 
+B 2 B L 1 B L 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-75
+L L B L L A B 
+1 W 2 B L L L 
+B L L A W A L 
+L W A B 3 B L 
+L 1 B A B L C 
+L F L W 1 L 2 
+L 0 L L L L B 
+
+30 [1, 1, 5, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-76
+L B 2 L L B L 
+B 3 B L L 2 B 
+L B L L L L 2 
+L L L L L L B 
+0 L L L L B L 
+L A L L B A L 
+B L L L 2 B L 
+
+20 [0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-77
+0 L 1 0 L B A 
+L L B L L L L 
+L L L L B L A 
+1 B L L L L 1 
+A L L L L L B 
+L L L B L L L 
+0 L L 1 0 L A 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-78
+L L B L L L L 
+L 0 1 L 1 A L 
+B 2 L L B A L 
+L B L L L L L 
+L 1 L B L 1 B 
+L 0 A L 1 A L 
+L L L L B L L 
+
+0 [0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-79
+L B L A L L B 
+W 2 B L L 1 L 
+L L L L L B L 
+0 L L A L L 0 
+L B L L L L L 
+B 2 L L B 1 L 
+L W L 0 L L B 
+
+2 [0, 0, 2, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-80
+A 0 L B L L 0 
+L L A L L B 1 
+L L L L L A W 
+L B L 1 B L L 
+B 4 B L L L L 
+A B L L 2 B L 
+A L L L B A A 
+
+1 [0, 0, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-81
+B L L L L 1 B 
+A L L B L L L 
+L L B 4 B L L 
+L B 4 B 3 B L 
+L L B 3 B L L 
+L L L B L L 1 
+B A L L L L B 
+
+40 [0, 2, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-82
+L L L B 3 B L 
+W A L L B 3 B 
+1 L L L L B L 
+B L L A L L L 
+L B L L L L A 
+L 1 B L L 2 B 
+L B 2 L L B L 
+
+41 [0, 2, 1, 0, 0, 0]
+mencoba tingkat kesulitan 7_hard papan ke-83

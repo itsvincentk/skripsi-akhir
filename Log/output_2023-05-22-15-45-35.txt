@@ -1,0 +1,68 @@
+2 B L L L L 1 
+B L L L A W W 
+L A W W W W W 
+L W W W W W W 
+L W W W W 3 W 
+L W 1 W W W W 
+0 F W W W W A 
+
+2 B L L L L 1 
+B L L L A L B 
+L A W W W W L 
+L W W W W W L 
+L W W W W 3 L 
+L W 1 W W W L 
+0 F W W W W A 
+
+2 B L L L L 1 
+B L L L A L B 
+L A W W L L L 
+L L L L L B L 
+L L L L B 3 L 
+L W 1 L L B L 
+0 F W W L L A 
+
+2 B L L L L 1 
+B L L L A L B 
+L A W W L L L 
+L L L L L B L 
+L L L L B 3 L 
+L B 1 L L B L 
+0 L F W L L A 
+
+3
+[0, 3, 0, 0, 0, 0]
+2 ['BULB_PLACED', 'BULB_PLACED', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+1 ['NOT_AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+3 ['NOT_AVAILABLE', 'BULB_PLACED', 'BULB_PLACED', 'BULB_PLACED'] False 0
+1 ['NOT_AVAILABLE', 'AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE'] False 0
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+2 B L L L L 1 
+B L L L A L B 
+L A W W L L L 
+L L L L L B L 
+L L L L B 3 L 
+L B 1 L L B L 
+0 L F W L L A 
+
+2 B L L L L 1 
+B L L L A L B 
+L A B L L L L 
+L L L L L B L 
+L L L L B 3 L 
+L B 1 L L B L 
+0 L L B L L A 
+
+0
+[0, 0, 0, 0, 0, 0]
+2 ['BULB_PLACED', 'BULB_PLACED', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+1 ['NOT_AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5
+5 [None, None, None, None] True 5
+3 ['NOT_AVAILABLE', 'BULB_PLACED', 'BULB_PLACED', 'BULB_PLACED'] False 0
+1 ['NOT_AVAILABLE', 'AVAILABLE', 'BULB_PLACED', 'NOT_AVAILABLE'] False 0
+0 ['NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE', 'NOT_AVAILABLE'] False 0
+5 [None, None, None, None] True 5

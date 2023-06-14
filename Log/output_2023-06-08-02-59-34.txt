@@ -1,0 +1,308 @@
+mencoba tingkat kesulitan 7_easy papan ke-0
+W W W F 0 F W 
+W A W W F 1 W 
+1 W W W W W W 
+W W W 2 W W W 
+W W W W W F A 
+W 1 F W F 0 F 
+W F 0 F W F W 
+
+preproc 1 selesai
+W W W F 0 F W 
+W A W W F 1 W 
+1 W W W W W W 
+W W W 2 W W W 
+W W W W W F A 
+W 1 F W F 0 F 
+W F 0 F W F W 
+
+first gwo selesai
+L B L L 0 L B 
+B A L B L 1 L 
+1 L L L L B L 
+L L B 2 B L L 
+L B L L L L A 
+L 1 L B L 0 L 
+B L 0 L L L B 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-1
+W W W W W W W 
+W W W A W W W 
+W W 4 W 2 W W 
+W 3 W A W 3 W 
+W W 4 W A W W 
+W W W 2 W W W 
+W W W W W W W 
+
+preproc 1 selesai
+W L L W W W L 
+L L B A F W L 
+L B 4 B 2 F L 
+F 3 B A B 3 B 
+L B 4 B A B L 
+L L B 2 F L L 
+W L L F W L L 
+
+first gwo selesai
+B L L L L L L 
+L L B A L B L 
+L B 4 B 2 L L 
+L 3 B A B 3 B 
+L B 4 B A B L 
+L L B 2 L L L 
+L L L L B L L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-2
+2 W W W W W 1 
+W W W W A W W 
+W A W W W W W 
+W W W W W W W 
+W W W W W 3 W 
+F W 1 W W W W 
+0 F W W W W A 
+
+preproc 1 selesai
+2 B L L L L 1 
+B L L L A L B 
+L A W W L L L 
+L L L L L B L 
+L L L L B 3 L 
+L W 1 L L B L 
+0 F W W L L A 
+
+first gwo selesai
+2 B L L L L 1 
+B L L L A L B 
+L A B L L L L 
+L L L L L B L 
+L L L L B 3 L 
+L B 1 L L B L 
+0 L L B L L A 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-3
+W 1 W W F W F 
+W W W F 0 F 0 
+W A W W F W F 
+W W W W W W W 
+W W W W W 3 W 
+2 W A W W F W 
+W W W W F 0 F 
+
+preproc 1 selesai
+W 1 W W F L F 
+W W W F 0 L 0 
+W A W W L L L 
+L L L L L B L 
+L L L L B 3 B 
+2 B A W L F L 
+B L L L L 0 L 
+
+first gwo selesai
+L 1 B L L L L 
+B L L L 0 L 0 
+L A L L L L L 
+L L L L L B L 
+L L L L B 3 B 
+2 B A B L L L 
+B L L L L 0 L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-4
+W W W 1 W W W 
+W W W W W W W 
+F W 4 W 2 W W 
+0 F W W W W A 
+F W 2 W A W W 
+W W W F W W W 
+W W F 0 F W W 
+
+preproc 1 selesai
+W L L 1 B L L 
+L L B L L L L 
+L B 4 B 2 B L 
+0 L B L L L A 
+F L 2 L A L W 
+L L B L L L L 
+W L L 0 F L W 
+
+first gwo selesai
+B L L 1 B L L 
+L L B L L L L 
+L B 4 B 2 B L 
+0 L B L L L A 
+L L 2 L A L L 
+L L B L L L L 
+B L L 0 L L B 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-5
+W W W 2 0 F W 
+W W W W F W W 
+A W 2 W A W W 
+1 W W W F W 1 
+W W A F 0 F 1 
+W W W W F W W 
+W W A A W W W 
+
+preproc 1 selesai
+L L B 2 0 F L 
+L L L B L L L 
+A B 2 L A L B 
+1 L B L L L 1 
+B L A L 0 F 1 
+L L L L L L B 
+L L A A W W L 
+
+first gwo selesai
+L L B 2 0 L L 
+L L L B L L L 
+A B 2 L A L B 
+1 L B L L L 1 
+B L A L 0 L 1 
+L L L L L L B 
+L L A A L B L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-6
+0 F W W A W 1 
+F W W W W W W 
+2 W W W W W W 
+W W W W W W W 
+W W W W W W 2 
+W W W W W W W 
+A W 1 W W W A 
+
+preproc 1 selesai
+0 L W L A L 1 
+L L L L L L B 
+2 B L L L L L 
+B L L L L L L 
+L L L L L B 2 
+L L L L L L B 
+A L 1 B L L A 
+
+first gwo selesai
+0 L B L A L 1 
+L L L L L L B 
+2 B L L L L L 
+B L L L L L L 
+L L L L L B 2 
+L L L L L L B 
+A L 1 B L L A 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-7
+0 0 F W W W A 
+F F W A W W 2 
+W W W W W W W 
+W A W A W 1 W 
+W W W F W W W 
+A W F 0 F F W 
+A W W F F 0 A 
+
+preproc 1 selesai
+0 0 F W W L A 
+F F W A L B 2 
+L L L L L L B 
+W A W A W 1 L 
+W W W F W W L 
+A W F 0 F F L 
+A W W F F 0 A 
+
+first gwo selesai
+0 0 L L B L A 
+L L B A L B 2 
+L L L L L L B 
+B A L A L 1 L 
+L L L L L B L 
+A L L 0 L L L 
+A B L L L 0 A 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-8
+W W W 1 W W W 
+W 4 W W W A W 
+W W W W W W W 
+A W W W W W 2 
+W W W W W W W 
+W 2 W W W A W 
+W W W A W W W 
+
+preproc 1 selesai
+L B L 1 B L L 
+B 4 B L L A W 
+L B L L L L L 
+A L L L L B 2 
+L L L L L L B 
+B 2 L W L A L 
+L B L A L W L 
+
+first gwo selesai
+L B L 1 B L L 
+B 4 B L L A B 
+L B L L L L L 
+A L L L L B 2 
+L L L L L L B 
+B 2 L B L A L 
+L B L A L B L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-9
+W W W 3 W A W 
+A W W W W W W 
+W W 2 W A W W 
+1 W W W W W 2 
+W W A W A W W 
+W W W W W W 1 
+W 1 W 1 W W W 
+
+preproc 1 selesai
+L L B 3 B A L 
+A L L B L L L 
+L B 2 L A L B 
+1 L B L L L 2 
+B L A L A L B 
+L L L L W F 1 
+L 1 B 1 F W F 
+
+first gwo selesai
+L L B 3 B A L 
+A L L B L L L 
+L B 2 L A L B 
+1 L B L L L 2 
+B L A L A L B 
+L L L L B L 1 
+L 1 B 1 L B L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 7_easy papan ke-10
+W A W 1 A W W 
+W W W W W W A 
+A W W F W W W 
+0 F F 0 F W 2 
+F W W F W W A 
+2 W W W W W W 
+W W A 1 W A W 
+
+preproc 1 selesai
+W A W 1 A L W 
+W L W W L L A 
+A L L L L L B 
+0 L F 0 L B 2 
+F L W F L L A 
+2 B L L L L L 
+B L A 1 B A W 
+

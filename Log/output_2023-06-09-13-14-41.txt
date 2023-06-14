@@ -1,0 +1,5611 @@
+mencoba tingkat kesulitan 10_hard papan ke-0
+10
+10
+W W W W 2 W W W W W 
+W W W W W A W 2 W W 
+W 2 W 2 W W W W W W 
+W W W W 1 W W 2 W W 
+W 1 W F W W 1 W F A 
+A W F 0 F W W F 0 F 
+W W 1 F W 1 W W F W 
+W W W W W W 3 W 2 W 
+W W 2 W A W W W W W 
+W W W W W A W W W W 
+
+preproc 1 selesai
+W W W W 2 W W W W W 
+W W W W W A W 2 W W 
+W 2 W 2 W W W W W W 
+W W W W 1 W W 2 W W 
+W 1 W F W W 1 W F A 
+A W F 0 F W W F 0 F 
+W W 1 F W 1 W W F W 
+W W W W W W 3 W 2 W 
+W W 2 W A W W W W W 
+W W W W W A W W W W 
+
+first gwo selesai
+[5, 0, 4, 0, 0, 4] 4025
+L B L L 2 B L L L L 
+L C L L B A B 2 L B 
+B 2 B 2 L L L B L L 
+L L L B 1 L C 2 B L 
+L 1 L L L B 1 L L A 
+A B L 0 F L L L 0 L 
+B L 1 F F 1 B L L L 
+L L B L L C 3 B 2 B 
+L C 2 F A L B L C L 
+L L B L L A L L B L 
+
+4025
+[5, 0, 4, 0, 0, 4]
+mencoba tingkat kesulitan 10_hard papan ke-1
+10
+10
+W W W 3 W A W W W W 
+W W W W 3 W W F W W 
+W W 1 W W W F 0 F W 
+W W W W 1 W W F W 2 
+A W W W W W 2 W A W 
+W 3 W 1 W F W W W 2 
+2 W W W F 0 F W W W 
+W W 1 W W F W 1 W W 
+W W W W W 2 W W W W 
+W W W W 2 W 2 W W W 
+
+preproc 1 selesai
+L L B 3 B A W W W W 
+L L L B 3 W W F W W 
+W W 1 L W W F 0 F W 
+W W W L 1 W W F W 2 
+A W W L W W 2 W A B 
+B 3 W 1 W F W W W 2 
+2 W W W F 0 F W W W 
+W W 1 W W F W 1 W W 
+W W W W W 2 W W W W 
+W W W W 2 B 2 W W W 
+
+first gwo selesai
+[1, 1, 0, 0, 0, 0] 25
+L L B 3 B A L B L L 
+L L L B 3 L B L L L 
+L B 1 L B L L 0 L B 
+B L L L 1 B L L L 2 
+A L L L L L 2 B A B 
+B 3 B 1 C L B L L 2 
+2 B L L L 0 L L L B 
+L L 1 B L L L 1 B L 
+L L L L B 2 L L L L 
+B L L L 2 B 2 B L L 
+
+25
+[1, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-2
+10
+10
+A W W W 1 W W 1 W A 
+W 1 W W W W F 0 3 W 
+1 0 F W W W W F W W 
+W F W W W 1 W W W W 
+F W W 1 W W W W W A 
+0 F W W W W 1 W W W 
+F W W W 2 W W W F W 
+W W F W W W W F 0 2 
+W A 0 F W W W W 1 W 
+2 W 1 W W 1 W W W A 
+
+preproc 1 selesai
+A F W W 1 W F 1 B A 
+B 1 F W W W F 0 3 B 
+1 0 L L L L L L B L 
+F F W W W 1 W W L L 
+F W W 1 W W W W L A 
+0 F W W W W 1 W L L 
+L W W W 2 L L L L B 
+L W F W W W W F 0 2 
+B A 0 F W W W F 1 B 
+2 B 1 F W 1 W W F A 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+A L L B 1 L L 1 B A 
+B 1 L L L B L 0 3 B 
+1 0 L L L L L L B L 
+L L L L B 1 L B L L 
+L L B 1 L L B L L A 
+0 L L L L F 1 L L L 
+L L L B 2 L L L L B 
+L L L L B L L L 0 2 
+B A 0 L L L L L 1 B 
+2 B 1 L L 1 B L L A 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-3
+10
+10
+W W W W 3 W W W W W 
+W W W 3 W A W W W W 
+W W W W W W W W W W 
+W W W W A A W W 2 W 
+W 3 W A W W 1 W W 2 
+1 W W 1 W W 1 W 2 W 
+W A W W 2 A W W W W 
+W W W W W W W W W W 
+W W W W A W A W W W 
+W W W W W 3 W W W W 
+
+preproc 1 selesai
+L L L B 3 B L L L L 
+W W W 3 B A W W W W 
+W W W W L W W W W W 
+W W W W A A W W 2 W 
+W 3 W A W W 1 W W 2 
+1 W W 1 W W 1 W 2 W 
+W A W W 2 A W W W W 
+W W W W W L W W W W 
+W W W W A B A W W W 
+L L L L B 3 B L L L 
+
+first gwo selesai
+[0, 1, 0, 0, 0, 0] 20
+L L L B 3 B L L L L 
+L B L 3 B A L L L B 
+L L L B L L L L L L 
+L L L L A A L B 2 L 
+B 3 B A L B 1 L B 2 
+1 B L 1 B L 1 L 2 B 
+B A L L 2 A B L L L 
+L L L L B L L L L L 
+L L L B A B A L B L 
+L L L L B 3 B L L L 
+
+20
+[0, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-4
+10
+10
+W W W W W F W 1 W W 
+W W A W 2 0 F W W W 
+A W W W W F W W 2 W 
+W W W A W W A W W W 
+W 3 W W W W W W A W 
+W A W W W W W W 1 W 
+W W W A W W 2 W W W 
+W 2 W W W W W W W A 
+W W W W 1 A W A W W 
+W W 1 W W W W W W W 
+
+preproc 1 selesai
+L L L L B L L 1 W W 
+B L A B 2 0 F W W W 
+A L L L L F W W 2 W 
+L B L A L W A W W W 
+B 3 B L L L L L A W 
+L A L W L W W W 1 W 
+L B L A L W 2 W W W 
+L 2 L L B L L L L A 
+L B L L 1 A B A W W 
+L L 1 B L L L L L L 
+
+L L L L B L L 1 W L 
+B L A B 2 0 L B L L 
+A L L L L L W L 2 B 
+L B L A L L A L B L 
+B 3 B L L L L L A L 
+L A L L L L B L 1 L 
+L B L A L B 2 L B L 
+L 2 L L B L L L L A 
+L B L L 1 A B A L W 
+L L 1 B L L L L L L 
+
+[0, 0, 3, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L L L L B L L 1 F L 
+B L A B 2 0 L B L L 
+A L L L L L B L 2 B 
+L B L A L L A L B L 
+B 3 B L L L L L A L 
+L A L L L L B L 1 L 
+L B L A L B 2 L B L 
+L 2 L L B L L L L A 
+L B L L 1 A B A L B 
+L L 1 B L L L L L L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-5
+10
+10
+W W W W W W W W W W 
+W W A W W W W A F W 
+W 1 0 F 2 W W A 0 F 
+W W F W F W W F F W 
+W W W F 0 A F 0 F W 
+W W 1 F 0 0 F F W W 
+W W F W F F W F W W 
+W 2 0 F W A F 0 2 W 
+W W A W W W W 3 W W 
+W W W W W W W W W W 
+
+preproc 1 selesai
+W W W W L L L W W W 
+W W A L B L L A F W 
+W 1 0 F 2 B L A 0 F 
+W W F W F L L F F W 
+W W W F 0 A L 0 F W 
+W W 1 F 0 0 L F W W 
+W W F W L F L F W W 
+W 2 0 L B A L 0 2 W 
+W W A L L L B 3 B L 
+L L L L L L L B L L 
+
+L L W W L L L W W L 
+L B A L B L L A F L 
+L 1 0 F 2 B L A 0 L 
+L L F W F L L F F L 
+L L W F 0 A L 0 F L 
+L B 1 F 0 0 L F W L 
+L L F W L F L F W L 
+B 2 0 L B A L 0 2 B 
+L B A L L L B 3 B L 
+L L L L L L L B L L 
+
+[0, 0, 22, 0, 0, 0]
+L L W W L L L W W L 
+L B A L B L L A F L 
+L 1 0 F 2 B L A 0 L 
+L L F W F L L F F L 
+L L W F 0 A L 0 F L 
+L B 1 F 0 0 L F W L 
+L L F W L F L F W L 
+B 2 0 L B A L 0 2 B 
+L B A L L L B 3 B L 
+L L L L L L L B L L 
+
+[0, 0, 22, 0, 0, 0]
+L L W W L L L W W L 
+L B A L B L L A F L 
+L 1 0 F 2 B L A 0 L 
+L L F W F L L F F L 
+L L W F 0 A L 0 F L 
+L B 1 F 0 0 L F W L 
+L L F W L F L F W L 
+B 2 0 L B A L 0 2 B 
+L B A L L L B 3 B L 
+L L L L L L L B L L 
+
+[0, 0, 22, 0, 0, 0]
+L W W W L L L W W L 
+L W A L B L L A F L 
+B 1 0 F 2 B L A 0 L 
+L L L W F L L F F L 
+L L B L 0 A L 0 F L 
+L L 1 F 0 0 L F W L 
+L B L L L L L L L L 
+L 2 0 L B A L 0 2 B 
+L B A L L L B 3 B L 
+L L L L L L L B L L 
+
+[0, 0, 16, 0, 0, 0]
+L L W W L L L W W L 
+L B A L B L L A F L 
+L 1 0 F 2 B L A 0 L 
+L W L W F L L F F L 
+L L B L 0 A L 0 F L 
+L W 1 F 0 0 L F W L 
+L W F W L F L F W L 
+B 2 0 L B A L 0 2 B 
+L B A L L L B 3 B L 
+L L L L L L L B L L 
+
+[0, 0, 22, 0, 0, 0]
+L W W W L L L W W L 
+L W A L B L L A F L 
+L 1 0 F 2 B L A 0 L 
+L B L L L L L L L L 
+L L B L 0 A L 0 F L 
+L L 1 F 0 0 L F W L 
+L L F W L F L F W L 
+B 2 0 L B A L 0 2 B 
+L B A L L L B 3 B L 
+L L L L L L L B L L 
+
+[0, 0, 17, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L L L L L L L L B L 
+L B A L B L L A L L 
+L 1 0 L 2 B L A 0 L 
+L L L B L L L L L L 
+L L B L 0 A L 0 L L 
+L L 1 L 0 0 L L B L 
+L B L L L L L L L L 
+B 2 0 L B A L 0 2 B 
+L F A L L L B 3 B L 
+L L L L L L L B L L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-6
+10
+10
+W A W W W W W A A W 
+A W W W W W W W W A 
+1 W W 3 W A W W W W 
+W W W W 1 W W 4 W W 
+W W A F W W A W W W 
+W W F 0 F W W 2 W W 
+W W 1 F W 1 W W W F 
+W W W W A W A W F 0 
+A W W W W W W W W A 
+W A 1 W W W W W A W 
+
+preproc 1 selesai
+B A W W W W L A A B 
+A W W W W W L L L A 
+1 W W 3 W A L B L L 
+W W W W 1 L B 4 B L 
+W W A F W W A B L L 
+W W F 0 F W W 2 L B 
+W W 1 F W 1 W W L L 
+W W W W A W A W L 0 
+A W W W W W W W L A 
+B A 1 W W W W W A B 
+
+first gwo selesai
+[1, 0, 3, 0, 0, 3] 3005
+B A L L L B L A A B 
+A L L B L L L L L A 
+1 L B 3 B A L B L L 
+B L L C 1 L B 4 B L 
+L L A F F L A B L L 
+L B L 0 L B L 2 L B 
+L L 1 L F 1 L B L L 
+L L B L A L A L L 0 
+A L L L L B L L L A 
+B A 1 B L L L L A B 
+
+3005
+[1, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 10_hard papan ke-7
+10
+10
+W 1 W W W 2 W W W W 
+W F W W W W W A W 1 
+F 0 F 1 A W W W W W 
+W F W W W W W A W W 
+2 W W W W W W A W W 
+W W 1 W W W W W W 1 
+W W A W W W W W W W 
+W W W W W 1 A W 3 W 
+A W 2 W W W W W W W 
+W W W W 1 W W W A W 
+
+preproc 1 selesai
+W 1 W W W 2 W W W W 
+W F W W W W W A W 1 
+F 0 F 1 A W W W W W 
+W F W W W W W A W W 
+2 W W W W W W A W W 
+W W 1 W W W W W W 1 
+W W A W W W W W W W 
+W W W W W 1 A W 3 W 
+A W 2 W W W W W W W 
+W W W W 1 W W W A W 
+
+first gwo selesai
+[2, 2, 0, 0, 0, 0] 50
+L 1 B L L 2 B L L L 
+L L L C L B L A L 1 
+L 0 L 1 A L L L L B 
+B L L L L L L A L L 
+2 L C L L L L A L L 
+B L 1 L L L L L B 1 
+L L A B L L L L L L 
+L L L L B 1 A B 3 B 
+A B 2 L L L L L B L 
+L L B L 1 B L L A L 
+
+50
+[2, 2, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-8
+10
+10
+W W W W F F 0 F W W 
+W W 2 F 0 F F W F W 
+W W 1 W A W W 1 0 F 
+2 W W W W W W W F W 
+W F F W W W W 1 1 W 
+F 0 0 F W W W W W F 
+W F F W W W W W F 0 
+W 1 0 F W 2 W 1 W F 
+W W F W W 1 F 0 F W 
+W W W A W W W F W W 
+
+preproc 1 selesai
+L L B L L L 0 F W W 
+L B 2 F 0 F F W F W 
+B L 1 W A W W 1 0 F 
+2 L W W W W W W F W 
+B L L L L L L 1 1 W 
+L 0 0 F W W W W W F 
+L F F W W W W W F 0 
+L 1 0 F W 2 W 1 W L 
+L B L L L 1 F 0 L B 
+L L B A L B L L L L 
+
+first gwo selesai
+[0, 0, 5, 0, 0, 5] 5000
+L L B L L L 0 L B L 
+L B 2 F 0 L L B L L 
+B L 1 F A L F 1 0 L 
+2 L B L L L L L L L 
+B L L L L L L 1 1 B 
+L 0 0 L L L L B L L 
+L L L L L B L L L 0 
+L 1 0 L B 2 F 1 B L 
+L B L L L 1 F 0 L B 
+L L B A L B L L L L 
+
+5000
+[0, 0, 5, 0, 0, 5]
+mencoba tingkat kesulitan 10_hard papan ke-9
+10
+10
+1 W W W W W A W W A 
+W W W W 2 W W W W W 
+W W 1 W W 2 W 1 W W 
+1 W W W W W W W W W 
+W W 1 W W W W W 3 W 
+W 2 W W W W W 2 W W 
+W W W W F W W W W A 
+W W 2 F 0 F W 2 W W 
+F W W F F 1 W W W F 
+0 F F 0 F W W W F 0 
+
+preproc 1 selesai
+1 W W W W W A W W A 
+W W W W 2 W W W W W 
+W W 1 W W 2 W 1 W W 
+1 W W W W W W W W W 
+W W 1 W W W W W 3 W 
+W 2 W W W W W 2 W W 
+W W W W F W W W W A 
+W W 2 F 0 F W 2 W W 
+L L B L L 1 W W W F 
+0 F L 0 F W W W F 0 
+
+first gwo selesai
+[2, 2, 5, 0, 0, 5] 5050
+1 B L L L L A B L A 
+F L F F 2 B L L L L 
+F L 1 L B 2 L 1 B L 
+1 L B L L L L L L L 
+B L 1 L L L L B 3 B 
+L 2 B L L L L 2 B L 
+L B L L L L L C L A 
+L C 2 F 0 L B 2 L B 
+L L B L L 1 L B L L 
+0 L L 0 L B L L L 0 
+
+5050
+[2, 2, 5, 0, 0, 5]
+mencoba tingkat kesulitan 10_hard papan ke-10
+10
+10
+W W W 1 0 F W W W W 
+W W F W F 2 W 2 W W 
+W 2 0 F W W F 0 F F 
+W W F W W W W F F 0 
+F A W W W W W W W A 
+0 F W W W W W W 2 W 
+0 F F W W W W W W W 
+F F 0 F W W W A 2 W 
+W W 2 W A W W W W W 
+W W W W W A 1 W W W 
+
+preproc 1 selesai
+W W W 1 0 F L W W W 
+W W F W F 2 B 2 W W 
+W 2 0 L L B L 0 F F 
+W W F W W L L F F 0 
+F A W W W L L W W A 
+0 F W W W L L W 2 W 
+0 F F W W L L W W W 
+F F 0 F W L L A 2 W 
+W W 2 W A L L L W W 
+W W W W W A 1 B L L 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+L L B 1 0 L L B L L 
+L B L L L 2 B 2 L B 
+F 2 0 L L B L 0 L L 
+L B L L L L L L L 0 
+F A L L L L L L B A 
+0 L L L L L L B 2 L 
+0 L L L B L L L L L 
+L L 0 L L L L A 2 B 
+L B 2 B A L L L B L 
+B L L L L A 1 B L L 
+
+2000
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-11
+10
+10
+W W W W F F W 2 W W 
+W W W F 0 0 F W W W 
+2 W 3 W 1 F W A W W 
+W W W W W W W W F W 
+W A F W W W W 1 0 F 
+W A 0 F W W W W 1 W 
+W W F W W W W F W F 
+W W 1 W W 1 F 0 F 0 
+W W F W 2 A W F W F 
+W F 0 F W W W W W W 
+
+preproc 1 selesai
+W W W W F F W 2 W W 
+W W W F 0 0 F W W W 
+2 W 3 W 1 F W A W W 
+W W W W W W W W F W 
+W A F W W W W 1 0 F 
+W A 0 F W W W W 1 W 
+W W F W W W W F W F 
+W W 1 W W 1 F 0 F 0 
+W W F W 2 A W F W F 
+W F 0 F W W W W W W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L L B L L L L 2 B L 
+B L L L 0 0 L B L L 
+2 B 3 B 1 L L A L L 
+L L B L L L L L L L 
+L A L L L L B 1 0 L 
+L A 0 L L B L L 1 B 
+B L L L L L L L L L 
+L B 1 L B 1 L 0 L 0 
+L L F L 2 A L L B L 
+L L 0 L B L L L L L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-12
+10
+10
+W W W A W W F 0 F W 
+F W W W W 1 W F W W 
+0 F W 1 W W W W W W 
+F W F 0 F W 1 A W A 
+W 1 W F W W W W W W 
+F W F W W W W W 1 W 
+0 F 0 1 W W 1 W W W 
+F W F W W W A W W 2 
+W W W W A W W W W W 
+W W 1 W W W 3 W W W 
+
+preproc 1 selesai
+W W W A W W L 0 L L 
+F W W W W 1 L L L B 
+0 F W 1 L L B L L L 
+L F F 0 F L 1 A L A 
+B 1 L L L L L L B L 
+L L L L L L B L 1 L 
+0 F 0 1 W L 1 L L B 
+F W F W W L A L B 2 
+W W W W A L B L L L 
+W W 1 L L B 3 B L L 
+
+W W W A L B L 0 L L 
+L L L B L 1 L L L B 
+0 F W 1 L L B L L L 
+L F F 0 F L 1 A L A 
+B 1 L L L L L L B L 
+L L L L L L B L 1 L 
+0 F 0 1 W L 1 L L B 
+L L L B L L A L B 2 
+L L B L A L B L L L 
+W W 1 L L B 3 B L L 
+
+[0, 0, 12, 0, 0, 0]
+W W L A L B L 0 L L 
+F W L W W 1 L L L B 
+0 L B 1 L L B L L L 
+L F L 0 F L 1 A L A 
+B 1 L L L L L L B L 
+L L L L L L B L 1 L 
+0 L 0 1 W L 1 L L B 
+L L L B L L A L B 2 
+W L W L A L B L L L 
+L B 1 L L B 3 B L L 
+
+[0, 0, 11, 0, 0, 0]
+W W L A L B L 0 L L 
+F W L W W 1 L L L B 
+0 L B 1 L L B L L L 
+L F L 0 F L 1 A L A 
+B 1 L L L L L L B L 
+L L L L L L B L 1 L 
+0 L 0 1 W L 1 L L B 
+L L L B L L A L B 2 
+W L W L A L B L L L 
+L B 1 L L B 3 B L L 
+
+[0, 0, 11, 0, 0, 0]
+W W W A L B L 0 L L 
+L L L B L 1 L L L B 
+0 F W 1 L L B L L L 
+L F F 0 F L 1 A L A 
+B 1 L L L L L L B L 
+L L L L L L B L 1 L 
+0 F 0 1 W L 1 L L B 
+L L L B L L A L B 2 
+L L B L A L B L L L 
+W W 1 L L B 3 B L L 
+
+[0, 0, 12, 0, 0, 0]
+W W L A L B L 0 L L 
+F W L W W 1 L L L B 
+0 L B 1 L L B L L L 
+L F L 0 F L 1 A L A 
+B 1 L L L L L L B L 
+L L L L L L B L 1 L 
+0 L 0 1 W L 1 L L B 
+L L L B L L A L B 2 
+W L W L A L B L L L 
+L B 1 L L B 3 B L L 
+
+[0, 0, 11, 0, 0, 0]
+W W W A L B L 0 L L 
+L L L B L 1 L L L B 
+0 F W 1 L L B L L L 
+L F F 0 L L 1 A L A 
+B 1 L L L L L L B L 
+L L L L L L B L 1 L 
+0 L 0 1 B L 1 L L B 
+F L F W L L A L B 2 
+W L W W A L B L L L 
+L B 1 L L B 3 B L L 
+
+[0, 0, 13, 0, 0, 0]
+W W L A L B L 0 L L 
+F W L W W 1 L L L B 
+0 L B 1 L L B L L L 
+L F L 0 F L 1 A L A 
+B 1 L L L L L L B L 
+L L L L L L B L 1 L 
+0 F 0 1 W L 1 L L B 
+L L L B L L A L B 2 
+L L B L A L B L L L 
+W W 1 L L B 3 B L L 
+
+[0, 0, 12, 0, 0, 0]
+W W W A L B L 0 L L 
+L L L B L 1 L L L B 
+0 F W 1 L L B L L L 
+L F F 0 F L 1 A L A 
+B 1 L L L L L L B L 
+L L L L L L B L 1 L 
+0 F 0 1 W L 1 L L B 
+L L L B L L A L B 2 
+L L B L A L B L L L 
+W W 1 L L B 3 B L L 
+
+[0, 0, 12, 0, 0, 0]
+W W L A L B L 0 L L 
+F W L W W 1 L L L B 
+0 L B 1 L L B L L L 
+L F L 0 F L 1 A L A 
+B 1 L L L L L L B L 
+L L L L L L B L 1 L 
+0 F 0 1 W L 1 L L B 
+L L L B L L A L B 2 
+L L B L A L B L L L 
+W W 1 L L B 3 B L L 
+
+[0, 0, 12, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L B L A L F L 0 L L 
+L L L L B 1 L L L B 
+0 L B 1 L L B L L L 
+L L L 0 L L 1 A L A 
+B 1 L L L L L L B L 
+L L L L L L B L 1 L 
+0 L 0 1 L L 1 L L B 
+L L L B L L A L B 2 
+B L L L A L B L L L 
+L B 1 L L B 3 B L L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-13
+10
+10
+W A F 0 A W W W W W 
+W W W F W A W W W 2 
+W W F 0 F A W F W F 
+W W W F W W F 0 F 0 
+W 2 1 W W W W F F 0 
+1 W F W W W W A 1 F 
+1 F 0 F W W W W W W 
+W W F W A W A W W W 
+2 W W F 0 F W W W W 
+W W W W F A A W 2 W 
+
+preproc 1 selesai
+W A F 0 A L L L L B 
+W W W F W A L L B 2 
+W W F 0 F A B L L L 
+W W W F W W L 0 L 0 
+W 2 1 W W W L F L 0 
+1 W F W W W L A 1 L 
+1 F 0 L L L L L B L 
+B L L L A W A L L L 
+2 W W F 0 L B L L L 
+W W W W F A A B 2 B 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L A L 0 A L L L L B 
+L L B L L A L L B 2 
+B L L 0 F A B L L L 
+L B L L L L L 0 L 0 
+L 2 1 B L L L L L 0 
+1 B L L L L L A 1 L 
+1 L 0 L L L L L B L 
+B L L L A B A L L L 
+2 L B L 0 L B L L L 
+B L L L L A A B 2 B 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-14
+10
+10
+W W 2 W W W W W W W 
+W A W W A W 2 W A W 
+W W W W W 1 1 W W 1 
+W 1 A W W W W W W W 
+W W 2 W W W W W 1 W 
+W 2 W W W W W 1 W W 
+W W W W W W W A 1 W 
+A W W 1 2 W W W W W 
+W 1 W A W 3 W W 1 W 
+W W W W W W W A W W 
+
+preproc 1 selesai
+W W 2 W W W W W W W 
+W A W W A W 2 W A W 
+W W W W W 1 1 W W 1 
+W 1 A W W W W W W W 
+W W 2 W W W W W 1 W 
+W 2 W W W W W 1 W W 
+W W W W W W W A 1 W 
+A W W 1 2 W W W W W 
+W 1 W A W 3 W W 1 W 
+W W W W W W W A W W 
+
+first gwo selesai
+[4, 0, 5, 0, 0, 5] 5020
+L B 2 L L L B L L L 
+B A B L A F 2 B A B 
+L C L L B 1 1 L F 1 
+L 1 A L L L B L L L 
+L B 2 L L L L C 1 L 
+L 2 B L L L L 1 B L 
+L L L B C L L A 1 L 
+A F L 1 2 B L L L L 
+B 1 L A B 3 C F 1 B 
+L L L L L B L A F L 
+
+5020
+[4, 0, 5, 0, 0, 5]
+mencoba tingkat kesulitan 10_hard papan ke-15
+10
+10
+W W W W W A W W W W 
+W W 2 W W 2 W 1 W W 
+W 2 W W W W W W A W 
+F W W W 1 W W W W W 
+0 A W F W W 1 W W W 
+F W F 0 F W W W 1 1 
+W W W F W 1 W W F W 
+W 1 W W W W W F 0 F 
+W W 3 W 3 W F 0 F W 
+W W W W A W W F W W 
+
+preproc 1 selesai
+W W W W W A W W W W 
+W W 2 W W 2 W 1 W W 
+W 2 W W W W W W A W 
+F W W W 1 W W W W W 
+0 A W F L W 1 W W W 
+L B L 0 L W W W 1 1 
+B L L L L 1 W W F W 
+L 1 L L B L L L 0 F 
+L B 3 B 3 B L 0 F W 
+L L B L A L W F W W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L L B L L A L F L L 
+L B 2 L B 2 L 1 B L 
+B 2 L L L B L L A L 
+L L L B 1 L B L L L 
+0 A B L L L 1 L L B 
+L B L 0 L L L B 1 1 
+B L L L L 1 B L L L 
+L 1 L L B L L L 0 L 
+L B 3 B 3 B L 0 L B 
+L L B L A L L L B L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-16
+10
+10
+W W W W W W 2 W W W 
+W W W W W W W F W W 
+W W A W 1 W F 0 F W 
+3 W W W W A W F W W 
+W W W A A 1 W A W W 
+W W A W A A 1 W W W 
+W W W W 2 W W W W 1 
+W W 2 W W 2 W A W W 
+W W W W W W W W W W 
+W W W A W W W W W W 
+
+preproc 1 selesai
+L L L L L B 2 B L L 
+L L W W W L L L W W 
+B L A W 1 L L 0 F W 
+3 B L L L A L F W W 
+B L L A A 1 B A W W 
+L L A W A A 1 F W W 
+L L W W 2 W F W W 1 
+L L 2 W W 2 W A W W 
+L L W W W W W W W W 
+L L W A W W W W W W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+L L L L L B 2 B L L 
+L L L L B L L L L L 
+B L A F 1 L L 0 L L 
+3 B L L L A L L B L 
+B L L A A 1 B A L L 
+L L A B A A 1 L L B 
+L L B L 2 B L L L 1 
+L L 2 L B 2 L A L F 
+L L B L L L L L L L 
+L L L A L L B L L L 
+
+2000
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-17
+10
+10
+W W 2 W W A W 1 W W 
+W W W W W W 2 W W W 
+2 W W W W W W W W 1 
+W 2 W W A A W W W W 
+2 W W A W W A W W W 
+W W F 0 F W 1 W W 2 
+W W W F A A W W 1 W 
+1 W W W W W W W W A 
+W W W 1 W W W W W W 
+W W A W 2 W W 2 W W 
+
+preproc 1 selesai
+W W 2 W W A B 1 F W 
+W W W W W W 2 L W W 
+2 W W W W W W L W 1 
+B 2 W W A A W L W L 
+2 W W A W W A L L B 
+W W F 0 F W 1 L F 2 
+W W W F A A W L 1 B 
+1 W W F W L W L L A 
+W W F 1 L L L B L L 
+W W A B 2 B L 2 B L 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L B 2 B L A B 1 L L 
+B L L L L L 2 L L B 
+2 L L L L L B L L 1 
+B 2 B L A A L L B L 
+2 L L A B L A L L B 
+B L L 0 L B 1 L L 2 
+L B L L A A L L 1 B 
+1 L L L L L B L L A 
+B L L 1 L L L B L L 
+L L A B 2 B L 2 B L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-18
+10
+10
+W A W W W W W W W W 
+W W A W W W 1 2 W 2 
+W 3 W W W W W W A W 
+W 1 W W W 1 W W W W 
+W W W 2 W W F W W W 
+W W W W W F 0 F W W 
+W W W W 2 W F W A W 
+W A W F W W W W A W 
+2 W A 0 F W W 2 W W 
+W W W F W W W W A W 
+
+preproc 1 selesai
+L A L L L L L B L L 
+L B A L L B 1 2 B 2 
+B 3 B L L L L L A B 
+L 1 L W W 1 W W W L 
+L B L 2 W W F W W L 
+L L L W W F 0 F W L 
+L L L W 2 W F W A L 
+L A L F W W W W A L 
+2 B A 0 F W W 2 B L 
+B L L L L L L L A L 
+
+L A L L L L L B L L 
+L B A L L B 1 2 B 2 
+B 3 B L L L L L A B 
+L 1 L W L 1 B L L L 
+L B L 2 B L L L L L 
+L L L B L L 0 F W L 
+L L L L 2 B L L A L 
+L A L L B L L L A L 
+2 B A 0 L L B 2 B L 
+B L L L L L L L A L 
+
+[0, 0, 3, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L A L L L L L B L L 
+L B A L L B 1 2 B 2 
+B 3 B L L L L L A B 
+L 1 L F L 1 B L L L 
+L B L 2 B L L L L L 
+L L L B L L 0 L B L 
+L L L L 2 B L L A L 
+L A L L B L L L A L 
+2 B A 0 L L B 2 B L 
+B L L L L L L L A L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-19
+10
+10
+W 1 W 1 W W W W W W 
+W W W W W 2 W A W 2 
+W 1 W W 3 W W W W W 
+W W W A W W A W W A 
+W 1 W W W W W 2 F W 
+W W 2 W W W W F 0 F 
+1 W W A W W 2 W F W 
+W W W W F A W W 2 W 
+2 W A F 0 F W W W W 
+W W W W F W A W A W 
+
+preproc 1 selesai
+W 1 W 1 W W W W W W 
+W W W W W 2 W A W 2 
+W 1 W W 3 W W L W W 
+W W W A W W A B L A 
+W 1 L L L L B 2 F W 
+W W 2 W W W L F 0 F 
+1 W W A W W 2 W F W 
+W W W W F A W W 2 W 
+2 W A F 0 F W W W W 
+W W W W F W A W A W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+L 1 B 1 L L L L L B 
+L F L L F 2 B A B 2 
+L 1 L B 3 B L L L L 
+L B L A B L A B L A 
+L 1 L L L L B 2 L L 
+B L 2 B L L L L 0 L 
+1 L B A L L 2 B L L 
+L L L B L A B L 2 B 
+2 B A L 0 L L L B L 
+B L L L L L A L A L 
+
+2000
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-20
+10
+10
+A A W W A W W W W A 
+F 0 F F W W 4 W A A 
+W F F 0 F W W W W W 
+W 1 W F W W W A W W 
+W W W W W W W W W 2 
+A W W W W W W W F W 
+W W 1 W W W W F 0 F 
+W W W W W W A W F W 
+A 2 W 1 W W W F 0 F 
+0 F W W W 1 W F 0 A 
+
+preproc 1 selesai
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A W W 
+L L L L L L L W W 2 
+A L L L L L L W F W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L W W 2 
+A L L L L L L L L B 
+B L 1 B L L L L 0 L 
+L B L L L L A W F L 
+A 2 B 1 L L B L 0 L 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 5, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L W 
+L L L L L L L L B 2 
+A L L L L L L L L B 
+B L 1 B L L L L 0 L 
+L B L L L L A W F L 
+A 2 B 1 L L B L 0 L 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 4, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L W W 2 
+A L L L L L L L L B 
+B L 1 B L L L L 0 L 
+L B L L L L A W F L 
+A 2 B 1 L L B L 0 L 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 5, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L W 
+L L L L L L L L B 2 
+A L L L L L L L L B 
+B L 1 B L L L L 0 L 
+L B L L L L A W F L 
+A 2 B 1 L L B L 0 L 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 4, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L W W 2 
+A L L L L L L L L B 
+B L 1 B L L L L 0 L 
+L B L L L L A W F L 
+A 2 B 1 L L B L 0 L 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 5, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L W W 2 
+A L L L L L L L L B 
+B L 1 B L L L L 0 L 
+L B L L L L A W F L 
+A 2 B 1 L L B L 0 L 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 5, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L W L W 
+B L 1 B L L L L 0 F 
+L B L L L L A W F W 
+A 2 B 1 L L B L 0 F 
+0 L L L B 1 L F 0 A 
+
+[0, 0, 8, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+[0, 0, 0, 0, 0, 0] 0
+A A L B A L B L L A 
+L 0 L L L B 4 B A A 
+B L L 0 L L B L L L 
+L 1 B L L L L A L B 
+L L L L L L L L B 2 
+A L L L L L L B L L 
+B L 1 B L L L L 0 L 
+L B L L L L A L L B 
+A 2 B 1 L L B L 0 L 
+0 L L L B 1 L L 0 A 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-21
+10
+10
+W W W A F F W W W W 
+W W W F 0 0 1 W W W 
+W W W F F A W W W W 
+W 1 F 0 F W 2 W W A 
+W 1 A F W W W F 2 W 
+F 1 W W W W F 0 A W 
+0 F W 1 W W 1 F A W 
+F W W F A W W W W W 
+W W F 0 1 A W W W W 
+W W W F W W 1 W W W 
+
+preproc 1 selesai
+L L L A F F W W L W 
+L L B L 0 0 1 W L W 
+L B L L L A W W L W 
+L 1 L 0 L W 2 L B A 
+B 1 A F L W W F 2 B 
+L 1 B L L L L 0 A L 
+0 L L 1 B L 1 L A L 
+L B L L A L B L L L 
+B L L 0 1 A L L B L 
+L L L L B L 1 B L L 
+
+L L L A F F W L L W 
+L L B L 0 0 1 B L L 
+L B L L L A W L L W 
+L 1 L 0 L B 2 L B A 
+B 1 A L L L B L 2 B 
+L 1 B L L L L 0 A L 
+0 L L 1 B L 1 L A L 
+L B L L A L B L L L 
+B L L 0 1 A L L B L 
+L L L L B L 1 B L L 
+
+[0, 0, 6, 0, 0, 0]
+L L L A F F W L L W 
+L L B L 0 0 1 B L L 
+L B L L L A W L L W 
+L 1 L 0 L B 2 L B A 
+B 1 A L L L B L 2 B 
+L 1 B L L L L 0 A L 
+0 L L 1 B L 1 L A L 
+L B L L A L B L L L 
+B L L 0 1 A L L B L 
+L L L L B L 1 B L L 
+
+[0, 0, 6, 0, 0, 0]
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L L L A L L B L L L 
+L L B L 0 0 1 L L B 
+L B L L L A L B L L 
+L 1 L 0 L B 2 L B A 
+B 1 A L L L B L 2 B 
+L 1 B L L L L 0 A L 
+0 L L 1 B L 1 L A L 
+L B L L A L B L L L 
+B L L 0 1 A L L B L 
+L L L L B L 1 B L L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-22
+10
+10
+W W W W 2 W A W 2 W 
+A W W W W W W F W W 
+W W 2 A W W F 0 F W 
+A W W W W 1 W A W W 
+W W W A W W W W W 1 
+1 W W W W W 3 W W W 
+W W 1 W 1 W W F W A 
+W W 1 W W W 1 0 F W 
+W W W W W F W F W 1 
+W 2 W A F 0 F W W W 
+
+preproc 1 selesai
+W W W W 2 W A B 2 W 
+A W W W W W W L W W 
+W W 2 A W W F 0 F W 
+A W W W W 1 W A W W 
+W W W A W W W W W 1 
+1 W W W W W 3 W W W 
+W W 1 W 1 W W F W A 
+W W 1 W W W 1 0 L B 
+W W W W W F W F F 1 
+W 2 W A F 0 F W W F 
+
+first gwo selesai
+[1, 1, 2, 0, 0, 2] 2025
+L L L B 2 B A B 2 B 
+A L F L L L L L L L 
+L B 2 A B L L 0 L L 
+A L B L L 1 B A L L 
+B L L A L L L L B 1 
+1 L L L L B 3 B L L 
+L L 1 B 1 L B L L A 
+L L 1 L F L 1 0 L B 
+L C B L L L L L L 1 
+B 2 L A L 0 L B L L 
+
+2025
+[1, 1, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-23
+10
+10
+W W W W A W W 2 W W 
+F W W 2 W W W W W W 
+0 F W W F W A W W W 
+F W A F 0 F W W 1 W 
+W W W W F W 1 W W 1 
+A F W 3 W W W W W W 
+F 0 F W W A W A W W 
+W F W 3 W W F W W 3 
+W W W W W F 0 F W W 
+W W A W W A F W W W 
+
+preproc 1 selesai
+W L W W A W W 2 W L 
+F L W 2 W W W W W L 
+0 L W L F W A W F L 
+L B A L 0 L B L 1 B 
+L L L B L L 1 F L 1 
+A L L 3 B L L L L L 
+L 0 L B L A B A L B 
+L L B 3 L L L L B 3 
+L L L B L L 0 L L B 
+B L A L L A L B L L 
+
+L L L B A W W 2 B L 
+L L B 2 L L L B L L 
+0 L L L F W A L L L 
+L B A L 0 L B L 1 B 
+L L L B L L 1 L L 1 
+A L L 3 B L L L L L 
+L 0 L B L A B A L B 
+L L B 3 L L L L B 3 
+L L L B L L 0 L L B 
+B L A L L A L B L L 
+
+[0, 0, 4, 0, 0, 0]
+L L L B A W W 2 B L 
+L L B 2 L L L B L L 
+0 L L L F W A L L L 
+L B A L 0 L B L 1 B 
+L L L B L L 1 L L 1 
+A L L 3 B L L L L L 
+L 0 L B L A B A L B 
+L L B 3 L L L L B 3 
+L L L B L L 0 L L B 
+B L A L L A L B L L 
+
+[0, 0, 4, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L L L B A L F 2 B L 
+L L B 2 L L L B L L 
+0 L L L L B A L L L 
+L B A L 0 L B L 1 B 
+L L L B L L 1 L L 1 
+A L L 3 B L L L L L 
+L 0 L B L A B A L B 
+L L B 3 L L L L B 3 
+L L L B L L 0 L L B 
+B L A L L A L B L L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-24
+10
+10
+W W W W W W W W W W 
+W 1 W W W W 2 W A W 
+W W W 2 W A W W W W 
+W 1 W W 2 W W 1 W W 
+W W 2 W W W 1 W W W 
+W W F 1 W W W 1 W W 
+W F 0 F W 3 W W 1 W 
+W W F W A W A W F W 
+W 1 W 2 W W W F 0 F 
+W W W W W W W W F W 
+
+preproc 1 selesai
+W W W W W W W W W W 
+W 1 W W W W 2 W A W 
+W W W 2 W A W W W W 
+W 1 W W 2 W W 1 W W 
+W W 2 W W W 1 W W W 
+W W F 1 W W W 1 W W 
+W F 0 F W 3 W W 1 W 
+W W F W A W A W F W 
+W 1 W 2 W W W F 0 F 
+W W W W W W W W F W 
+
+first gwo selesai
+[3, 2, 5, 0, 0, 5] 5055
+L L L L L L B L L L 
+L 1 B L L L 2 B A L 
+L F L 2 B A F L L L 
+L 1 L B 2 L F 1 B L 
+L B 2 C L B 1 F L L 
+B L L 1 B L L 1 L L 
+L L 0 L C 3 C B 1 L 
+L L L B A B A L L B 
+L 1 F 2 B L L L 0 L 
+L B L L L L L L L L 
+
+5055
+[3, 2, 5, 0, 0, 5]
+mencoba tingkat kesulitan 10_hard papan ke-25
+10
+10
+1 W W W W 1 W W W 2 
+W W A W W W F W W W 
+W W W W W F 0 F A W 
+W W 1 W W A F W W W 
+A W W 1 W W W W W W 
+W W W W F W 1 W W 1 
+W W W F 0 F W A W W 
+W 1 W A F W W F W W 
+W W W W F W F 0 F W 
+2 W W F 0 F W F W A 
+
+preproc 1 selesai
+1 L L L B 1 L L B 2 
+B L A L L L L L L B 
+L W W W L F 0 F A L 
+L W 1 W L A F W W L 
+A W W 1 L W W W W L 
+L W W W L W 1 W W 1 
+L W W F 0 F W A W W 
+L 1 W A F W W F W W 
+B L L L L L L 0 F W 
+2 B L L 0 F W F W A 
+
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3000
+1 L L L B 1 L L B 2 
+B L A L L L L L L B 
+L L B L L L 0 L A L 
+L L 1 F L A L B L L 
+A L F 1 L L B L L L 
+L L L B L L 1 L B 1 
+L B L L 0 L L A L L 
+L 1 F A L B L L L L 
+B L L L L L L 0 L B 
+2 B L L 0 L B L L A 
+
+3000
+[0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 10_hard papan ke-26
+10
+10
+W F 0 F W W W W W W 
+W W F W W 1 W 1 W F 
+W 2 2 W W W W A F 0 
+W W W W A W W W W F 
+W 1 W W W W 3 W F W 
+W W W A W W W F 0 F 
+W W W W W 2 W W F W 
+1 W A W W W W 1 0 F 
+W W A W 1 W W W F W 
+W W W W W W W 2 W W 
+
+preproc 1 selesai
+L L 0 L W W W W W W 
+L B L L L 1 W 1 W F 
+B 2 2 B L L L A F 0 
+L L B L A W W W W F 
+L 1 L L W W 3 W F W 
+L B L A W W W F 0 F 
+L L L W W 2 W W F W 
+1 L A W W W W 1 0 F 
+B L A W 1 W W W F W 
+L L W W W W W 2 W W 
+
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3000
+L L 0 L L B L L L L 
+L B L L L 1 F 1 B L 
+B 2 2 B L L L A L 0 
+L L B L A L F L L L 
+L 1 L L L B 3 B L L 
+L B L A L L B L 0 L 
+L L L L B 2 L L L B 
+1 L A L L B L 1 0 L 
+B L A F 1 L L B L L 
+L L L L B L L 2 B L 
+
+3000
+[0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 10_hard papan ke-27
+10
+10
+W W W W W W 1 W A W 
+1 W 1 W 1 W W W F W 
+W W W W A W W F 0 F 
+2 W W W W W W W F W 
+W F W W W W W A 0 F 
+F 0 A W W W W W F W 
+W F W W W W W W W A 
+W 1 W W W 1 W W W F 
+W W W W W A W 1 F 0 
+W 2 W 2 W W W W W F 
+
+preproc 1 selesai
+W W W W W W 1 W A W 
+1 W 1 W 1 W W W F W 
+W W W W A W W F 0 F 
+2 W W W W W W W F W 
+W F W W W W W A 0 F 
+F 0 A W W W W W F W 
+W F W W W W W W W A 
+W 1 W W W 1 W W W F 
+W W W W W A W 1 F 0 
+W 2 W 2 W W W W W F 
+
+first gwo selesai
+[2, 0, 2, 0, 0, 2] 2010
+B L L L L L 1 B A L 
+1 L 1 B 1 L L L L B 
+F L F L A L L L 0 L 
+2 B L L L L L L L L 
+B L L L L L L A 0 L 
+L 0 A L L L L B L L 
+L L L L L B L L L A 
+C 1 L L L 1 L L B L 
+L B L C L A B 1 L 0 
+L 2 B 2 B L L L L L 
+
+2010
+[2, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-28
+10
+10
+W F 0 F F 0 F F W W 
+W W F W W F F 0 F W 
+W A W W W W F F W A 
+W W W 1 W 1 0 F W W 
+1 W F 0 F W F W W F 
+W W W F F W 1 W F 0 
+F W F 0 0 F 0 F W F 
+0 F W F F W F W 3 W 
+F W A W W W W W W W 
+W W W W 1 W W A W W 
+
+preproc 1 selesai
+W F 0 F F 0 F F W W 
+W W F W W F F 0 F W 
+W A W W W W F F W A 
+W W W 1 W 1 0 F W W 
+1 W F 0 F W F W W F 
+W W W F F W 1 W F 0 
+F W F 0 0 F 0 F W F 
+0 F W F F W F W 3 W 
+F W A W W W W W W W 
+W W W W 1 W W A W W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+L L 0 F L 0 L L L B 
+L B L L L L L 0 L L 
+L A B L L L L L L A 
+B L L 1 B 1 0 L L B 
+1 L L 0 L L L L B L 
+L L L L L B 1 L L 0 
+L B L 0 0 L 0 L L L 
+0 L L L L L L B 3 B 
+F L A L L L L L B L 
+L L L B 1 L B A L L 
+
+2000
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-29
+10
+10
+F W W W W W F 0 0 F 
+0 F 1 W W W W F F W 
+0 F F W W W 2 F 0 F 
+F F 0 F W 2 W W F W 
+W W F 0 F W W W W W 
+W W W F W W 2 W W W 
+W F W W 2 W W 1 W F 
+F 0 F 3 W W W W F 0 
+W F W W W W W 1 W 1 
+W A A W W W W W W W 
+
+preproc 1 selesai
+F W W W W W F 0 0 F 
+0 F 1 W W W W F F W 
+0 F F W W W 2 F 0 F 
+F F 0 F W 2 W W F W 
+W W L 0 F W W W W W 
+L L B L L L 2 W W W 
+L L L B 2 F W 1 W F 
+F 0 L 3 B L L L L 0 
+L L L B L L L 1 W 1 
+W A A L L W W W W W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L L B L L L L 0 0 L 
+0 L 1 L L L B L L L 
+0 L L L L B 2 L 0 L 
+L L 0 L B 2 L L L B 
+L B L 0 L L B L L L 
+L L B L L L 2 B L L 
+L L L B 2 L F 1 L L 
+L 0 L 3 B L L L L 0 
+L L L B L L L 1 B 1 
+B A A L L B L L L L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-30
+10
+10
+W W 2 W W W W W W W 
+W 3 W F W 1 W W A W 
+W W F 0 F 1 W F W A 
+W W W F W W F 0 F W 
+W A A W W W W F F W 
+W W W W W W W 1 0 F 
+W W 1 W F W W W F W 
+1 W W F 0 F 2 W W W 
+W 1 W F 0 F W W A W 
+W W W W F W W A W W 
+
+preproc 1 selesai
+W W 2 W W W W W W W 
+W 3 W F W 1 W W A W 
+W W F 0 F 1 W F W A 
+W W W F W W F 0 F W 
+W A A W W W W F F W 
+W W W W W W W 1 0 F 
+W W 1 W F W W W F W 
+1 W W F 0 F 2 W W W 
+W 1 W F 0 F W W A W 
+W W W W F W W A W W 
+
+first gwo selesai
+[0, 1, 1, 0, 0, 1] 1020
+L B 2 L L B L L L L 
+B 3 B L L 1 L B A B 
+L B L 0 L 1 L L B A 
+L L L L L B L 0 L L 
+L A A L B L L L L L 
+L L L L L L B 1 0 L 
+L L 1 B L L L L L L 
+1 B L L 0 L 2 B L L 
+L 1 F L 0 L B L A B 
+B L L L L L L A B L 
+
+1020
+[0, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-31
+10
+10
+W W F W W 1 1 W W W 
+W F 0 F A A W W W W 
+W W F W W W W W A W 
+A W W F W 1 W W W W 
+1 A F 0 F W F W 2 W 
+W 2 W F W F 0 F A A 
+W W W W 1 W F W W 1 
+W 2 W W W W W W W W 
+W W W W 1 A W 2 W W 
+W W W A A W W W W W 
+
+preproc 1 selesai
+L L L L B 1 1 W W W 
+B L 0 L A A W W W W 
+L L L B L L L L A W 
+A W W L W 1 W W W W 
+1 A F 0 F W F W 2 W 
+B 2 W F W F 0 F A A 
+L W W W 1 W F W W 1 
+L 2 W W W W W W W W 
+L W W W 1 A W 2 W W 
+L W W A A W W W W W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L L L L B 1 1 B L L 
+B L 0 L A A L L B L 
+L L L B L L L L A L 
+A B L L L 1 L L B L 
+1 A L 0 L B L L 2 B 
+B 2 L L B L 0 L A A 
+L B L L 1 L L L B 1 
+L 2 B L L L L L L L 
+L L L B 1 A B 2 L B 
+L B L A A L L B L L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-32
+10
+10
+W 2 W W W W A W W F 
+W W W A 2 W W W F 0 
+W W W F W W W W W F 
+A W F 0 F W 1 W A W 
+W W W F W W W W 1 W 
+W 1 W F W W F W W F 
+W A F 0 F F 0 F F 0 
+F W W F W F F W W F 
+0 F W F F 0 0 F W W 
+F W F 0 F F F W 1 W 
+
+preproc 1 selesai
+B 2 L W W W A L B L 
+L B L A 2 W W L L 0 
+L L L F W W W L L F 
+A L L 0 F W 1 L A W 
+L L L F W W W L 1 W 
+B 1 L F W W F L W F 
+L A L 0 F F 0 L F 0 
+L L L F W F F L W L 
+0 L B L L 0 0 L L B 
+L B L 0 L L L B 1 L 
+
+B 2 L W W L A L B L 
+L B L A 2 B L L L 0 
+L L L L B L L L L L 
+A L L 0 L L 1 L A L 
+L L L L L L B L 1 B 
+B 1 L F L L L L W L 
+L A L 0 L L 0 L F 0 
+L L L F L L F L W L 
+0 L B L L 0 0 L L B 
+L B L 0 L L L B 1 L 
+
+[0, 0, 8, 0, 0, 0]
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3000
+B 2 L B L L A L B L 
+L B L A 2 B L L L 0 
+L L L L B L L L L L 
+A L L 0 L L 1 L A L 
+L L L L L L B L 1 B 
+B 1 L L L L L L F L 
+L A L 0 L L 0 L L 0 
+L L L F L L F L L L 
+0 L B L L 0 0 L L B 
+L B L 0 L L L B 1 L 
+
+3000
+[0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 10_hard papan ke-33
+10
+10
+W W W W W W W 1 W W 
+W W W 1 A W A W W W 
+3 W W W W W W W W W 
+W 3 W W 1 W F W A W 
+W W W W W F 0 F 1 W 
+W A W 1 W F F W F W 
+W A W W F 0 F F 0 F 
+W W W W W F W W F 1 
+W W W A W A A W W W 
+W W 2 W W W W W W W 
+
+preproc 1 selesai
+L L L B L L L 1 W L 
+B L L 1 A W A W W L 
+3 B L L L L L L L L 
+B 3 W W 1 W F W A L 
+L W W W W F 0 F 1 B 
+L A W 1 W F L W F L 
+L A W W F 0 L F 0 L 
+L L L L L L B L L 1 
+L W W A W A A L L B 
+L W 2 W W W W W W L 
+
+first gwo selesai
+[0, 0, 4, 0, 0, 4] 4000
+L L L B L L L 1 F L 
+B L L 1 A L A B L L 
+3 B L L L L L L L L 
+B 3 B L 1 B L L A L 
+L F L F L L 0 L 1 B 
+L A L 1 B L L L L L 
+L A L F L 0 L L 0 L 
+L L L L L L B L L 1 
+L L L A L A A L L B 
+L B 2 B L L L L L L 
+
+4000
+[0, 0, 4, 0, 0, 4]
+mencoba tingkat kesulitan 10_hard papan ke-34
+10
+10
+W 1 W W W W W W A W 
+A W A 2 W W W W W A 
+W W F W W W A W 1 W 
+W F 0 1 W F 0 F A W 
+W W F W W W F W W W 
+W W W W W W W W W W 
+W 2 W 1 W W 1 2 W W 
+W 1 W A W W W F W W 
+A W W W W W 2 0 F A 
+W A W W W W W F A W 
+
+preproc 1 selesai
+B 1 F W W W W L A B 
+A F A 2 W W W L W A 
+L W F W W W A L 1 W 
+L F 0 1 W F 0 L A W 
+L W L W W W F L L W 
+L L L L L L L B L L 
+B 2 B 1 F F 1 2 B L 
+L 1 L A L L B L L L 
+A B L L L L 2 0 L A 
+B A L L L L B L A B 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+B 1 L B L L L L A B 
+A L A 2 B L L L L A 
+L B L L L L A L 1 B 
+L L 0 1 L F 0 L A L 
+L L L B L L L L L L 
+L L L L L L L B L L 
+B 2 B 1 L F 1 2 B L 
+L 1 L A L L B L L L 
+A B L L L L 2 0 L A 
+B A L L L L B L A B 
+
+2000
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-35
+10
+10
+W W W F W W W W W W 
+W A F 0 F W A W A W 
+W F W 1 W W W W W W 
+F 0 F 0 F W A A 1 W 
+W F W F A 1 W W W W 
+W F W W A A F W W W 
+F 0 A 2 W F 0 F 2 W 
+W F W W W W 1 W F W 
+W A W 2 W W A F 0 F 
+W W W W W W W W F W 
+
+preproc 1 selesai
+L W L F W W W W W L 
+L A L 0 F W A W A L 
+L L B 1 L L L L B L 
+L 0 L 0 F F A A 1 L 
+B L L L A 1 B L L L 
+L L L B A A L L B L 
+L 0 A 2 W F 0 L 2 B 
+L F W W W F 1 B L L 
+L A W 2 W W A L 0 L 
+L W W W W W W L F L 
+
+L W L F W W W W W L 
+L A L 0 F W A W A L 
+L L B 1 L L L L B L 
+L 0 L 0 F F A A 1 L 
+B L L L A 1 B L L L 
+L L L B A A L L B L 
+L 0 A 2 B L 0 L 2 B 
+L F L W L F 1 B L L 
+L A B 2 L W A L 0 L 
+L L L B L L L L L L 
+
+[0, 0, 16, 0, 0, 0]
+L W L F W W W W W L 
+L A L 0 F W A W A L 
+L L B 1 L L L L B L 
+L 0 L 0 F F A A 1 L 
+B L L L A 1 B L L L 
+L L L B A A L L B L 
+L 0 A 2 B L 0 L 2 B 
+L F L W L F 1 B L L 
+L A B 2 L W A L 0 L 
+L L L B L L L L L L 
+
+[0, 0, 16, 0, 0, 0]
+L W L F W W W W W L 
+L A L 0 F W A W A L 
+L L B 1 L L L L B L 
+L 0 L 0 F F A A 1 L 
+B L L L A 1 B L L L 
+L L L B A A L L B L 
+L 0 A 2 B L 0 L 2 B 
+L F L W L F 1 B L L 
+L A B 2 L W A L 0 L 
+L L L B L L L L L L 
+
+[0, 0, 16, 0, 0, 0]
+L W L F W W W W W L 
+L A L 0 F W A W A L 
+L L B 1 L L L L B L 
+L 0 L 0 F F A A 1 L 
+B L L L A 1 B L L L 
+L L L B A A L L B L 
+L 0 A 2 B L 0 L 2 B 
+L F L W L F 1 B L L 
+L A B 2 L W A L 0 L 
+L L L B L L L L L L 
+
+[0, 0, 16, 0, 0, 0]
+L W L F W W W W W L 
+L A L 0 F W A W A L 
+L L B 1 L L L L B L 
+L 0 L 0 F F A A 1 L 
+B L L L A 1 B L L L 
+L L L B A A L L B L 
+L 0 A 2 B L 0 L 2 B 
+L F L W L F 1 B L L 
+L A B 2 L W A L 0 L 
+L L L B L L L L L L 
+
+[0, 0, 16, 0, 0, 0]
+L W L F W W W W W L 
+L A L 0 F W A W A L 
+L L B 1 L L L L B L 
+L 0 L 0 F F A A 1 L 
+B L L L A 1 B L L L 
+L L L B A A L L B L 
+L 0 A 2 B L 0 L 2 B 
+L F L W L F 1 B L L 
+L A B 2 L W A L 0 L 
+L L L B L L L L L L 
+
+[0, 0, 16, 0, 0, 0]
+L W L F W W W W W L 
+L A L 0 F W A W A L 
+L L B 1 L L L L B L 
+L 0 L 0 F F A A 1 L 
+B L L L A 1 B L L L 
+L L L B A A L L B L 
+L 0 A 2 B L 0 L 2 B 
+L F L W L F 1 B L L 
+L A B 2 L W A L 0 L 
+L L L B L L L L L L 
+
+[0, 0, 16, 0, 0, 0]
+L W L F W W W W W L 
+L A L 0 F W A W A L 
+L L B 1 L L L L B L 
+L 0 L 0 F F A A 1 L 
+B L L L A 1 B L L L 
+L L L B A A L L B L 
+L 0 A 2 B L 0 L 2 B 
+L F L W L F 1 B L L 
+L A B 2 L W A L 0 L 
+L L L B L L L L L L 
+
+[0, 0, 16, 0, 0, 0]
+L W L F W W W W W L 
+L A L 0 F W A W A L 
+L L B 1 L L L L B L 
+L 0 L 0 F F A A 1 L 
+B L L L A 1 B L L L 
+L L L B A A L L B L 
+L 0 A 2 B L 0 L 2 B 
+L F L W L F 1 B L L 
+L A B 2 L W A L 0 L 
+L L L B L L L L L L 
+
+[0, 0, 16, 0, 0, 0]
+L W L F W W W W W L 
+L A L 0 F W A W A L 
+L L B 1 L L L L B L 
+L 0 L 0 F F A A 1 L 
+B L L L A 1 B L L L 
+L L L B A A L L B L 
+L 0 A 2 B L 0 L 2 B 
+L F L W L F 1 B L L 
+L A B 2 L W A L 0 L 
+L L L B L L L L L L 
+
+[0, 0, 16, 0, 0, 0]
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+L L L L B L L L L L 
+L A L 0 L B A B A L 
+L L B 1 L L L L B L 
+L 0 L 0 L L A A 1 L 
+B L L L A 1 B L L L 
+L L L B A A L L B L 
+L 0 A 2 B L 0 L 2 B 
+L F L F L L 1 B L L 
+L A B 2 L B A L 0 L 
+L L L B L L L L L L 
+
+2000
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-36
+10
+10
+W A W W W W W W W W 
+W W W W 1 A F W W 1 
+W W A W W F 0 2 W W 
+W F 0 F W W F W W W 
+W 1 F W W W W W 2 W 
+W A W W W W W W A W 
+W W W W W W W A W W 
+W W 3 A W W W 2 W W 
+1 W W W A 1 W W W W 
+W W W W W W W W A W 
+
+preproc 1 selesai
+L A W W W W W W W W 
+L W W W 1 A F W W 1 
+L W A W W F 0 2 W W 
+L F 0 F W W F W W W 
+B 1 L W W W W W 2 W 
+L A L W W W W W A W 
+L L B L L L L A W W 
+L B 3 A W W W 2 W W 
+1 L B L A 1 W W W W 
+B L L L L L L L A W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L A L L L L L L L B 
+L L L B 1 A L B L 1 
+L B A L L L 0 2 B L 
+L L 0 L B L L L L L 
+B 1 L L L L L B 2 B 
+L A L L L L B L A L 
+L L B L L L L A L L 
+L B 3 A L B L 2 B L 
+1 L B L A 1 L B L L 
+B L L L L L L L A L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-37
+10
+10
+W W W W W A W W W W 
+W W W W W W 1 1 W W 
+W 1 W W 2 W W W W W 
+W 2 W 3 W W 3 W W W 
+2 W F W W W W 2 W W 
+W F 0 F W W W W W 1 
+W W F A W W A W 1 W 
+W W W F W 2 W W A W 
+W W 2 0 F W W W W W 
+W W W F 1 W W W W W 
+
+preproc 1 selesai
+W W W W W A W W W W 
+W W W W W W 1 1 W W 
+W 1 W W 2 W W W W W 
+W 2 W 3 W W 3 W W W 
+2 W F W W W W 2 W W 
+W F 0 F W W W W W 1 
+W W F A W W A W 1 W 
+W W W F W 2 W W A W 
+W W 2 0 F L W W W W 
+W W W F 1 B L L L L 
+
+first gwo selesai
+[3, 1, 0, 0, 0, 0] 35
+B L L L L A B L L L 
+L B L L L L 1 1 B L 
+L 1 L B 2 L L L L B 
+L 2 B 3 B C 3 B L L 
+2 B L C L L C 2 L L 
+B L 0 L L L L B L 1 
+L L L A L B A L 1 B 
+L L B L L 2 B L A L 
+L L 2 0 L L L L B L 
+L L B L 1 B L L L L 
+
+35
+[3, 1, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-38
+10
+10
+W A W W W W W W 1 W 
+2 W W W W 1 W 1 W 2 
+W 3 W A W W F W W W 
+W W F 0 F F 0 1 W W 
+W 1 W F W W F W W W 
+W W W F W W W W 1 W 
+W W 1 0 F W 1 W W W 
+W W F F W W 2 W A W 
+A F 0 F A W W W W A 
+W A F W W W W W A W 
+
+preproc 1 selesai
+B A W W W F L F 1 B 
+2 W W W F 1 B 1 F 2 
+W 3 W A L L L L L B 
+W W F 0 F F 0 1 W L 
+W 1 W F W W F W W L 
+W W W F W W W W 1 L 
+W W 1 0 F W 1 W W L 
+W W F L W W 2 W A L 
+A F 0 L A W W W W A 
+B A L B L L L L A B 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+B A L B L L L L 1 B 
+2 F L L L 1 B 1 L 2 
+B 3 B A L L L L L B 
+L B L 0 L L 0 1 B L 
+L 1 L L B L L L L L 
+L L L L L L B L 1 L 
+L B 1 0 L L 1 L B L 
+L L L L L B 2 B A L 
+A L 0 L A L L L B A 
+B A L B L L L L A B 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-39
+10
+10
+W W W W A W W W W W 
+W 1 W W W W 2 W 1 W 
+W F F W W W A W W W 
+F 0 0 F W W W W W W 
+W F F W A A W W W 2 
+1 W W W A 1 W W W W 
+W W W W W W W A 1 W 
+W W W 1 W W W W W W 
+W 3 W 2 W W W W 2 W 
+W W W W W 1 W W W W 
+
+preproc 1 selesai
+W W W W A W W W W W 
+W 1 W W W W 2 W 1 W 
+W F F W W W A W W W 
+F 0 0 F W W W W W W 
+W F F W A A W W W 2 
+1 W W W A 1 W W W W 
+W W W W W W W A 1 W 
+W W W 1 W W W W W W 
+W 3 W 2 W W W W 2 W 
+W W W W W 1 W W W W 
+
+first gwo selesai
+[2, 1, 2, 0, 0, 2] 2030
+L L B L A L F L F L 
+B 1 L L L B 2 B 1 L 
+L L L L B L A L L L 
+L 0 0 L L L L L L B 
+L L L L A A L L B 2 
+1 B L L A 1 B L L L 
+L L L B L L L A 1 L 
+L L L 1 L L L L B L 
+B 3 B 2 B L L L 2 B 
+L B L C L 1 C B L L 
+
+2030
+[2, 1, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-40
+10
+10
+A W W 3 W W W W F 0 
+W W W W W 1 W F W F 
+W W 1 W W W F 0 F W 
+W W W F W 1 W F W A 
+W 2 F 0 F W W W W W 
+W W W F W W A W 1 W 
+A W W W A W W W W W 
+W W A W W W W 1 W W 
+W W W W 3 W W W W W 
+A W W W W W 2 W W A 
+
+preproc 1 selesai
+A L B 3 B L L L L 0 
+L L L B L 1 L L B L 
+W W 1 L L B L 0 L B 
+W W W L L 1 L F L A 
+W 2 F 0 L L B L L L 
+W W W F L W A W 1 W 
+A W W W A W W W W W 
+W W A W W W W 1 W W 
+W W W W 3 W W W W W 
+A W W W W W 2 W W A 
+
+first gwo selesai
+[1, 1, 4, 0, 0, 4] 4025
+A L B 3 B L L L L 0 
+L L L B L 1 L L B L 
+L F 1 L L B L 0 L B 
+L L B L L 1 L L L A 
+B 2 L 0 L L B L L L 
+L B L L L L A L 1 B 
+A L L L A L L B L L 
+B L A L F L F 1 F L 
+L L L B 3 B C L L L 
+A L L L B L 2 B L A 
+
+4025
+[1, 1, 4, 0, 0, 4]
+mencoba tingkat kesulitan 10_hard papan ke-41
+10
+10
+W W 1 W W A F 0 F W 
+W W W W W W W F W W 
+A W A W W W W A W 1 
+W W W W W 1 W W W W 
+2 W W 2 W W W W W W 
+W W W W W W A W W A 
+W W W W 1 W W W W W 
+A W A W W W W A W 1 
+W W W W F W W W W W 
+W W 1 F 0 F W 3 W W 
+
+preproc 1 selesai
+W L 1 W L A F 0 L W 
+W L W W L W W F L W 
+A L A W L W W A L 1 
+B L L L L 1 W W L W 
+2 L B 2 B L L L L L 
+B L L L L L A W L A 
+L L L W 1 L L L L B 
+A L A W W W L A L 1 
+L L L L L L L B L L 
+L B 1 F 0 L B 3 B L 
+
+W L 1 B L A L 0 L L 
+L L L L L L L L L B 
+A L A L L W L A L 1 
+B L L L L 1 B L L L 
+2 L B 2 B L L L L L 
+B L L L L L A W L A 
+L L L B 1 L L L L B 
+A L A L W W L A L 1 
+L L L L L L L B L L 
+L B 1 L 0 L B 3 B L 
+
+[0, 0, 5, 0, 0, 0]
+W L 1 B L A L 0 L L 
+L L L L L L L L L B 
+A L A L L W L A L 1 
+B L L L L 1 B L L L 
+2 L B 2 B L L L L L 
+B L L L L L A W L A 
+L L L B 1 L L L L B 
+A L A L W W L A L 1 
+L L L L L L L B L L 
+L B 1 L 0 L B 3 B L 
+
+[0, 0, 5, 0, 0, 0]
+W L 1 B L A L 0 L L 
+L L L L L L L L L B 
+A L A L L W L A L 1 
+B L L L L 1 B L L L 
+2 L B 2 B L L L L L 
+B L L L L L A W L A 
+L L L B 1 L L L L B 
+A L A L W W L A L 1 
+L L L L L L L B L L 
+L B 1 L 0 L B 3 B L 
+
+[0, 0, 5, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+B L 1 B L A L 0 L L 
+L L L L L L L L L B 
+A L A L L F L A L 1 
+B L L L L 1 B L L L 
+2 L B 2 B L L L L L 
+B L L L L L A B L A 
+L L L B 1 L L L L B 
+A L A L L B L A L 1 
+L L L L L L L B L L 
+L B 1 L 0 L B 3 B L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-42
+10
+10
+W F 0 F W W W W A W 
+A W F A W W W 1 W W 
+W 1 W W W A W W F A 
+W W W 4 W W A F 0 F 
+W W 3 W W W W W F W 
+W W W W W W W 2 W W 
+W 2 W A W W 1 W W W 
+A W F W 1 W W W A W 
+W F 0 F W W 1 W W 1 
+W A F W W W W A W W 
+
+preproc 1 selesai
+B L 0 F L W W F A W 
+A B L A L W F 1 F W 
+F 1 L B L A L B L A 
+L L B 4 B L A L 0 F 
+W W 3 B L L L L L L 
+W W W L L W W 2 W W 
+W 2 W A L W 1 W W W 
+A W F W 1 W W W A W 
+W F 0 F W W 1 W W 1 
+W A F W W W W A W W 
+
+B L 0 F L W W F A W 
+A B L A L W F 1 F W 
+L 1 L B L A L B L A 
+L L B 4 B L A L 0 L 
+L B 3 B L L L L L L 
+L L W L L L W 2 B L 
+B 2 W A L L 1 B L L 
+A B L L 1 B L L A B 
+W L 0 F W L 1 L W 1 
+W A L L L L B A W W 
+
+[0, 0, 19, 0, 0, 0]
+first gwo selesai
+[0, 0, 6, 0, 0, 6] 6000
+[0, 0, 5, 0, 0, 5] 5000
+B L 0 L L L B L A L 
+A B L A L B L 1 L B 
+L 1 L B L A L B L A 
+L L B 4 B L A L 0 L 
+L B 3 B L L L L L L 
+L L F L L L F 2 B L 
+B 2 F A L L 1 B L L 
+A B L L 1 B L L A B 
+B L 0 F F L 1 L L 1 
+L A L L L L B A B L 
+
+5000
+[0, 0, 5, 0, 0, 5]
+mencoba tingkat kesulitan 10_hard papan ke-43
+10
+10
+W 2 A W W W W W W W 
+W W W A W A 1 W W 1 
+W W W W W W W W W A 
+W 1 W F W 2 W W 2 W 
+W A F 0 F W F W W W 
+W F W F W F 0 F 1 W 
+F 0 F W A W F W A W 
+A F W W W W F W W W 
+A W W A 2 F 0 F W W 
+W W W W W W F A A W 
+
+preproc 1 selesai
+B 2 A W L W W W W W 
+L B L A L A 1 W W 1 
+L L L W L W W W W A 
+L 1 B L L 2 W W 2 W 
+L A L 0 L W F W W W 
+L L L L B L 0 F 1 W 
+L 0 L B A W F W A W 
+A L L L B L L L L L 
+A B L A 2 F 0 F W W 
+L L L L B L L A A W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+B 2 A L L L L L L B 
+L B L A L A 1 B L 1 
+L L L L L B L L L A 
+L 1 B L L 2 B L 2 B 
+L A L 0 L L L L B L 
+L L L L B L 0 L 1 L 
+L 0 L B A B L L A L 
+A L L L B L L L L L 
+A B L A 2 L 0 L B L 
+L L L L B L L A A L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-44
+10
+10
+W W W W W W W W W W 
+W W W W 2 W 1 W W W 
+W F W 2 A A W W W W 
+F 0 F W W 1 W A W W 
+W F A A W W W A 1 W 
+W A A W W W 2 1 W W 
+W W 1 W 1 W W W 3 W 
+W W W W 1 A 1 W W W 
+W W W 3 W A W W W W 
+W W W W W W W W W W 
+
+preproc 1 selesai
+L W W W W W W W W W 
+L W W W 2 W 1 W W W 
+L F W 2 A A W W W W 
+L 0 F W W 1 W A W W 
+B L A A W W W A 1 W 
+L A A W W W 2 1 W W 
+L W 1 W 1 W W W 3 W 
+L W W W 1 A 1 W W W 
+L W W 3 W A W W W W 
+L W W W W W W W W W 
+
+first gwo selesai
+[2, 0, 2, 0, 0, 2] 2010
+L L L L B L L L L L 
+L L L B 2 F 1 B L L 
+L L B 2 A A L L B L 
+L 0 L F L 1 B A L L 
+B L A A B L L A 1 L 
+L A A L L B 2 1 B L 
+L L 1 B 1 L B C 3 B 
+L B L L 1 A 1 C B L 
+L L B 3 B A L B L L 
+L L L B L L L L L L 
+
+2010
+[2, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-45
+10
+10
+1 W F 0 F 0 F W F 0 
+W W F 0 F F W W W F 
+W W W F W A W W F W 
+F W F W W W W F 0 1 
+0 F 0 F W W W W F W 
+F F F W W W W 1 W 1 
+1 0 F W W W W W W W 
+W F W W 2 W W W W W 
+W W W W W W 1 W W W 
+A W W W 2 F 0 F W 1 
+
+preproc 1 selesai
+1 W F 0 F 0 F W F 0 
+W W F 0 F F W W W F 
+W W W L W A W W F W 
+F W F L W W W F 0 1 
+0 F 0 L W W W W F W 
+F F F L W W W 1 W 1 
+1 0 F L W W W W W W 
+B L L L 2 W W W W W 
+L L L L B L 1 W W W 
+A L L B 2 F 0 F W 1 
+
+1 B L 0 F 0 F L F 0 
+W L F 0 F F W L W L 
+W L W L W A L L L B 
+F L F L W L W L 0 1 
+0 L 0 L L L L B L L 
+F L F L W L W 1 L 1 
+1 0 L L L L L L L B 
+B L L L 2 B L L L L 
+L L L L B L 1 B L L 
+A L L B 2 L 0 L B 1 
+
+[0, 0, 20, 0, 0, 0]
+first gwo selesai
+[0, 0, 6, 0, 0, 0] 6
+1 B L 0 L 0 L B L 0 
+F L F 0 L L L L B L 
+W L W L L A L L L B 
+F L F L L L L L 0 1 
+0 L 0 L B L L L L L 
+L L L L L L B 1 L 1 
+1 0 L L L L L L L B 
+B L L L 2 B L L L L 
+L L L L B L 1 B L L 
+A L L B 2 L 0 L B 1 
+
+6
+[0, 0, 6, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-46
+10
+10
+W W A W W W W W 1 W 
+2 W W W 2 W W W W W 
+W W W W 1 W W W W 1 
+W W W W W F W W W W 
+W F W W A 0 F 2 A W 
+F 0 1 W A A W W W W 
+W F W W W W W W W W 
+A W W W W 1 W W W W 
+W W W W W 2 W F W 1 
+W 1 W W W W F 0 F W 
+
+preproc 1 selesai
+W W A W W W W L 1 W 
+2 W W W 2 W W L W W 
+W W W W 1 W W L W 1 
+L L L L L L L B L L 
+W F W W A 0 F 2 A W 
+F 0 1 W A A L B L L 
+W F W W W W W L W W 
+A W W W W 1 W L W F 
+W W W W W 2 W L F 1 
+W 1 W W W W F 0 L B 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+B L A L B L L L 1 B 
+2 B L L 2 B L L L L 
+L L L B 1 L L L B 1 
+L L L L L L L B L L 
+B L L L A 0 L 2 A B 
+L 0 1 L A A L B L L 
+L L B L L L L L L L 
+A L L L B 1 L L B L 
+L B L L L 2 B L L 1 
+F 1 L L L B L 0 L B 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-47
+10
+10
+W F 0 1 W F W W W W 
+W W F W F 0 1 W W W 
+W W W W 2 F W W W A 
+W 1 W W W 1 W W W A 
+W A W A W W W A W W 
+W W A W W W 2 W 1 W 
+A W W W 1 W W W 1 W 
+2 W W W W 1 W W W W 
+W W W 1 1 W W W W W 
+W W W W W W A A W W 
+
+preproc 1 selesai
+L L 0 1 B L L L L L 
+L B L L L 0 1 W W W 
+L L L B 2 F W W W A 
+B 1 L L B 1 F W W A 
+L A B A L L W A W W 
+L L A L L B 2 W 1 W 
+A L L B 1 L W W 1 W 
+2 B L L L 1 F W W W 
+B L L 1 1 B L L L L 
+L L L B L L A A W W 
+
+L L 0 1 B L L L L L 
+L B L L L 0 1 B L L 
+L L L B 2 F W L W A 
+B 1 L L B 1 F L W A 
+L A B A L L W A W L 
+L L A L L B 2 W 1 B 
+A L L B 1 L B L 1 L 
+2 B L L L 1 L L B L 
+B L L 1 1 B L L L L 
+L L L B L L A A L L 
+
+[0, 0, 8, 0, 0, 0]
+L L 0 1 B L L L L L 
+L B L L L 0 1 B L L 
+L L L B 2 F L L W A 
+B 1 L L B 1 L L W A 
+L A B A L L B A W L 
+L L A L L B 2 L 1 B 
+A L L B 1 L L B 1 L 
+2 B L L L 1 F L W L 
+B L L 1 1 B L L L L 
+L L L B L L A A W L 
+
+[0, 0, 7, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L L 0 1 B L L L L L 
+L B L L L 0 1 B L L 
+L L L B 2 L L L B A 
+B 1 L L B 1 L L L A 
+L A B A L L B A L L 
+L L A L L B 2 L 1 B 
+A L L B 1 L L B 1 L 
+2 B L L L 1 F L L L 
+B L L 1 1 B L L L L 
+L L L B L L A A B L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-48
+10
+10
+A W A W W 1 W W W 2 
+W W W W W 1 W A W W 
+W 2 W W W W W W W 1 
+W F W W W W W W W W 
+1 0 F W W W W W F F 
+W F W W W W W F 0 0 
+W W W W W W W W F F 
+A W W W W W W W 1 W 
+W W 1 W A W W W W W 
+1 W W W 1 W W A W 2 
+
+preproc 1 selesai
+A W A L B 1 L L B 2 
+W W W W L 1 W A L B 
+W 2 W W L W W L L 1 
+W F W W L W W L L F 
+1 0 F W L W W L L F 
+W F W W L W W L 0 0 
+W W W W L W W L F L 
+A L L L L L L B 1 L 
+W W 1 W A L L L L B 
+1 W W W 1 W W A B 2 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+A L A L B 1 L L B 2 
+L B L L L 1 B A L B 
+L 2 B L L L L L L 1 
+B L L L L L L L L L 
+1 0 L B L L L L L L 
+L F L L L L L L 0 0 
+B L L L L L L L L L 
+A L L L L L L B 1 L 
+B L 1 L A L L L L B 
+1 L B L 1 B L A B 2 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-49
+10
+10
+W A W W W W W W W W 
+F 0 F W A W W W 2 A 
+W F W F 0 F A W W W 
+W W 1 W A W W W F W 
+W W W W W W 2 A 0 F 
+W A A 2 W F W W F W 
+W W W W F 0 F 1 W W 
+W W W 1 F 0 F W W W 
+1 A W W F 0 F W 1 W 
+W W W W W F W F 0 F 
+
+preproc 1 selesai
+W A W W W W W W W W 
+F 0 F W A W W W 2 A 
+W F W F 0 F A W W W 
+W W 1 W A W W W F W 
+W W W W W W 2 A 0 F 
+W A A 2 W F W W F W 
+W W W W F 0 F 1 W W 
+W W W 1 F 0 F W W W 
+1 A W W F 0 F W 1 W 
+W W W W W F W F 0 F 
+
+first gwo selesai
+[0, 0, 5, 0, 0, 5] 5000
+L A L L L L L L B L 
+L 0 L L A L L B 2 A 
+L L F L 0 L A L F L 
+L F 1 B A L B L L L 
+L L L L L B 2 A 0 L 
+L A A 2 B L L L L L 
+L L L B L 0 L 1 B L 
+B L L 1 L 0 L F L L 
+1 A B L L 0 L F 1 B 
+L L L L L L B L 0 L 
+
+5000
+[0, 0, 5, 0, 0, 5]
+mencoba tingkat kesulitan 10_hard papan ke-50
+10
+10
+W A W A W W F 0 F W 
+F W W W 3 W W F W 1 
+0 F W 1 W W W F W W 
+F W W W W W F 0 F 1 
+W W W W W W W F A W 
+W 2 W W W W W W W W 
+1 W 1 W W W W W W W 
+W W W W W W 1 W W 1 
+1 W W W W 1 W W W W 
+W W 2 W W W A W 2 W 
+
+preproc 1 selesai
+B A W A W W F 0 L B 
+L W W W 3 W W F F 1 
+0 F W 1 W W W F W F 
+F W W W W W F 0 F 1 
+W W W W W W W F A W 
+W 2 W W W W W W W W 
+1 W 1 W W W W W W W 
+W W W W W W 1 W W 1 
+1 W W W W 1 W W W W 
+W W 2 W W W A W 2 W 
+
+first gwo selesai
+[2, 1, 5, 0, 0, 5] 5030
+B A L A F L L 0 L B 
+L L L B 3 B L L L 1 
+0 L L 1 B L L L L L 
+L L L B L L L 0 F 1 
+L B L L L L L L A B 
+F 2 B L L L L L L L 
+1 L 1 C L L F L L L 
+B L L L L C 1 L B 1 
+1 L B L L 1 B L L L 
+L B 2 L L F A B 2 B 
+
+5030
+[2, 1, 5, 0, 0, 5]
+mencoba tingkat kesulitan 10_hard papan ke-51
+10
+10
+A W W W F W W W F 0 
+W W W F 0 A W 1 W F 
+W A 1 W F W W 1 W W 
+W F W 2 W W A W F W 
+F 0 F W W W W F 0 F 
+W 1 W F W W W W 1 W 
+W W F 0 F W A W W W 
+W W A F W W W 1 A W 
+W W 2 W A A W W W W 
+1 W W W W W W W W 1 
+
+preproc 1 selesai
+A W W W F W W W F 0 
+W W W F 0 A W 1 W F 
+W A 1 W F W W 1 W W 
+W F W 2 W W A W F W 
+F 0 F W W W W F 0 F 
+W 1 W F W W W W 1 W 
+W W F 0 F W A W W W 
+W W A F W W W 1 A W 
+W W 2 W A A W W W W 
+1 W W W W W W W W 1 
+
+first gwo selesai
+[0, 0, 5, 0, 0, 5] 5000
+A L L L L L L B L 0 
+L B L L 0 A F 1 L L 
+L A 1 B L L L 1 B L 
+L F F 2 L B A L L L 
+L 0 L B L L L L 0 L 
+L 1 L L L L L B 1 L 
+L B L 0 F L A L F L 
+L L A L L L B 1 A L 
+B L 2 B A A L L L B 
+1 L B L L L L L L 1 
+
+5000
+[0, 0, 5, 0, 0, 5]
+mencoba tingkat kesulitan 10_hard papan ke-52
+10
+10
+W A W W A W W W W W 
+W W 2 W 1 W W W W 3 
+W W W W W W W W A W 
+W W W 2 W W 2 W W W 
+W W W W W W W W 1 A 
+A A W F W W F W W W 
+W W F 0 F F 0 F W W 
+W 1 W F W W F W W W 
+1 W W W W 1 W 1 W W 
+W W W W W A W W 1 W 
+
+preproc 1 selesai
+W A W W A L L L L B 
+W W 2 W 1 L L L B 3 
+W W W W W W W W A B 
+W W W 2 W W 2 W W L 
+W W W W W W W W 1 A 
+A A W F W W F W W W 
+W W F 0 F F 0 F W W 
+W 1 W F W W F W W W 
+1 W W W W 1 W 1 W W 
+W W W W W A W W 1 W 
+
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3000
+B A B L A L L L L B 
+L B 2 F 1 L L L B 3 
+L L L L B L L L A B 
+L L B 2 L B 2 B L L 
+L L L B L L L L 1 A 
+A A L L L L L L B L 
+L B L 0 L L 0 L L L 
+F 1 L L L L L L L L 
+1 L L B L 1 B 1 L L 
+B L L L L A L F 1 B 
+
+3000
+[0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 10_hard papan ke-53
+10
+10
+W W W W 2 A W W W W 
+W A W W W W W 1 1 W 
+F 0 F 1 W W W W W W 
+W F W W W W W A W F 
+A W W W W W W W F 0 
+1 W W W W W W W W 1 
+W W A W W W W W W W 
+W W W W W W 1 W A W 
+W A 2 W W W W W 3 W 
+W W W W A A W W W W 
+
+preproc 1 selesai
+L L L B 2 A L W W W 
+B A L L B L L 1 1 W 
+L 0 L 1 L W L W L W 
+L L L B L L L A L F 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L W L W L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L W L W L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L W L W L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L W W L 
+B A L L B L L 1 1 B 
+L 0 L 1 L L L B L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L W L W L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L W L W L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L W L W L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L W L W L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L W W L 
+B A L L B L L 1 1 B 
+L 0 L 1 L L L B L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L W L W L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L W L W L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L W W L 
+B A L L B L L 1 1 B 
+L 0 L 1 L L L B L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L W L W L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L W L W L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L W W L 
+B A L L B L L 1 1 B 
+L 0 L 1 L L L B L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L W W L 
+B A L L B L L 1 1 B 
+L 0 L 1 L L L B L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L W L W L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L W L W L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L W W L 
+B A L L B L L 1 1 B 
+L 0 L 1 L L L B L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+L L L B 2 A L W W L 
+B A L L B L L 1 1 B 
+L 0 L 1 L L L B L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+[0, 0, 2, 0, 0, 0]
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+[0, 0, 0, 0, 0, 0] 0
+L L L B 2 A L B L L 
+B A L L B L L 1 1 B 
+L 0 L 1 L B L L L L 
+L L L B L L L A L L 
+A L B L L L L L L 0 
+1 L L L L L L L B 1 
+B L A L L L B L L L 
+L L B L L L 1 L A L 
+L A 2 L L L L B 3 B 
+L L B L A A L L B L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-54
+10
+10
+W W F W 1 W W 1 W W 
+W F 0 F W A W W F W 
+A W 1 W W W W 1 0 F 
+W W W 1 W W 2 W F W 
+W 1 W W W W W W F A 
+1 W W W W W W F 0 F 
+W W F A W W A W F W 
+W 3 0 F W W W A W A 
+W W F W 1 W W 3 W W 
+W F 0 F W A W W W W 
+
+preproc 1 selesai
+W W F W 1 W W 1 W W 
+W F 0 F W A W W F W 
+A W 1 W W W W 1 0 F 
+L F W 1 W W 2 W F W 
+B 1 F W W W W W F A 
+1 L W W W W W F 0 L 
+L B L A W W A L L B 
+B 3 0 F F W L A L A 
+L B L L 1 L B 3 B L 
+L L 0 L B A L B L L 
+
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3000
+L L L B 1 F F 1 B L 
+B L 0 L L A L L L B 
+A B 1 L L L F 1 0 L 
+L L L 1 B L 2 B L L 
+B 1 L L L L B L L A 
+1 L B L L L L L 0 L 
+L B L A L L A L L B 
+B 3 0 L L B L A L A 
+L B L L 1 L B 3 B L 
+L L 0 L B A L B L L 
+
+3000
+[0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 10_hard papan ke-55
+10
+10
+1 W W 2 W 1 W W W 1 
+W W 1 W W W W W W W 
+W W W A W W W W 1 W 
+F W W W 2 W W A W 1 
+0 F W W W W 2 W W W 
+F W W 2 W W W W W 1 
+2 W A W W 1 W W W W 
+W 2 W W W W 1 W W W 
+W W W W F W W 1 W W 
+1 W W F 0 F 1 W W A 
+
+preproc 1 selesai
+1 L B 2 B 1 F W W 1 
+B L 1 F L F W W W W 
+L L L A L W W W 1 W 
+L L L W 2 W W A W 1 
+0 L L W W W 2 W W W 
+L L B 2 W W W W W 1 
+2 B A W W 1 W W W W 
+B 2 F W W W 1 W W W 
+L L W W F W W 1 W W 
+1 B L L 0 F 1 W W A 
+
+first gwo selesai
+[2, 0, 3, 0, 0, 3] 3010
+1 L B 2 B 1 L B L 1 
+B L 1 L L L L L L B 
+L L L A L B L L 1 L 
+L L L B 2 L B A B 1 
+0 L L L B L 2 F L F 
+L L B 2 L L B L L 1 
+2 B A B L 1 C L L B 
+B 2 L L L B 1 F L L 
+L L B L L L L 1 C L 
+1 B L L 0 L 1 B L A 
+
+3010
+[2, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 10_hard papan ke-56
+10
+10
+W W W W W 1 W W W W 
+W W 3 W W A W W W W 
+W W W W 2 W W W 2 W 
+W W W 2 W W A W W W 
+2 A W W W W W 3 W F 
+W W A W W W W W A 0 
+W W W A W W A W W F 
+W 2 W W W A W W W W 
+W W W W 2 W W 2 W W 
+W W W W A W W W W W 
+
+preproc 1 selesai
+L W W W W 1 W W W W 
+L W 3 W W A W W W W 
+L W W W 2 W W W 2 W 
+B L L 2 W W A W W W 
+2 A W W W W W 3 W F 
+B L A W W W W W A 0 
+L W W A W W A W W F 
+L 2 W W W A W W W W 
+L W W W 2 W W 2 W W 
+L W W W A W W W W W 
+
+first gwo selesai
+[1, 0, 2, 0, 0, 2] 2005
+L L F L F 1 B L L L 
+L B 3 B L A L L B L 
+L L B L 2 B L L 2 B 
+B L L 2 B L A B L L 
+2 A L B L L C 3 B L 
+B L A L L L L B A 0 
+L B L A L L A L L L 
+L 2 B L L A L L L B 
+L L L B 2 B L 2 B L 
+L B L L A L L B L L 
+
+2005
+[1, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-57
+10
+10
+W W W F W 1 W W W W 
+W 2 F 0 A W W W 2 W 
+W W W F W W W W W W 
+W W W F A 1 W W A W 
+A F F 0 F W A W A W 
+F 0 F A W W 1 W W A 
+W 1 W W A A W W W W 
+W W W W W W W W W W 
+W 2 W W W A A W 2 W 
+W W W W 3 W W W W W 
+
+preproc 1 selesai
+W W W F W 1 W L W W 
+W 2 F 0 A W W L 2 W 
+W W W F W W W L W W 
+W W W F A 1 W L A W 
+A F F 0 F W A L A W 
+L 0 F A W W 1 L W A 
+L 1 F L A A W L W L 
+L B L L L L L L L L 
+B 2 L L B A A B 2 B 
+L L L B 3 B L L L L 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+L B L L L 1 B L L L 
+B 2 L 0 A F L L 2 B 
+L L L L L L L L B L 
+L L B L A 1 L L A L 
+A F L 0 L B A L A L 
+L 0 L A B L 1 L B A 
+L 1 L L A A B L L L 
+L B L L L L L L L L 
+B 2 L L B A A B 2 B 
+L L L B 3 B L L L L 
+
+2000
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-58
+10
+10
+W 2 W W F 0 F W 3 W 
+3 W F W A F W 2 W A 
+W A 0 F W W F 0 F W 
+W W F W W W W F W W 
+2 W W W W W W W 2 W 
+W A W W W W W W W A 
+W W F W W W W W W W 
+W F 0 F W W W 2 1 W 
+2 W A W W 2 W W W A 
+W A W W 2 W W W A W 
+
+preproc 1 selesai
+B 2 L B L 0 L B 3 B 
+3 B L L A F F 2 B A 
+B A 0 L L W F 0 L L 
+L L F L L W W F L L 
+2 B L L L L L L 2 B 
+B A L L L L L L B A 
+L L F L L W W W L W 
+L L 0 L L F W 2 1 W 
+2 B A L B 2 F W W A 
+B A B L 2 B L L A B 
+
+B 2 L B L 0 L B 3 B 
+3 B L L A F F 2 B A 
+B A 0 L L W F 0 L L 
+L L F L L W W L L L 
+2 B L L L L L L 2 B 
+B A L L L L L L B A 
+L L L L L L L B L L 
+L L 0 L L F W 2 1 B 
+2 B A L B 2 L B L A 
+B A B L 2 B L L A B 
+
+[0, 0, 9, 0, 0, 0]
+B 2 L B L 0 L B 3 B 
+3 B L L A F F 2 B A 
+B A 0 L L W F 0 L L 
+L L F L L W W L L L 
+2 B L L L L L L 2 B 
+B A L L L L L L B A 
+L L L L L L L B L L 
+L L 0 L L F W 2 1 B 
+2 B A L B 2 L B L A 
+B A B L 2 B L L A B 
+
+[0, 0, 9, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+[0, 0, 0, 0, 0, 0] 0
+B 2 L B L 0 L B 3 B 
+3 B L L A L L 2 B A 
+B A 0 L L B L 0 L L 
+L L L L L L B L L L 
+2 B L L L L L L 2 B 
+B A L L L L L L B A 
+L L L L L L L B L L 
+L L 0 L L L L 2 1 B 
+2 B A L B 2 L B L A 
+B A B L 2 B L L A B 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-59
+10
+10
+W 1 W W 2 W A W F W 
+F 0 F W W F W F 0 1 
+F F W W F 0 F W F W 
+0 F W W A F F W W W 
+F W 3 W W F 0 F W A 
+A W W 3 W W F A W W 
+W W W W W 1 W W W 2 
+W W W W A W W W W W 
+2 A W W W W W W 1 W 
+W W W 1 W 1 W F 0 F 
+
+preproc 1 selesai
+B 1 F W 2 B A W F W 
+L 0 F W W L W F 0 1 
+L L W W F 0 F W F W 
+0 L W W A F F W W W 
+L B 3 W W F 0 F W A 
+A L W 3 W W F A W W 
+L L W W W 1 W W W 2 
+B L L L A W W W W W 
+2 A W W W W W W 1 W 
+B L L 1 W 1 W F 0 F 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+B 1 L L 2 B A B L L 
+L 0 L L B L L L 0 1 
+L L L L L 0 L L L B 
+0 L B L A L L L B L 
+L B 3 F L L 0 L L A 
+A L B 3 B L L A L B 
+L L L B L 1 B L L 2 
+B L L L A L L L L B 
+2 A L L L L L B 1 L 
+B L L 1 B 1 L L 0 L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-60
+10
+10
+A W W W W 2 W A W A 
+W W W W W W W W W W 
+2 W F W W W 1 W W W 
+W F 0 F W W W W W W 
+2 W F W A 2 W W W W 
+W W W W 1 A W F W A 
+W W W W W W F 0 F W 
+W W W 1 W W W F W 2 
+W W W W W W W W W W 
+A W 2 W 2 W W W W A 
+
+preproc 1 selesai
+A L L L B 2 B A W A 
+W W W W L L L L W W 
+2 W F W L L 1 B L L 
+B L 0 L L B L L L L 
+2 W F W A 2 B L L L 
+W W W W 1 A L L W A 
+W W W W W W L 0 L B 
+W W W 1 W W L F W 2 
+W W W W W W L W W W 
+A W 2 W 2 W L W W A 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+A L L L B 2 B A L A 
+B L L L L L L L L L 
+2 L L B L L 1 B L L 
+B L 0 L L B L L L L 
+2 L L L A 2 B L L L 
+B L L L 1 A L L L A 
+L L L L B L L 0 L B 
+L L B 1 L L L L B 2 
+L L L L L L L B L L 
+A B 2 B 2 B L L L A 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-61
+10
+10
+W W W W W W 1 W W W 
+W A 1 A W A W W 2 W 
+F W W W F 0 F F 0 F 
+0 F W W W F W F 0 F 
+F A 1 W W W W F F W 
+W F W W W W F 0 1 W 
+F 0 F W W W W F W 1 
+W A W W 1 W W W F W 
+W 1 W F 0 F 1 A 0 F 
+W W W A F W W W F W 
+
+preproc 1 selesai
+W W W W W W 1 W W W 
+W A 1 A W A W W 2 W 
+F W W W F 0 F F 0 F 
+0 F W W W F W F 0 F 
+F A 1 W W W W F F W 
+W F W W W W F 0 1 W 
+F 0 F W W W W F W 1 
+W A W W 1 W W W F W 
+W 1 W F 0 F 1 A 0 F 
+W W W A F W W W F W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L L L L L B 1 L B L 
+B A 1 A L A L B 2 L 
+L L B L L 0 L L 0 L 
+0 L L B L L L L 0 L 
+L A 1 L L B L L L L 
+L L B L L L L 0 1 B 
+L 0 L L B L L L L 1 
+L A L L 1 L B L L L 
+B 1 L L 0 L 1 A 0 L 
+L F L A L L L L L B 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-62
+10
+10
+W W F W W F W 1 W W 
+W F 0 F F 0 F W W W 
+A W F W W F W W A W 
+W W W 1 F 0 1 W W W 
+W 1 W 2 W F W W W W 
+W W W W W W 1 W 2 W 
+W W W A 1 W A W W W 
+W 1 W W F W W W W A 
+W W W F 0 F W 3 W W 
+W W A W F W W W W W 
+
+preproc 1 selesai
+W W F W W F W 1 W W 
+W F 0 F F 0 F W W W 
+A W F W W F W W A W 
+W W W 1 F 0 1 W W W 
+W 1 W 2 W F W W W W 
+W W W W W W 1 W 2 W 
+W W W A 1 W A W W W 
+W 1 W W F W W W W A 
+W W W F 0 F W 3 W W 
+W W A W F W W W W W 
+
+first gwo selesai
+[0, 1, 3, 0, 0, 3] 3020
+L L L L B L L 1 B L 
+B L 0 L L 0 F L L L 
+A L L B L L L L A L 
+L F L 1 L 0 1 L B L 
+L 1 B 2 L L B L L L 
+L L L B L L 1 B 2 B 
+L F L A 1 B A L L L 
+B 1 L B L L L L L A 
+L L L L 0 L B 3 B L 
+L B A L L L L B L L 
+
+3020
+[0, 1, 3, 0, 0, 3]
+mencoba tingkat kesulitan 10_hard papan ke-63
+10
+10
+A W W 2 W W W W A A 
+0 F 2 W A W W W W W 
+F W W W W W W W 1 F 
+W W W W W W W W F 0 
+W W W W W W W W 1 F 
+W 1 W W W W W W W W 
+2 W W W W W W W W W 
+W 2 W W W F W W W F 
+W W W W F 0 F A F 0 
+A 1 W W W F A W W A 
+
+preproc 1 selesai
+A L B 2 F W W L A A 
+0 L 2 B A L L L L B 
+L L L L L L L B 1 L 
+L B L L L L L L L 0 
+L L W L W W W L 1 L 
+B 1 L L L L L L B L 
+2 L L L L L L L L B 
+B 2 W L W F W L L L 
+L W W L F 0 F A L 0 
+A 1 W L W F A B L A 
+
+A L B 2 F W W L A A 
+0 L 2 B A L L L L B 
+L L L L L L L B 1 L 
+L B L L L L L L L 0 
+L L W L W W W L 1 L 
+B 1 L L L L L L B L 
+2 L L L L L L L L B 
+B 2 W L W F W L L L 
+L B L L L 0 F A L 0 
+A 1 W L W F A B L A 
+
+[0, 0, 15, 0, 0, 0]
+A L B 2 F W W L A A 
+0 L 2 B A L L L L B 
+L L L L L L L B 1 L 
+L B L L L L L L L 0 
+L L W L W W W L 1 L 
+B 1 L L L L L L B L 
+2 L L L L L L L L B 
+B 2 W L W F W L L L 
+L B L L L 0 F A L 0 
+A 1 W L W F A B L A 
+
+[0, 0, 15, 0, 0, 0]
+A L B 2 F W W L A A 
+0 L 2 B A L L L L B 
+L L L L L L L B 1 L 
+L B L L L L L L L 0 
+L L W L W W W L 1 L 
+B 1 L L L L L L B L 
+2 L L L L L L L L B 
+B 2 W L W F W L L L 
+L B L L L 0 F A L 0 
+A 1 W L W F A B L A 
+
+[0, 0, 15, 0, 0, 0]
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+A L B 2 L B L L A A 
+0 L 2 B A L L L L B 
+L L L L L L L B 1 L 
+L B L L L L L L L 0 
+L L B L L L L L 1 L 
+B 1 L L L L L L B L 
+2 L L L L L L L L B 
+B 2 L L L L B L L L 
+L B L L L 0 L A L 0 
+A 1 L L B L A B L A 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-64
+10
+10
+1 W W W W W W W F 0 
+W 2 W W W 1 W W 2 F 
+W W W W W A W W W W 
+W W W 3 W W A W W W 
+W A 2 W W W W F W W 
+W W W W W W F 0 1 W 
+W W W 2 W W 1 F W W 
+W F W W A W W W W W 
+F 0 F F 0 F W W 2 F 
+A F W W F W W W F 0 
+
+preproc 1 selesai
+1 W W W W W W L F 0 
+W 2 W W W 1 L B 2 L 
+W W W W W A L L B L 
+W W W 3 W L A L L L 
+W A 2 W W L W L L L 
+W W W W W L F 0 1 B 
+W W W 2 L B 1 L L L 
+W F W W A L L L B L 
+F 0 F F 0 L L B 2 L 
+A F W W F L W L F 0 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+1 L L L L B L L L 0 
+B 2 L B L 1 L B 2 L 
+L B L L L A L L B L 
+L L B 3 B L A L L L 
+L A 2 B L L L L L L 
+L B L L L L L 0 1 B 
+L L B 2 L B 1 L L L 
+L L L B A L L L B L 
+L 0 L L 0 L L B 2 L 
+A L L L L L B L L 0 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-65
+10
+10
+W W W W W A A W W W 
+W 3 W W W W W A 1 W 
+W A W W W W W W W W 
+A W W W W 4 W W W W 
+1 W W 1 W W W W W W 
+W W W W W W 1 W W A 
+W W W W A W W W W A 
+W F F W W W W W 1 W 
+F 0 0 F W W W W 1 W 
+W F F A 1 W W W W W 
+
+preproc 1 selesai
+L B L L L A A W W W 
+B 3 B L L L L A 1 W 
+L A L L L B L L L L 
+A L L L B 4 B L L L 
+1 B L 1 L B L L L L 
+L L L B L L 1 W W A 
+L L L L A L W W W A 
+L L L L L L W W 1 W 
+L 0 0 L B L L L 1 W 
+B L L A 1 L W W W W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+L B L L L A A L B L 
+B 3 B L L L L A 1 F 
+L A L L L B L L L L 
+A L L L B 4 B L L L 
+1 B L 1 L B L L L L 
+L L L B L L 1 L B A 
+L L L L A L B L L A 
+L L L L L L L B 1 L 
+L 0 0 L B L L L 1 B 
+B L L A 1 L L L F L 
+
+2000
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-66
+10
+10
+W F W W 1 W W W 1 W 
+1 0 F W W W W W 1 W 
+W F 0 F W 1 W A W W 
+W W F F W 1 W W W W 
+W W A 0 F W W W W 2 
+A W W F W W 1 A W W 
+W W W W A W W W W W 
+W W 3 F 0 F W 1 W F 
+W A W W F W W W A 0 
+F 0 F W W 1 W W W F 
+
+preproc 1 selesai
+W F W W 1 W W W 1 W 
+1 0 F W W W W W 1 W 
+W L 0 F W 1 W A W W 
+W L F F W 1 W W W W 
+W L A 0 F W W W W 2 
+A L L L W W 1 A W W 
+L L B L A W L W W W 
+L B 3 L 0 F L 1 W F 
+B A B L L L L L A 0 
+L 0 L B L 1 B L L L 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L L L B 1 L L B 1 L 
+1 0 L L L B L L 1 B 
+B L 0 L L 1 F A L L 
+L L L L B 1 L B L L 
+L L A 0 L L L L B 2 
+A L L L L B 1 A L B 
+L L B L A L L B L L 
+L B 3 L 0 L L 1 L L 
+B A B L L L L L A 0 
+L 0 L B L 1 B L L L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-67
+10
+10
+W 1 W W A W W W W W 
+W A W W W A W A 1 A 
+W 2 W W W W W W W W 
+W W W W 2 W W W W W 
+F A W W W W A W W 2 
+0 F W 1 W W W W A W 
+F W W W W 1 W W W W 
+W F W W W W W W A W 
+A 0 2 W A W W W 1 W 
+W F W W W 1 W W A W 
+
+preproc 1 selesai
+W 1 W W A W W W W W 
+W A W W W A W A 1 A 
+W 2 W W W W W W W W 
+W W W W 2 W W W W W 
+F A W W W W A W W 2 
+0 F W 1 W W W W A W 
+F W W W W 1 W W W W 
+W F W W W W W W A W 
+A 0 2 W A W W W 1 W 
+W F W W W 1 W W A W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L 1 B L A L L L B L 
+L A L B L A B A 1 A 
+B 2 L L B L L L L L 
+L B L L 2 B L L L L 
+L A L L L L A L B 2 
+0 L L 1 B L L L A B 
+L B L L L 1 L L B L 
+L L L L L B L L A L 
+A 0 2 B A L L B 1 L 
+L L B L L 1 B L A L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-68
+10
+10
+W W W F 0 F W W W W 
+W W W 2 A W W 2 W W 
+W 2 W W W W A W W W 
+W W 1 W W W W W 2 F 
+F W W W W W W W 1 0 
+0 A W W W W W W W F 
+F A W W W W W 1 F W 
+W W W 2 W F W F 0 F 
+W W 3 W F 0 1 W F W 
+W W W W W 1 W W W W 
+
+preproc 1 selesai
+L B L L 0 L L B L L 
+L L B 2 A L B 2 L B 
+B 2 L B L L A L B L 
+L B 1 L L L L B 2 L 
+L L F L W W L L 1 0 
+0 A L L L L L L B L 
+F A L L L L B 1 L W 
+W W W 2 W F L F 0 F 
+W W 3 W F 0 1 W F W 
+W W W W W 1 W W W W 
+
+L B L L 0 L L B L L 
+L L B 2 A L B 2 L B 
+B 2 L B L L A L B L 
+L B 1 L L L L B 2 L 
+L L F L L W L L 1 0 
+0 A L L L L L L B L 
+F A L L L L B 1 L W 
+W L W 2 B L L L 0 F 
+L B 3 B L 0 1 W F W 
+L L B L L 1 B L L L 
+
+[0, 0, 10, 0, 0, 0]
+L B L L 0 L L B L L 
+L L B 2 A L B 2 L B 
+B 2 L B L L A L B L 
+L B 1 L L L L B 2 L 
+L L F L L W L L 1 0 
+0 A L L L L L L B L 
+F A L L L L B 1 L W 
+W L W 2 B L L L 0 F 
+L B 3 B L 0 1 W F W 
+L L B L L 1 B L L L 
+
+[0, 0, 10, 0, 0, 0]
+L B L L 0 L L B L L 
+L L B 2 A L B 2 L B 
+B 2 L B L L A L B L 
+L B 1 L L L L B 2 L 
+L L F L L W L L 1 0 
+0 A L L L L L L B L 
+F A L L L L B 1 L W 
+W L W 2 B L L L 0 F 
+L B 3 B L 0 1 W F W 
+L L B L L 1 B L L L 
+
+[0, 0, 10, 0, 0, 0]
+L B L L 0 L L B L L 
+L L B 2 A L B 2 L B 
+B 2 L B L L A L B L 
+L B 1 L L L L B 2 L 
+L L F L L W L L 1 0 
+0 A L L L L L L B L 
+F A L L L L B 1 L W 
+W L W 2 B L L L 0 F 
+L B 3 B L 0 1 W F W 
+L L B L L 1 B L L L 
+
+[0, 0, 10, 0, 0, 0]
+L B L L 0 L L B L L 
+L L B 2 A L B 2 L B 
+B 2 L B L L A L B L 
+L B 1 L L L L B 2 L 
+L L F L L W L L 1 0 
+0 A L L L L L L B L 
+F A L L L L B 1 L W 
+W L W 2 B L L L 0 F 
+L B 3 B L 0 1 W F W 
+L L B L L 1 B L L L 
+
+[0, 0, 10, 0, 0, 0]
+L B L L 0 L L B L L 
+L L B 2 A L B 2 L B 
+B 2 L B L L A L B L 
+L B 1 L L L L B 2 L 
+L L F L L W L L 1 0 
+0 A L L L L L L B L 
+F A L L L L B 1 L W 
+W L W 2 B L L L 0 F 
+L B 3 B L 0 1 W F W 
+L L B L L 1 B L L L 
+
+[0, 0, 10, 0, 0, 0]
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L B L L 0 L L B L L 
+L L B 2 A L B 2 L B 
+B 2 L B L L A L B L 
+L B 1 L L L L B 2 L 
+L L L L L B L L 1 0 
+0 A L L L L L L B L 
+L A L L L L B 1 L L 
+B L L 2 B L L L 0 L 
+L B 3 B L 0 1 L L B 
+L L B L L 1 B L L L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-69
+10
+10
+W W A 2 W W W W W W 
+W W W W W A W A W W 
+W 1 W W W W W W W 2 
+W W W W W 1 W W W A 
+W 2 W 2 W W W W W W 
+F W W W W W 1 W 1 W 
+0 F W W A W W W W W 
+A W W W W W W W 1 W 
+W W A W 2 W F W W W 
+W W W W W F 0 1 W W 
+
+preproc 1 selesai
+W W A 2 B L L L L L 
+L L L B L A W A L B 
+W 1 L L L L L L B 2 
+W W L L L 1 W W L A 
+W 2 B 2 L W W W L W 
+L L L B L L 1 W 1 W 
+0 F L L A W W W W W 
+A W L L W W W W 1 W 
+W W A L 2 W F W W W 
+W W W L W F 0 1 W W 
+
+W W A 2 B L L L L L 
+L L L B L A L A L B 
+W 1 L L L L L L B 2 
+L B L L L 1 B L L A 
+W 2 B 2 L L L L L L 
+L L L B L L 1 B 1 L 
+0 F L L A L W L W L 
+A W L L W L W L 1 B 
+W W A L 2 B L L L L 
+L L L L B L 0 1 B L 
+
+[0, 0, 12, 0, 0, 0]
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3000
+[0, 0, 1, 0, 0, 1] 1000
+B L A 2 B L L L L L 
+L L L B L A L A L B 
+L 1 L L L L L L B 2 
+L B L L L 1 B L L A 
+L 2 B 2 L L L L L L 
+L L L B L L 1 B 1 L 
+0 L L L A L L L F L 
+A L L L L L B L 1 B 
+L B A L 2 B L L L L 
+L L L L B L 0 1 B L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-70
+10
+10
+1 W W A W F 0 F W A 
+W W W W W W F A W W 
+W 2 W W W W W W W F 
+A W W W W F W W F 0 
+W W W W 1 0 F W W F 
+W W W W A A W W W W 
+3 W W W W W W W W 1 
+W W W W W W W W 2 W 
+W W A W W W W W W W 
+A W W A W W 1 W W A 
+
+preproc 1 selesai
+1 W W A W F 0 L B A 
+W W W W W W L A L B 
+W 2 W W W W L L L L 
+A L W W W F L L L 0 
+L L W W 1 0 L B L L 
+B L L L A A B L L L 
+3 B L L L L L L L 1 
+B L L L L L L L 2 B 
+L L A L L L L L B L 
+A L B A L B 1 L L A 
+
+1 B L A L F 0 L B A 
+L L L W L W L A L B 
+B 2 B L L L L L L L 
+A L L L B L L L L 0 
+L L L W 1 0 L B L L 
+B L L L A A B L L L 
+3 B L L L L L L L 1 
+B L L L L L L L 2 B 
+L L A L L L L L B L 
+A L B A L B 1 L L A 
+
+[0, 0, 4, 0, 0, 0]
+1 B L A W F 0 L B A 
+L L L L W W L A L B 
+B 2 B L L L L L L L 
+A L L L W F L L L 0 
+L L L B 1 0 L B L L 
+B L L L A A B L L L 
+3 B L L L L L L L 1 
+B L L L L L L L 2 B 
+L L A L L L L L B L 
+A L B A L B 1 L L A 
+
+[0, 0, 6, 0, 0, 0]
+1 B L A W F 0 L B A 
+L L L L W W L A L B 
+B 2 B L L L L L L L 
+A L L L W F L L L 0 
+L L L B 1 0 L B L L 
+B L L L A A B L L L 
+3 B L L L L L L L 1 
+B L L L L L L L 2 B 
+L L A L L L L L B L 
+A L B A L B 1 L L A 
+
+[0, 0, 6, 0, 0, 0]
+1 B L A W F 0 L B A 
+L L L L W W L A L B 
+B 2 B L L L L L L L 
+A L L L W F L L L 0 
+L L L B 1 0 L B L L 
+B L L L A A B L L L 
+3 B L L L L L L L 1 
+B L L L L L L L 2 B 
+L L A L L L L L B L 
+A L B A L B 1 L L A 
+
+[0, 0, 6, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+[0, 0, 0, 0, 0, 0] 0
+1 B L A B L 0 L B A 
+L L L L L B L A L B 
+B 2 B L L L L L L L 
+A L L L L L L L L 0 
+L L L B 1 0 L B L L 
+B L L L A A B L L L 
+3 B L L L L L L L 1 
+B L L L L L L L 2 B 
+L L A L L L L L B L 
+A L B A L B 1 L L A 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-71
+10
+10
+W W W A W 2 W 2 W W 
+W W F 0 F W W W W W 
+1 W W F W W W W W F 
+W W W A W W A W A 0 
+2 W W W W W W W W F 
+W F W W W W W W W 1 
+A 0 F 1 W W 2 W W F 
+W F W W W W W W F 0 
+W W W W W W A W W F 
+W W 2 W A W A W W W 
+
+preproc 1 selesai
+B L L A W 2 B 2 B L 
+L L F 0 F W L L L W 
+1 L W F W W L L L F 
+B L L A W W A L A 0 
+2 B L L L L L L L L 
+L L L L L L L L B 1 
+A 0 F 1 W W 2 B L L 
+W F W W W W W L L 0 
+W W W W W W A L L L 
+W W 2 W A W A L L B 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+B L L A L 2 B 2 B L 
+L L L 0 L B L L L L 
+1 L B L L L L L L L 
+B L L A L L A L A 0 
+2 B L L L L L L L L 
+L L L L L L L L B 1 
+A 0 L 1 B L 2 B L L 
+L L L L L L B L L 0 
+B L L L L L A L L L 
+L B 2 B A L A L L B 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-72
+10
+10
+F W W W W F W W A W 
+0 F W 1 F 0 F W W W 
+F W 2 W W F W 2 W W 
+W W W W W W W W A W 
+W 1 W W A 2 W W W W 
+W W W W 1 A W W 2 W 
+W 2 W W W W W F W W 
+W W 2 W W W F 0 F W 
+W W W W 1 W 1 F W 1 
+W 1 W W W W W W W W 
+
+preproc 1 selesai
+F W W W W F L L A W 
+0 F W 1 F 0 L B L L 
+F W 2 W W L L 2 B L 
+L L L L L B L L A W 
+W 1 W W A 2 B L L L 
+W W W W 1 A L B 2 W 
+W 2 W W W W L L W W 
+W W 2 W W W L 0 F W 
+W W W W 1 W 1 F W 1 
+W 1 W W W W W W W W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L L L L B L L L A L 
+0 L B 1 L 0 L B L L 
+L B 2 L L L L 2 B L 
+L L L L L B L L A L 
+B 1 L L A 2 B L L L 
+L L L B 1 A L B 2 B 
+L 2 B L L L L L L L 
+L B 2 L F L L 0 L L 
+L L L L 1 B 1 L B 1 
+L 1 B L L L L L L L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-73
+10
+10
+F 0 F W W W W W W W 
+W F W W 2 A W W W 2 
+W W W W W W A W W W 
+W W 2 W A W F W W W 
+W 2 W F W F 0 F A W 
+W 2 F 0 F W F W 1 W 
+W W W F W 1 W 1 W W 
+F W W 2 W W W W W W 
+0 F W W A 1 W W W W 
+F W W W W W W W 2 W 
+
+preproc 1 selesai
+L 0 F W W W W W W W 
+L L W W 2 A W W W 2 
+L L F W W W A W W W 
+L B 2 F A W F W W W 
+L 2 B L L L 0 F A W 
+B 2 L 0 L W F W 1 W 
+L B L L L 1 W 1 W W 
+L L L 2 B L L L L L 
+0 L L B A 1 W W W W 
+F L L L W W W W 2 W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L 0 L L L L L L L B 
+L L L B 2 A L L B 2 
+L L L L B L A L L L 
+L B 2 L A L L B L L 
+L 2 B L L L 0 L A L 
+B 2 L 0 L B L L 1 L 
+L B L L L 1 L 1 B L 
+L L L 2 B L L L L L 
+0 L L B A 1 B L L L 
+L L L L L L L B 2 B 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-74
+10
+10
+W W A W W W 2 W W W 
+W F W F W W W 1 W W 
+F 0 F 0 F W F F W 2 
+1 F W A F F 0 0 F W 
+W W W F 0 A F F W W 
+W W F W 1 A W W W F 
+W F 0 A W W 2 W F 0 
+A W F W W W A W 1 F 
+W W 1 F W W W W W W 
+W W F 0 F W W 1 W W 
+
+preproc 1 selesai
+W W A W W W 2 W W W 
+W F W F W W W 1 W W 
+F 0 F 0 F W F F W 2 
+1 L W A F F 0 0 F W 
+B L L L 0 A F F W W 
+L L L B 1 A W W W F 
+L L 0 A F W 2 W F 0 
+A L F W W W A W 1 F 
+L B 1 F W W W W W W 
+B L L 0 F W W 1 W W 
+
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3000
+B L A L L B 2 B L L 
+L L L L B L L 1 L F 
+L 0 L 0 L L L L B 2 
+1 L B A L L 0 0 L B 
+B L L L 0 A F L L L 
+L L L B 1 A F L L L 
+L L 0 A L B 2 B L 0 
+A L L L B L A L 1 L 
+L B 1 L L L L L B L 
+B L L 0 L L B 1 L B 
+
+3000
+[0, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 10_hard papan ke-75
+10
+10
+W W W A W W W W W W 
+W 2 W F W W 1 W 2 W 
+W F F 0 F W W W W F 
+F 0 F F W W W 1 F 0 
+W F W W A 1 W W W F 
+W W W W 1 1 W W W W 
+A W A W W W W W A W 
+W W W W W W A W W W 
+W 4 W 2 W W W W A W 
+W W W W W W A W W W 
+
+preproc 1 selesai
+L B L A W W W W W W 
+L 2 B L L L 1 W 2 W 
+B L L 0 F W W W W F 
+L 0 L L W W W 1 F 0 
+L L L L A 1 W W W F 
+L L L B 1 1 W W W W 
+A L A L L W W W A W 
+L B L L L L A W W W 
+B 4 B 2 B L L L A W 
+L B L L L L A W W W 
+
+L B L A W L W L W W 
+L 2 B L L L 1 B 2 W 
+B L L 0 L L L L B L 
+L 0 L L L B L 1 L 0 
+L L L L A 1 L B L L 
+L L L B 1 1 B L L L 
+A L A L L W L L A W 
+L B L L L L A L W W 
+B 4 B 2 B L L L A W 
+L B L L L L A L W W 
+
+[0, 0, 12, 0, 0, 0]
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+[0, 0, 1, 0, 0, 1] 1000
+L B L A L L L L L B 
+L 2 B L L L 1 B 2 L 
+B L L 0 L L L L B L 
+L 0 L L L B L 1 L 0 
+L L L L A 1 L B L L 
+L L L B 1 1 B L L L 
+A L A L L F L L A L 
+L B L L L L A L B L 
+B 4 B 2 B L L L A B 
+L B L L L L A L B L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-76
+10
+10
+A A W W A W W W W A 
+F 0 F 2 W W W 1 A A 
+W 2 W W W A W W W W 
+W W F W W W W W 2 W 
+W F 0 F W W W W W A 
+A W F W W W W 1 W W 
+W A W W F W W W W W 
+W W W F 0 F F W 2 W 
+A 2 A W F F 0 F A W 
+A W W W W A F W A A 
+
+preproc 1 selesai
+A A L B A W W W W A 
+F 0 L 2 B L L 1 A A 
+W 2 B L L A W W W W 
+W W L L L W W W 2 W 
+W F 0 L L W W W L A 
+A W F L L W W 1 L L 
+B A L L L L L L B L 
+L B L L 0 F F L 2 B 
+A 2 A B L L 0 L A L 
+A B L L L A L B A A 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+A A L B A L L B L A 
+L 0 L 2 B L L 1 A A 
+L 2 B L L A L L B L 
+L B L L L L L L 2 B 
+B L 0 L L B L L L A 
+A L L L L L B 1 L L 
+B A L L L L L L B L 
+L B L L 0 L L L 2 B 
+A 2 A B L L 0 L A L 
+A B L L L A L B A A 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-77
+10
+10
+W W W W F 0 A W W W 
+W W A 1 W F W W F W 
+W W W W W W W F 0 F 
+1 W W 1 W A 2 W A W 
+A W W 1 W W W W W W 
+W W W F W W 2 W W A 
+W 1 F 0 A F 0 F W A 
+F 0 F F W W F W W W 
+W F W F W W 1 2 W W 
+W W F 0 A W W W W W 
+
+preproc 1 selesai
+W W W W F 0 A W W W 
+W W A 1 W F W W F W 
+W W W W W W W F 0 F 
+1 W W 1 W A 2 W A W 
+A W W 1 W W W W W W 
+W W W F W W 2 W W A 
+W 1 F 0 A F 0 F W A 
+F 0 F F W W F W W W 
+W F W F W W 1 2 W W 
+W W F 0 A W W W W W 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L L L B L 0 A L B L 
+B L A 1 L L L L L B 
+L L L L L L B L 0 L 
+1 B L 1 B A 2 L A L 
+A L B 1 L L B L L L 
+L L L L L B 2 L L A 
+B 1 L 0 A L 0 L L A 
+L 0 L L L L L B L L 
+L L L L B L 1 2 B L 
+L B L 0 A L B L L L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-78
+10
+10
+W W F W W A W W W W 
+W F 0 F W W 1 W W W 
+W W F W 1 W W W 3 W 
+W 2 W W F W W W W W 
+A W W F 0 1 W 2 W F 
+W W 2 F 0 1 W W F 0 
+W W W W F W W F 0 F 
+W 2 W W W 3 W W F W 
+W W W A W W W 1 W W 
+W W W W 1 W W W W W 
+
+preproc 1 selesai
+W W F W W A W W W W 
+W F 0 F W W 1 W W W 
+W W F W 1 W W W 3 W 
+W 2 W W F W W W W W 
+A W W F 0 1 W 2 W F 
+W W 2 F 0 1 W W F 0 
+W W W W F W W F 0 F 
+W 2 W W W 3 W W F W 
+W W W A W W W 1 W W 
+W W W W 1 W W W W W 
+
+first gwo selesai
+[2, 1, 2, 0, 0, 2] 2030
+L L L B L A B L L L 
+L L 0 L B L 1 L F L 
+L B L L 1 L L B 3 B 
+B 2 L L L L L L B L 
+A L B L 0 1 B 2 L L 
+L B 2 L 0 1 L B L 0 
+L L L L L B L L 0 L 
+F 2 B L C 3 C L L L 
+L B L A L B L 1 B L 
+L L L B 1 L L L L B 
+
+2030
+[2, 1, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-79
+10
+10
+W A W W W A W W W F 
+W W W 2 W W A W F 0 
+W W W W W W W W F F 
+W 1 W W W 1 W F 0 F 
+2 W W A W W W W F W 
+W W W W W W A W W A 
+W A W W A W W W 4 W 
+F W W W W W F W W W 
+0 F W 2 W F 0 F W W 
+F W W W A W F W A W 
+
+preproc 1 selesai
+W A W W W A L L B L 
+W W W 2 W W A L L 0 
+W W W W W W W L L L 
+W 1 W W W 1 W L 0 L 
+2 W W A L L L L L B 
+W W W W W L A L B A 
+W A W W A L L B 4 B 
+L L L L L L L L B L 
+0 F W 2 B L 0 L L L 
+F W W W A B L L A L 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+L A L F L A L L B L 
+L B L 2 B L A L L 0 
+L L L B L L L L L L 
+B 1 L L L 1 B L 0 L 
+2 F L A L L L L L B 
+B L L L L L A L B A 
+L A L B A L L B 4 B 
+L L L L L L L L B L 
+0 L B 2 B L 0 L L L 
+L B L L A B L L A L 
+
+2000
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-80
+10
+10
+W W W W W W 1 W 1 W 
+2 W W 2 W F 0 F W W 
+F F W W A W F W F W 
+0 0 F W W W W F 0 F 
+F F W W W W F 0 F W 
+W W 1 W W W W F W W 
+W 1 W W W W W W 1 1 
+W W W W W 1 W W W W 
+W W W A W W 1 W W A 
+W 2 W 1 W W W W W W 
+
+preproc 1 selesai
+B L L L L L 1 B 1 L 
+2 B L 2 B L 0 L L B 
+L L L B A B L L L L 
+0 0 F L W L W L 0 L 
+F F W L W L F 0 L L 
+W W 1 L L L L L B L 
+W 1 W L W L W F 1 1 
+W W W L W 1 L L L B 
+W W W A W W 1 W W A 
+W 2 W 1 W W W W W W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+B L L L L L 1 B 1 L 
+2 B L 2 B L 0 L L B 
+L L L B A B L L L L 
+0 0 L L L L L L 0 L 
+L L B L L L L 0 L L 
+L F 1 L L L L L B L 
+B 1 L L L L B L 1 1 
+L L L L B 1 L L L B 
+L B L A L F 1 L B A 
+L 2 B 1 L L B L L L 
+
+2000
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-81
+10
+10
+F 0 F W W A W A W W 
+W F W W 1 W A W W A 
+A W W W W W A W W W 
+W A 1 W W W W W W W 
+1 W W W W W W W 1 W 
+W A W W W W W W W 1 
+W W W F W W W 1 2 W 
+W W F 0 F W W W W A 
+1 W W A W 2 W W W W 
+W W 3 W A W W W 2 W 
+
+preproc 1 selesai
+L 0 L W W A B A L B 
+B L L L 1 W A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L W L L 1 L 
+L A L L L L L B L 1 
+L L L F L W L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+L 0 L W W A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 F L W L L L L 1 L 
+L A L L L L L B L 1 
+L L L F L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+[0, 0, 5, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L 0 L L F A B A L B 
+B L L L 1 B A L L A 
+A L B L L L A L L B 
+B A 1 L L L L L B L 
+1 L L B L L L L 1 L 
+L A L L L L L B L 1 
+L L L L L L L 1 2 B 
+B L L 0 L L L L B A 
+1 L B A B 2 B L L L 
+L B 3 B A L L B 2 B 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-82
+10
+10
+A A 2 W W W W W W A 
+W W W W A W W W W A 
+W W 3 W W W W A F 0 
+W W W W 2 W W W W F 
+W F W F W W A W 3 W 
+F 0 F 0 F W W W W W 
+W F W F W 1 W W W W 
+1 W 2 W W W W 1 W W 
+A W W W W 1 W W W W 
+0 F W W W W W A A A 
+
+preproc 1 selesai
+A A 2 B L L L L L A 
+L L B L A W W W W A 
+L B 3 L W W W A F 0 
+L L B L 2 W W W W F 
+W L L L W W A W 3 W 
+F 0 L 0 F W W W W W 
+W F L F W 1 W W W W 
+1 W 2 W W W W 1 W W 
+A W W W W 1 W W W W 
+0 F W W W W W A A A 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+A A 2 B L L L L L A 
+L L B L A L L L B A 
+L B 3 L B L L A L 0 
+L L B L 2 B L L L L 
+L L L L F L A B 3 B 
+L 0 L 0 L L L L B L 
+B L L L L 1 B L L L 
+1 F 2 B L L L 1 L L 
+A L B L L 1 L B L L 
+0 L L L L B L A A A 
+
+2000
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-83
+10
+10
+W 2 W W W W W W W W 
+W W W W A W 2 W W 2 
+W W W W W W A W W W 
+W A 1 W W A W W W W 
+W W W 2 W W F W 2 W 
+W 2 W W F F 0 F W W 
+W W W F 0 F F 1 A W 
+W W W 1 F W W W W W 
+A W W 2 W A W W F W 
+W W W W W W W F 0 F 
+
+preproc 1 selesai
+W 2 W L W W W W W W 
+W W W L A W 2 W W 2 
+W W F L W W A W W W 
+W A 1 B L A W W W W 
+W W L 2 L B L L 2 W 
+W 2 L B L L 0 F W W 
+W W L L 0 L L 1 A W 
+L L B 1 L L L B L L 
+A W L 2 B A B L L L 
+L L L B L L L L 0 F 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+B 2 L L L L L L L B 
+L B L L A B 2 B L 2 
+L L L L B L A L L B 
+L A 1 B L A L L B L 
+L B L 2 L B L L 2 L 
+L 2 L B L L 0 L B L 
+L B L L 0 L L 1 A L 
+L L B 1 L L L B L L 
+A L L 2 B A B L L L 
+L L L B L L L L 0 L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-84
+10
+10
+W W W W A W W W W W 
+W 1 A W W 2 W F A W 
+W F 0 F 2 W F 0 0 F 
+W W F W W W W F F W 
+W 4 W W W W W A W A 
+A W A W W W W W 1 W 
+W W W W W W W W W W 
+W 1 1 W W 2 W A W W 
+W 1 W W A W F 0 2 W 
+W W W W W 2 W F W W 
+
+preproc 1 selesai
+L B L L A L L B L L 
+L 1 A L B 2 F L A B 
+L L 0 F 2 B L 0 0 L 
+L B L L L L L L L L 
+B 4 B L L L L A B A 
+A B A W W L W F 1 F 
+L L W W W L W W F W 
+B 1 1 W W 2 W A W W 
+L 1 W W A B L 0 2 W 
+L W W W W 2 W F W W 
+
+L B L L A L L B L L 
+L 1 A L B 2 L L A B 
+L L 0 F 2 B L 0 0 L 
+L B L L L L L L L L 
+B 4 B L L L L A B A 
+A B A W L L L F 1 L 
+L L W W L L L W L L 
+B 1 1 L B 2 L A B L 
+L 1 B L A B L 0 2 B 
+L W L W W 2 B L L L 
+
+[0, 0, 9, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+[0, 0, 0, 0, 0, 0] 0
+L B L L A L L B L L 
+L 1 A L B 2 L L A B 
+L L 0 L 2 B L 0 0 L 
+L B L L L L L L L L 
+B 4 B L L L L A B A 
+A B A L L L L L 1 L 
+L L L L L L L B L L 
+B 1 1 L B 2 L A B L 
+L 1 B L A B L 0 2 B 
+L L L B L 2 B L L L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-85
+10
+10
+W W W A W W W W W W 
+W 2 W W W W 3 W A W 
+W W W 1 A W W W W W 
+W 2 W W W W W 1 W A 
+W W F W W W W A W W 
+F F 0 F W W W W W W 
+0 F 1 W W W W W A W 
+F W W W W A 1 W F W 
+W 4 W 2 W W W F 0 F 
+W W W W W W A W F W 
+
+preproc 1 selesai
+W W W A W W W W W W 
+W 2 W W W W 3 W A W 
+W W W 1 A W W W W W 
+W 2 W L L W W 1 W A 
+W L F L L W W A W L 
+F L 0 L L W W L W L 
+0 L 1 B L L L L A L 
+L B L L L A 1 B L L 
+B 4 B 2 B L L L 0 L 
+L B L L L L A L L B 
+
+first gwo selesai
+[1, 1, 1, 0, 0, 1] 1025
+L F L A L L L L B L 
+B 2 L L L B 3 B A B 
+L B C 1 A L B L L L 
+L 2 B L L L L 1 B A 
+L L L L L L L A L L 
+L L 0 L L L L L L L 
+0 L 1 B L L L L A L 
+L B L L L A 1 B L L 
+B 4 B 2 B L L L 0 L 
+L B L L L L A L L B 
+
+1025
+[1, 1, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-86
+10
+10
+W A W W W W A W W F 
+W W W 2 W W W W F 0 
+F W 2 W 2 W W 2 W F 
+0 F W W W W W F 2 W 
+F W W W W W F 0 F W 
+W W 2 W W W W F W W 
+W 3 W W W F W W W 2 
+W W A W F 0 F A W W 
+A W W W W F A W W W 
+W W W 1 W W W W A W 
+
+preproc 1 selesai
+W A W W W W A B L L 
+W L W 2 W W L L L 0 
+F L 2 W 2 L B 2 B L 
+0 L W W W W L F 2 B 
+L L W W W W L 0 L L 
+L B 2 W W W L F L L 
+B 3 L L L L L L B 2 
+L B A W F 0 L A L B 
+A L W W W F A W L L 
+W L W 1 W W W W A L 
+
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+B A L L B L A B L L 
+L L B 2 L L L L L 0 
+L L 2 B 2 L B 2 B L 
+0 L L L B L L L 2 B 
+L L B L L L L 0 L L 
+L B 2 L L B L L L L 
+B 3 L L L L L L B 2 
+L B A L L 0 L A L B 
+A L L L L L A B L L 
+L L B 1 L B L L A L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-87
+10
+10
+W W W W W W W W W W 
+W W 2 W 2 W W 3 W W 
+W 1 W 1 W W F W 2 W 
+W W W 1 W F 0 2 W W 
+W W W W W W F W A W 
+W 1 W W W W F W W W 
+W W A 2 W F 0 F W W 
+W A F W W W 1 W 2 W 
+W F 0 F W 1 W 3 W W 
+W W F W W W W W W W 
+
+preproc 1 selesai
+W W W W W W W W W W 
+W W 2 W 2 W W 3 W W 
+W 1 W 1 W W F W 2 W 
+W W W 1 W F 0 2 W W 
+W W W W W W F W A W 
+W 1 W W W W F W W W 
+W W A 2 W F 0 F W W 
+W A F W W W 1 W 2 W 
+W F 0 F W 1 W 3 W W 
+W W F W W W W W W W 
+
+first gwo selesai
+[0, 2, 5, 0, 0, 5] 5040
+L L L L B L L L L L 
+L F 2 B 2 L B 3 B L 
+L 1 B 1 L L L B 2 L 
+L F L 1 L L 0 2 B L 
+L L L B L L L L A L 
+L 1 L L L B L L L L 
+L B A 2 B L 0 F F L 
+L A L B L L 1 F 2 B 
+B L 0 L L 1 B 3 B L 
+L L L L L L L B L L 
+
+5040
+[0, 2, 5, 0, 0, 5]
+mencoba tingkat kesulitan 10_hard papan ke-88
+10
+10
+F 0 F F 0 F W W W W 
+W F W F 0 F W 2 W A 
+W 2 W W F W W W W W 
+W W W A W W 1 W W W 
+W W W W W W W W 2 A 
+A A W W W W W W W W 
+W W W 1 W W 1 W F W 
+F W W W W W W F 0 F 
+0 F 2 W W 1 W W F W 
+F W W W W A W W 1 W 
+
+preproc 1 selesai
+L 0 L L 0 F W W W W 
+L L B L 0 F W 2 W A 
+B 2 L B L L L L L L 
+L B L A W W 1 W W W 
+L L L W W W W W 2 A 
+A A L W W W W W W W 
+W W L 1 W W 1 W F W 
+F W L L W W W F 0 F 
+0 F 2 B L 1 W W F W 
+L L B L L A W W 1 W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L 0 L L 0 L L B L L 
+L L B L 0 L B 2 L A 
+B 2 L B L L L L L L 
+L B L A L L 1 L B L 
+L L L L L L B L 2 A 
+A A L L L L L L B L 
+L B L 1 B L 1 B L L 
+L L L L L B L L 0 L 
+0 L 2 B L 1 L L F L 
+L L B L L A B L 1 B 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-89
+10
+10
+W 2 W W W F 0 F W W 
+W W A W W F 0 F W 1 
+W W W W 2 W F W 1 W 
+1 A W W W W W W W W 
+W W W W W W W 1 W W 
+W W 2 W W W W W W W 
+W W W W W W W W A A 
+F A W W W 2 W F W W 
+0 F W 1 W W F 0 F W 
+F W W A W W W F 1 W 
+
+preproc 1 selesai
+W 2 W W W F 0 F W W 
+W W A W W F 0 F W 1 
+W W W W 2 W F W 1 W 
+1 A W W W W W W W W 
+W W W W W W W 1 W W 
+W W 2 W W W W W W W 
+W W W W W W W W A A 
+F A W W W 2 L L B L 
+0 F W 1 W W F 0 L L 
+F W W A W W W F 1 B 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L 2 B L L L 0 L L B 
+L B A L B L 0 L F 1 
+B L L L 2 B L L 1 L 
+1 A L L L L L L B L 
+L L B L L L L 1 L B 
+L B 2 L L L L B L L 
+B L L L L L L L A A 
+L A L L B 2 L L B L 
+0 L B 1 L B L 0 L L 
+L B L A L L B L 1 B 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-90
+10
+10
+W W W 2 W W 1 W W W 
+W W W W W W W A W W 
+W A 1 W W 1 F 0 F F 
+A W W W W F W F F 0 
+W W 1 W A 0 F F W F 
+F W W W 1 A F 0 F W 
+0 F W W W W W F F A 
+F W 1 W 1 W W 1 0 F 
+W W A W W W W W F W 
+W W W 1 W W 1 W W W 
+
+preproc 1 selesai
+W W W 2 W W 1 W L W 
+W W W W W W W A L W 
+W A 1 W W 1 F 0 L F 
+A W W W W F W F L 0 
+W W 1 W A 0 L L B L 
+F W W W 1 A F 0 L B 
+0 F W W W W W F L A 
+F W 1 W 1 W W 1 0 F 
+W W A W W W W W F W 
+W W W 1 W W 1 W W W 
+
+first gwo selesai
+[1, 0, 3, 0, 0, 3] 3005
+L L B 2 B L 1 B L L 
+L L L L L B L A L B 
+B A 1 B L 1 L 0 L L 
+A L F L L F L F L 0 
+B L 1 L A 0 L L B L 
+L L B C 1 A L 0 L B 
+0 L L L B L L L L A 
+L B 1 L 1 L B 1 0 L 
+L L A L L L L L L B 
+B L L 1 B L 1 B L L 
+
+3005
+[1, 0, 3, 0, 0, 3]
+mencoba tingkat kesulitan 10_hard papan ke-91
+10
+10
+W W W A 0 F W W W W 
+W W 1 W A 1 W W W W 
+W W W W W W W W A W 
+W W W W A W W W W 1 
+W 1 W W W W 2 W A A 
+A A W 3 W W W W 2 W 
+A W W W W A W W W W 
+W 3 W W F W W W W W 
+W W W F 0 2 W A W W 
+W W W W F A A W W W 
+
+preproc 1 selesai
+W W W A 0 L L L B L 
+W W 1 L A 1 L L L L 
+L L L L L B L L A B 
+W W L L A L B L L 1 
+W 1 L B L L 2 B A A 
+A A B 3 B L L L 2 B 
+A B L L L A L L B L 
+B 3 L L L B L L L L 
+L B L L 0 2 B A L L 
+L L L B L A A B L L 
+
+L L W A 0 L L L B L 
+L B 1 L A 1 L L L L 
+L L L L L B L L A B 
+L L L L A L B L L 1 
+B 1 L B L L 2 B A A 
+A A B 3 B L L L 2 B 
+A B L L L A L L B L 
+B 3 L L L B L L L L 
+L B L L 0 2 B A L L 
+L L L B L A A B L L 
+
+[0, 0, 1, 0, 0, 0]
+L L W A 0 L L L B L 
+L B 1 L A 1 L L L L 
+L L L L L B L L A B 
+L L L L A L B L L 1 
+B 1 L B L L 2 B A A 
+A A B 3 B L L L 2 B 
+A B L L L A L L B L 
+B 3 L L L B L L L L 
+L B L L 0 2 B A L L 
+L L L B L A A B L L 
+
+[0, 0, 1, 0, 0, 0]
+L L B A 0 L L L B L 
+L W 1 L A 1 L L L L 
+L L L L L B L L A B 
+L W L L A L B L L 1 
+B 1 L B L L 2 B A A 
+A A B 3 B L L L 2 B 
+A B L L L A L L B L 
+B 3 L L L B L L L L 
+L B L L 0 2 B A L L 
+L L L B L A A B L L 
+
+[0, 0, 2, 0, 0, 0]
+L L B A 0 L L L B L 
+L W 1 L A 1 L L L L 
+L L L L L B L L A B 
+L W L L A L B L L 1 
+B 1 L B L L 2 B A A 
+A A B 3 B L L L 2 B 
+A B L L L A L L B L 
+B 3 L L L B L L L L 
+L B L L 0 2 B A L L 
+L L L B L A A B L L 
+
+[0, 0, 2, 0, 0, 0]
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L L F A 0 L L L B L 
+L B 1 L A 1 L L L L 
+L L L L L B L L A B 
+L L L L A L B L L 1 
+B 1 L B L L 2 B A A 
+A A B 3 B L L L 2 B 
+A B L L L A L L B L 
+B 3 L L L B L L L L 
+L B L L 0 2 B A L L 
+L L L B L A A B L L 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-92
+10
+10
+W W 1 W W W 1 W W W 
+W W W W W W W W W W 
+W W A 1 W W 1 1 W 2 
+A W A W W W W A W W 
+W W W W W W W W W W 
+W W W W W W W W W W 
+W W A F W W W 2 W 1 
+1 W 1 0 F W 1 0 F W 
+W W W F W W W F W W 
+W W W 1 W W W 1 W W 
+
+preproc 1 selesai
+W W 1 W W W 1 W W W 
+W W W W W W W W W W 
+W W A 1 W W 1 1 W 2 
+A W A W W W W A W W 
+W W W W W W W W W W 
+W W W W W W W W W W 
+W W A F W W W 2 W 1 
+1 W 1 0 F W 1 0 F W 
+W W W F W W W F W W 
+W W W 1 W W W 1 W W 
+
+first gwo selesai
+[1, 1, 9, 0, 0, 4] 4030
+B L 1 B L L 1 B L L 
+L L L L L L L L L B 
+L L A 1 L B 1 1 B 2 
+A L A B L L L A L F 
+W L W L L L L L L W 
+L L L L L L L B L L 
+F L A L L L B 2 L 1 
+1 B 1 0 L L 1 0 L B 
+L L F F L L F F L L 
+B L L 1 B L L 1 C L 
+
+4030
+[1, 1, 9, 0, 0, 4]
+mencoba tingkat kesulitan 10_hard papan ke-93
+10
+10
+W W A F W A W W 1 W 
+1 W F 0 F W W W W W 
+W W W F W W W W W A 
+W W W W A A W W 2 W 
+1 W W A W W 2 W W W 
+W W W 2 W F 1 W W 1 
+W 2 W W A 0 F W W W 
+A W W W W F W W W W 
+W W W W W W A W W 1 
+W A W W 2 W W 1 W W 
+
+preproc 1 selesai
+W W A L B A L L 1 W 
+1 W F 0 L W L L W W 
+W W W F L W L L W A 
+W W W W A A B L 2 W 
+1 W W A L B 2 L W W 
+W W W 2 B L 1 B L 1 
+W 2 W W A 0 F L W W 
+A W W W W F W L W W 
+W W W W W W A L W 1 
+W A W W 2 W W 1 W W 
+
+first gwo selesai
+[0, 0, 2, 0, 0, 2] 2000
+F L A L B A L L 1 B 
+1 B L 0 L B L L L L 
+L L L L L L L L B A 
+B L L L A A B L 2 B 
+1 L L A L B 2 L L L 
+L L B 2 B L 1 B L 1 
+B 2 L L A 0 L L L B 
+A B L L L L L L L L 
+L L L L B L A L B 1 
+B A L B 2 L B 1 L F 
+
+2000
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-94
+10
+10
+W W W F F 0 F W W W 
+W W F 0 F F 0 F W W 
+W W W A W W F W W W 
+F 1 F 0 F F 0 1 1 W 
+0 F W F W W F W W W 
+F W W F W W W W F A 
+W 2 A 0 F W 1 F 0 F 
+W W W F W F 0 F F W 
+W W W 1 W F 0 F W W 
+W W W W 2 W F W W W 
+
+preproc 1 selesai
+W L W F F 0 F W W W 
+W L F 0 F F 0 F W W 
+L B L A W W F W W W 
+F 1 F 0 F F 0 1 1 W 
+0 F W F W W F W W W 
+F W W F W W W W F A 
+W 2 A 0 F W 1 F 0 F 
+W W W F W F 0 F F W 
+W W W 1 W F 0 F W W 
+W W W W 2 W F W W W 
+
+W L W F L 0 F W W L 
+W L F 0 L L 0 F W L 
+L B L A L L F W W L 
+F 1 F 0 L L 0 1 1 B 
+0 L L L L L L B L L 
+L L L L L L B L L A 
+B 2 A 0 L L 1 L 0 F 
+L B L L L L 0 L F W 
+L L W 1 B L 0 L W W 
+L L W W 2 B L L L L 
+
+[0, 0, 23, 0, 0, 0]
+W L W F L 0 F L W L 
+W L F 0 L L 0 L W L 
+L B L A L L L B L L 
+F 1 F 0 L L 0 1 1 B 
+0 F W F L L L W W L 
+L L L L L L B L L A 
+B 2 A 0 L L 1 F 0 F 
+L B L L L L 0 F F W 
+L L W 1 B L 0 F W W 
+L L W W 2 B L L L L 
+
+[0, 0, 26, 0, 0, 0]
+first gwo selesai
+[0, 0, 0, 0, 0, 0] 0
+L L B L L 0 L B L L 
+B L L 0 L L 0 L L B 
+L B L A L L L L B L 
+L 1 L 0 L L 0 1 1 L 
+0 L L L L L L B L L 
+L L L L L L B L L A 
+B 2 A 0 L L 1 L 0 L 
+L B L L L L 0 L L B 
+L L L 1 B L 0 L B L 
+L L B L 2 B L L L L 
+
+0
+[0, 0, 0, 0, 0, 0]
+mencoba tingkat kesulitan 10_hard papan ke-95
+10
+10
+W F 0 F W W W W A W 
+A W F W W W W W W W 
+W W W 4 W A W W W 1 
+W W W W A 2 W 2 W W 
+W W 1 A W W 2 W W W 
+W W W A W W A A W W 
+W W 2 W 1 A W W W W 
+1 W W W 1 W 1 W W W 
+W W W W W W W W W A 
+W A W W W W W A W W 
+
+preproc 1 selesai
+B L 0 L L W L W A B 
+A L L B L L L L L L 
+L L B 4 B A L W W 1 
+L L L B A 2 B 2 W W 
+W W 1 A L B 2 F W W 
+W W W A B L A A W W 
+W W 2 F 1 A W W W W 
+1 W W W 1 W 1 W W W 
+W W W W W W W W W A 
+W A W W W W W A W W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+B L 0 L L B L L A B 
+A L L B L L L L L L 
+L L B 4 B A L B L 1 
+L L L B A 2 B 2 L B 
+B L 1 A L B 2 L B L 
+L L B A B L A A L L 
+L B 2 L 1 A F L L L 
+1 L L B 1 L 1 B L L 
+B L L L L L L L L A 
+L A L L L B L A L B 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-96
+10
+10
+W A A W W W W W W F 
+W W W W W W W 3 F 0 
+W 2 W A W A W W W A 
+W W W W F W W 3 W W 
+W W A F 0 A W W W W 
+W W W W A A W A W W 
+W W 4 W W W W W W W 
+A W W W 1 W 1 W 1 W 
+0 F 1 W W W W W W W 
+F W W W W W W 1 A W 
+
+preproc 1 selesai
+L A A L L L L B L L 
+L L L L L L B 3 L 0 
+B 2 B A B A L B L A 
+L L L L L B L 3 B L 
+L L A L 0 A L B L L 
+L L B L A A L A L W 
+L B 4 B L L L L L L 
+A L B L 1 W 1 W 1 W 
+0 L 1 L W W W W W W 
+F L F L W W W 1 A W 
+
+first gwo selesai
+[0, 0, 1, 0, 0, 1] 1000
+L A A L L L L B L L 
+L L L L L L B 3 L 0 
+B 2 B A B A L B L A 
+L L L L L B L 3 B L 
+L L A L 0 A L B L L 
+L L B L A A L A L L 
+L B 4 B L L L L L L 
+A L B L 1 F 1 B 1 L 
+0 L 1 L B L L L L L 
+L L L L L L B 1 A B 
+
+1000
+[0, 0, 1, 0, 0, 1]
+mencoba tingkat kesulitan 10_hard papan ke-97
+10
+10
+0 F W W W W F 0 F 0 
+F W W 2 W A W F W F 
+0 F W W F W 2 W W W 
+F W 1 F 0 F W W 2 W 
+W A W W F W 1 W W W 
+W W W 1 W W W W 2 W 
+W 2 W W W 1 W 1 W F 
+W W W A F W W W F 0 
+W W W F 0 F 1 W W F 
+1 W 2 W F W W W W A 
+
+preproc 1 selesai
+0 F W W W W F 0 F 0 
+F W W 2 W A W F W F 
+0 F W W F W 2 W W W 
+F W 1 F 0 F W W 2 W 
+W A W W F W 1 W W W 
+W W W 1 W W W W 2 W 
+W 2 W W W 1 W 1 W F 
+W W W A F W W W F 0 
+W W W F 0 F 1 W W F 
+1 W 2 W F W W W W A 
+
+first gwo selesai
+[1, 0, 5, 0, 0, 5] 5005
+0 L L B L L L 0 L 0 
+L B L 2 B A L L B L 
+0 L B L L L 2 B L L 
+L L 1 F 0 L B L 2 B 
+L A L F L F 1 C B L 
+L F L 1 B L L L 2 L 
+B 2 B L L 1 F 1 B L 
+L L L A L B L L L 0 
+L L L L 0 L 1 B L L 
+1 B 2 B L L L L L A 
+
+5005
+[1, 0, 5, 0, 0, 5]
+mencoba tingkat kesulitan 10_hard papan ke-98
+10
+10
+W W W 1 W W W W W W 
+W 1 W W A W W W 2 W 
+W W W W A W F W W F 
+W W W 1 W F 0 F F 0 
+W W W W W W F 1 A F 
+W 2 A F W W W W W W 
+1 W F 0 F F A W W W 
+W F W F F 0 F W F W 
+F 0 F W W 1 W F 0 F 
+W F W W W W A W F W 
+
+preproc 1 selesai
+W W W 1 W W W W W W 
+W 1 W W A W W W 2 W 
+W L W F A L L L B L 
+W L F 1 B L 0 F L 0 
+L B L L L L L 1 A L 
+F 2 A L L L L B L L 
+1 B L 0 L F A L B L 
+L L B L L 0 L L L L 
+L 0 L B L 1 B L 0 L 
+B L L L L L A L L B 
+
+L W W 1 W W W L W W 
+B 1 L B A L L B 2 W 
+L L W L A L L L B L 
+L L F 1 B L 0 L L 0 
+L B L L L L L 1 A L 
+L 2 A L L L L B L L 
+1 B L 0 L F A L B L 
+L L B L L 0 L L L L 
+L 0 L B L 1 B L 0 L 
+B L L L L L A L L B 
+
+[0, 0, 11, 0, 0, 0]
+L L B 1 L L L L B L 
+B 1 L W A W W W 2 W 
+L L L F A L L L B L 
+L L L 1 B L 0 F L 0 
+L B L L L L L 1 A L 
+L 2 A L L L L B L L 
+1 B L 0 L F A L B L 
+L L B L L 0 L L L L 
+L 0 L B L 1 B L 0 L 
+B L L L L L A L L B 
+
+[0, 0, 8, 0, 0, 0]
+first gwo selesai
+[0, 0, 3, 0, 0, 3] 3000
+[0, 0, 2, 0, 0, 2] 2000
+L F L 1 L B L L L L 
+B 1 L B A L L B 2 F 
+L L B L A L L L B L 
+L L L 1 B L 0 L L 0 
+L B L L L L L 1 A L 
+L 2 A L L L L B L L 
+1 B L 0 L L A L B L 
+L L B L L 0 L L L L 
+L 0 L B L 1 B L 0 L 
+B L L L L L A L L B 
+
+2000
+[0, 0, 2, 0, 0, 2]
+mencoba tingkat kesulitan 10_hard papan ke-99
+10
+10
+W W W W W W 1 W F W 
+W 2 W W 2 W W F 0 F 
+W W W F F W W W F W 
+1 W F 0 0 F A W W W 
+W W W F F W 1 W 1 W 
+W 1 F 0 F W W W W W 
+W W W 1 W 1 2 W W 1 
+W F W W W W W W W W 
+F 0 F W W 1 W W A W 
+W F W 1 W W W W W W 
+
+preproc 1 selesai
+W W W W W W 1 W F W 
+W 2 W W 2 W W F 0 F 
+W W W F F W W W F W 
+1 W F 0 0 F A W W W 
+W W W F F W 1 W 1 W 
+W 1 F 0 F W W W W W 
+W W W 1 W 1 2 W W 1 
+W F W W W W W W W W 
+F 0 F W W 1 W W A W 
+W F W 1 W W W W W W 
+
+first gwo selesai
+[1, 0, 3, 0, 0, 3] 3005
+L L L L B L 1 B L L 
+B 2 L F 2 B L L 0 L 
+L B L L L L L L L L 
+1 L L 0 0 L A L F L 
+B L L L L L 1 C 1 B 
+L 1 L 0 L L B L L L 
+L B L 1 B 1 2 L B 1 
+L L L L L L B L L L 
+L 0 L F L 1 L L A B 
+L L B 1 L B L L L L 
+
+3005
+[1, 0, 3, 0, 0, 3]
+22 dari 100 papan selesai
+persentase keberhasilan sebesar 0.22 persen
